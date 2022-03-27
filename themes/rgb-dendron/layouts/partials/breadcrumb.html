@@ -1,0 +1,20 @@
+<p>
+    {{ template "breadcrumb-item" (dict "step" . "start" .) }}
+</p>
+
+{{ define "breadcrumb-item" }}
+  {{ if .step.Parent }}
+    {{ template "breadcrumb-item" (dict "step" .step.Parent "start" .start )  }}
+  {{ else if not .step.IsHome }}
+    {{ template "breadcrumb-item" (dict "step" .step.Site.Home "start" .start )  }}
+  {{ end }}
+
+  {{ $crumb := .Page.Type }}
+  {{ if .step.Params.crumb }}{{ $crumb = .step.Params.crumb }}
+  {{ else if .step.Params.Cite }}{{ $crumb = .step.Params.Cite.Name }}
+  {{ else if .step.Title }}{{ $crumb = .step.Title }}
+  {{ else if .step.Params.slug }}{{ $crumb = .step.Params.Slug }}
+  {{ end }}
+
+  / <a {{ with .step.IsHome }}rel="me" {{ end }}href="{{ .step.RelPermalink }}">{{ $crumb }}</a>
+{{ end }}

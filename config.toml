@@ -1,3 +1,15 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = "rgb-dendron"
+
+#[outputs]
+#home = ["HTML", "RSS", "JSON"]
+
+[params]
+disableBreadcrumb = false
+
+[params.dendron]
+rootPath = "C:/Users/brian/Dendron-Mono"
+vaultPath = "vault"
+cacheFile = ".dendron.cache.json"
