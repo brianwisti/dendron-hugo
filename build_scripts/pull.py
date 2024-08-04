@@ -5,17 +5,17 @@ import json
 import logging
 import os.path
 import shutil
-import uuid
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any
+from typing import Any, cast
 
 import arrow
 import frontmatter
 import rich
-import toml
+import tomllib
 from rich.logging import RichHandler
 from sqlite_utils import Database
+from sqlite_utils.db import Table
 
 logging.basicConfig(
     level="INFO", format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
@@ -41,22 +41,16 @@ class Paths:
     #: Which vault to pull
     vault: Path
 
-    #: Points to a JSON state snapshot for the vault
-    cache: Path
-
     @classmethod
     def from_hugo_config(cls, hugo_config: dict[str, Any]) -> "Paths":
         """Define Paths from values in a Hugo site config."""
         logging.info("Setting paths from Hugo config")
         dendron_config = hugo_config["params"]["dendron"]
         content_path = Path("content")
-        dendron_root = Path(dendron_config["rootPath"])
+        dendron_root = Path(dendron_config["rootPath"]).expanduser()
         vault_path = dendron_root / dendron_config["vaultPath"]
-        cache_path = vault_path / dendron_config["cacheFile"]
 
-        return cls(
-            content=content_path, root=dendron_root, vault=vault_path, cache=cache_path
-        )
+        return cls(content=content_path, root=dendron_root, vault=vault_path)
 
 
 def main():
@@ -75,7 +69,7 @@ def load_hugo_config(config_path: Path) -> dict[str, Any]:
     """Return parsed config for a Hugo site."""
     logging.info("Loading Hugo config from '%s'", config_path)
 
-    return toml.loads(config_path.read_text(encoding="utf-8"))
+    return tomllib.loads(config_path.read_text(encoding="utf-8"))
 
 
 def reset_hugo_content(content_dir: Path) -> None:
@@ -184,14 +178,14 @@ def create_database() -> Database:
 def load_notes(db: Database, paths: Paths) -> None:
     """Populate db with meta and content for vault notes."""
     logging.info("Loading notes from '%s'", paths.vault)
-    load_notes_from_cache(db, paths.cache)
     load_note_contents_from_vault(db, paths.vault)
     # add_slugs_for_missing_parents(db)
 
 
 def load_notes_from_cache(db: Database, cache_path: Path) -> None:
     """Populate db with note data from Dendron cache."""
-    notes_columns = [column.name for column in db["notes"].columns]
+    notes = cast(Table, db["notes"])
+    notes_columns = [column.name for column in notes.columns]
     logging.debug("'notes' columns: %s", notes_columns)
     cache = load_dendron_cache(cache_path)
 
@@ -208,17 +202,17 @@ def load_notes_from_cache(db: Database, cache_path: Path) -> None:
             timestamp = int(data[field])
             data[field] = arrow.get(timestamp).format(TIMESTAMP_FORMAT)
 
-        db["notes"].insert(data)
+        notes.insert(data)
 
     logging.info("Notes loaded from cache: %s", db["notes"].count)
 
     # Make sure root is the top node
-    root_note = db["notes"].get("root")
+    root_note = notes.get("root")
 
     for orphan in db["notes"].rows_where("parent is null and fname != 'root'"):
         logging.info("Set 'root' as parent for '%s'", orphan["fname"])
         logging.debug(orphan)
-        db["notes"].update(orphan["fname"], {"parent": root_note["id"]})
+        notes.update(orphan["fname"], {"parent": root_note["id"]})
 
 
 def load_dendron_cache(cache_path: Path) -> dict[str, Any]:
@@ -231,9 +225,11 @@ def load_dendron_cache(cache_path: Path) -> dict[str, Any]:
 def load_note_contents_from_vault(db: Database, vault_path: Path) -> None:
     """Populate db with note contents from Vault files."""
     logging.info("Loading note contents from '%s'", vault_path)
+    notes = cast(Table, db["notes"])
+    note_files = cast(Table, db["note_files"])
 
     for note_path in vault_path.glob("*.md"):
-        logging.debug("Note path: '%s'", note_path)
+        logging.info("Note path: '%s'", note_path)
         fname = note_path.stem
 
         if fname.startswith("@"):
@@ -246,7 +242,18 @@ def load_note_contents_from_vault(db: Database, vault_path: Path) -> None:
             content_path = Path(fname) / "index.md"
 
         post = frontmatter.loads(note_path.read_text(encoding="utf-8"))
-        db["note_files"].insert(
+        data = {
+            "id": post["id"],
+            "title": post["title"],
+            "desc": post["desc"],
+        }
+
+        for field in TIMESTAMP_FIELDS:
+            timestamp = int(post[field])
+            data[field] = arrow.get(timestamp).format(TIMESTAMP_FORMAT)
+
+        notes.insert(data)
+        note_files.insert(
             {
                 "fname": fname,
                 "content": post.content,
@@ -261,6 +268,8 @@ def add_slugs_for_missing_parents(db: Database) -> None:
     """Fake some notes for defined parents that haven't been created."""
     missing_parents = db["missing_parents"]
     root = get_root(db)
+    notes = cast(Table, db["notes"])
+    note_files = cast(Table, db["note_files"])
 
     for row in db["missing_parents"].rows:
         rich.print(row)
@@ -277,7 +286,7 @@ def add_slugs_for_missing_parents(db: Database) -> None:
 
         rich.print(fname)
         parent_path = Path(fname) / "index.md"
-        db["notes"].insert(
+        notes.insert(
             {
                 "id": parent_id,
                 "parent": root["id"],
@@ -288,7 +297,7 @@ def add_slugs_for_missing_parents(db: Database) -> None:
                 "fname": fname,
             }
         )
-        db["note_files"].insert(
+        note_files.insert(
             {"fname": fname, "content": "SLUG", "content_path": str(parent_path)}
         )
 
@@ -313,7 +322,8 @@ def write_notes_for_hugo(db: Database, content_path: Path) -> None:
 def prepare_note_meta(db: Database, fname: str) -> dict[str, Any]:
     """Return dictionary to use as frontmatter for a note."""
     logging.debug("Preparing meta for '%s'", fname)
-    note = db["notes"].get(fname)
+    notes = cast(Table, db["notes"])
+    note = notes.get(fname)
     meta = {
         "title": note["title"],
         "desc": note["desc"],
@@ -359,7 +369,8 @@ def get_parent(db: Database, fname: str) -> dict[str, Any]:
 
 def get_root(db: Database) -> dict[str, Any]:
     """Return data for our root note."""
-    return db["notes"].get("root")
+    notes = cast(Table, db["notes"])
+    return notes.get("root")
 
 
 if __name__ == "__main__":

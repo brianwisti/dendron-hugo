@@ -10,6 +10,6 @@ theme = "rgb-dendron"
 disableBreadcrumb = false
 
 [params.dendron]
-rootPath = "C:/Users/brian/Dendron-Mono"
-vaultPath = "vault"
+rootPath = "~/Documents/dendron-brain"
+vaultPath = "notes"
 cacheFile = ".dendron.cache.json"
