@@ -1,10 +1,11 @@
 """Pull notes from Dendron to Hugo."""
 
 import datetime as dt
-import json
 import logging
+import os
 import os.path
 import shutil
+import sys
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, cast
@@ -12,10 +13,12 @@ from typing import Any, cast
 import arrow
 import frontmatter
 import rich
-import tomllib
+from dotenv import load_dotenv
 from rich.logging import RichHandler
 from sqlite_utils import Database
-from sqlite_utils.db import Table
+from sqlite_utils.db import NotFoundError, Table
+
+load_dotenv()
 
 logging.basicConfig(
     level="INFO", format="%(message)s", datefmt="[%X]", handlers=[RichHandler()]
@@ -32,8 +35,8 @@ TIMESTAMP_FORMAT = "YYYY-MM-DD HH:mm:ss"
 class Paths:
     """Holds the paths we want to remember."""
 
-    #: Where Hugo looks for content files
-    content: Path
+    #: Where to find the Hugo site.
+    site: Path
 
     #: What Dendron workspace to pull from
     root: Path
@@ -42,34 +45,60 @@ class Paths:
     vault: Path
 
     @classmethod
-    def from_hugo_config(cls, hugo_config: dict[str, Any]) -> "Paths":
-        """Define Paths from values in a Hugo site config."""
-        logging.info("Setting paths from Hugo config")
-        dendron_config = hugo_config["params"]["dendron"]
-        content_path = Path("content")
-        dendron_root = Path(dendron_config["rootPath"]).expanduser()
-        vault_path = dendron_root / dendron_config["vaultPath"]
+    def from_env(cls) -> "Paths":
+        """Return Paths from environment variables."""
+        root_dir = os.getenv("DENDRON_ROOT_DIR")
+        vault_subdir = os.getenv("DENDRON_VAULT_SUBDIR")
+        hugo_site_dir = os.getenv("HUGO_SITE_DIR")
 
-        return cls(content=content_path, root=dendron_root, vault=vault_path)
+        assert root_dir, "DENDRON_ROOT_DIR not set"
+        assert vault_subdir, "DENDRON_VAULT_SUBDIR not set"
+        assert hugo_site_dir, "HUGO_SITE_DIR not set"
+
+        logging.info("Root: '%s'", root_dir)
+        logging.info("Vault: '%s'", vault_subdir)
+        logging.info("Hugo site: '%s'", hugo_site_dir)
+
+        site_path = Path(hugo_site_dir).expanduser()
+        root_path = Path(root_dir).expanduser()
+        vault_path = root_path / vault_subdir
+
+        if not site_path.exists():
+            raise FileNotFoundError(f"Site path not found: '{site_path}'")
+
+        if not root_path.exists():
+            raise FileNotFoundError(f"Root path not found: '{root_path}'")
+
+        if not vault_path.exists():
+            raise FileNotFoundError(f"Vault path not found: '{vault_path}'")
+
+        return cls(
+            site=site_path,
+            root=root_path,
+            vault=vault_path,
+        )
+
+    @property
+    def site_content(self) -> Path:
+        """Return the content path."""
+        return self.site / "content"
 
 
 def main():
     """Pull notes from Dendron to Hugo"""
-    hugo_config_path = Path("config.toml")
-    hugo_config = load_hugo_config(hugo_config_path)
-    paths = Paths.from_hugo_config(hugo_config)
-    reset_hugo_content(paths.content)
+    try:
+        paths = Paths.from_env()
+    except FileNotFoundError as error:
+        logging.error(error)
+        return
+
     db = create_database()
     load_notes(db, paths)
-    write_notes_for_hugo(db, paths.content)
+    logging.info("Notes in db: %s", db["notes"].count)
+    logging.info("Note files in db: %s", db["note_files"].count)
+    reset_hugo_content(paths.site_content)
+    write_notes_for_hugo(db, paths.site_content)
     summarize_data(db)
-
-
-def load_hugo_config(config_path: Path) -> dict[str, Any]:
-    """Return parsed config for a Hugo site."""
-    logging.info("Loading Hugo config from '%s'", config_path)
-
-    return tomllib.loads(config_path.read_text(encoding="utf-8"))
 
 
 def reset_hugo_content(content_dir: Path) -> None:
@@ -83,6 +112,7 @@ def create_database() -> Database:
     """Return in-memory database ready to load notes."""
     logging.info("Creating database")
     db = Database(memory=True)
+    # db = Database("dendron.db", recreate=True)
 
     logging.info("Defining schema for 'notes'")
     db.create_table(
@@ -121,7 +151,7 @@ def create_database() -> Database:
         FROM
             notes child
         INNER JOIN notes parent
-            on parent.id = child.parent
+            on parent.fname = child.parent
         INNER JOIN note_files existing_file
             on existing_file.fname == child.fname
     """,
@@ -139,7 +169,7 @@ def create_database() -> Database:
         FROM
             notes parent
         INNER JOIN notes child
-            on parent.id = child.parent
+            on parent.fname = child.parent
         INNER JOIN note_files existing_file
             on existing_file.fname == parent.fname
         """,
@@ -182,44 +212,29 @@ def load_notes(db: Database, paths: Paths) -> None:
     # add_slugs_for_missing_parents(db)
 
 
-def load_notes_from_cache(db: Database, cache_path: Path) -> None:
-    """Populate db with note data from Dendron cache."""
-    notes = cast(Table, db["notes"])
-    notes_columns = [column.name for column in notes.columns]
-    logging.debug("'notes' columns: %s", notes_columns)
-    cache = load_dendron_cache(cache_path)
+def build_note_tree(fnames: list[str]) -> dict[str, str]:
+    """Return a tree of notes from a list of fnames."""
+    root_note = "root"
+    tree = {}
+    tree[root_note] = ""
+    non_root_fnames = [fname for fname in fnames if fname != root_note]
 
-    for fname, note_cache in cache["notes"].items():
-        logging.debug("Loading note '%s'", fname)
-        data = {column: note_cache["data"][column] for column in notes_columns}
-        logging.debug(data)
+    for current_fname in non_root_fnames:
+        parent = root_note
+        candidates = sorted(
+            [
+                fname
+                for fname in fnames
+                if fname != current_fname and current_fname.startswith(f"{fname}.")
+            ]
+        )
 
-        # should never happen, but that's the very definition of an exception.
-        if fname != data["fname"]:
-            raise ValueError(f"fname mismatch: '{fname}' != '{data['fname']}'")
+        if candidates:
+            parent = candidates[-1]
 
-        for field in TIMESTAMP_FIELDS:
-            timestamp = int(data[field])
-            data[field] = arrow.get(timestamp).format(TIMESTAMP_FORMAT)
+        tree[current_fname] = parent
 
-        notes.insert(data)
-
-    logging.info("Notes loaded from cache: %s", db["notes"].count)
-
-    # Make sure root is the top node
-    root_note = notes.get("root")
-
-    for orphan in db["notes"].rows_where("parent is null and fname != 'root'"):
-        logging.info("Set 'root' as parent for '%s'", orphan["fname"])
-        logging.debug(orphan)
-        notes.update(orphan["fname"], {"parent": root_note["id"]})
-
-
-def load_dendron_cache(cache_path: Path) -> dict[str, Any]:
-    """Return details parsed from a Dendron cache file."""
-    logging.info("Loading Dendron cache from '%s'", cache_path)
-
-    return json.loads(cache_path.read_text(encoding="utf-8"))
+    return tree
 
 
 def load_note_contents_from_vault(db: Database, vault_path: Path) -> None:
@@ -228,8 +243,12 @@ def load_note_contents_from_vault(db: Database, vault_path: Path) -> None:
     notes = cast(Table, db["notes"])
     note_files = cast(Table, db["note_files"])
 
+    note_paths = list(vault_path.glob("*.md"))
+    fnames = [note_path.stem for note_path in note_paths]
+    tree = build_note_tree(fnames)
+
     for note_path in vault_path.glob("*.md"):
-        logging.info("Note path: '%s'", note_path)
+        logging.debug("Note path: '%s'", note_path)
         fname = note_path.stem
 
         if fname.startswith("@"):
@@ -246,6 +265,8 @@ def load_note_contents_from_vault(db: Database, vault_path: Path) -> None:
             "id": post["id"],
             "title": post["title"],
             "desc": post["desc"],
+            "fname": fname,
+            "parent": tree[fname],
         }
 
         for field in TIMESTAMP_FIELDS:
@@ -323,7 +344,13 @@ def prepare_note_meta(db: Database, fname: str) -> dict[str, Any]:
     """Return dictionary to use as frontmatter for a note."""
     logging.debug("Preparing meta for '%s'", fname)
     notes = cast(Table, db["notes"])
-    note = notes.get(fname)
+
+    try:
+        note = notes.get(fname)
+    except NotFoundError:
+        logging.error("Note '%s' not found in db", fname)
+        sys.exit(1)
+
     meta = {
         "title": note["title"],
         "desc": note["desc"],
