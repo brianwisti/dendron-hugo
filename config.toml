@@ -12,4 +12,3 @@ disableBreadcrumb = false
 [params.dendron]
 rootPath = "~/Documents/dendron-brain"
 vaultPath = "notes"
-cacheFile = ".dendron.cache.json"
