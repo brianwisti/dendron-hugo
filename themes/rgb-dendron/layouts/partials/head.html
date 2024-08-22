@@ -1,4 +1,19 @@
 <head>
+    <title>{{ .Title }} - {{ .Site.Title }}</title>
     <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
+    <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
 </head>
+<style>
+    a[href^="/"] {
+        font-weight: bold
+    }
+
+    a[href^="/post"]::before {
+        content: "📝";
+    }
+
+    a[href^="/card"]::before {
+        content: "🗃️";
+    }
+</style>

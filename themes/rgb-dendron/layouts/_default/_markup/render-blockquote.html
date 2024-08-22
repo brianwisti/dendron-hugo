@@ -1,0 +1,21 @@
+{{ $emojis := dict
+    "caution" ":exclamation:"
+    "important" ":information_source:"
+    "note" ":information_source:"
+    "tip" ":bulb:"
+    "warning" ":information_source:"
+  }}
+  
+  {{ if eq .Type "alert" }}
+    <blockquote class="alert alert-{{ .AlertType }}">
+      <heading>
+        {{ transform.Emojify (index $emojis .AlertType) }}
+        {{ or (i18n .AlertType) (title .AlertType) }}
+      </heading>
+      {{ .Text | safeHTML }}
+    </blockquote>
+  {{ else }}
+    <blockquote>
+      {{ .Text | safeHTML }}
+    </blockquote>
+  {{ end }}

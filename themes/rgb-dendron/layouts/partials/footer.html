@@ -1,0 +1,6 @@
+<footer>
+    {{ partial "backlinks.html" . }}
+    {{ with .Params.updated }}
+        <p>Updated: {{ . }}</p>
+    {{ end }}
+</footer>

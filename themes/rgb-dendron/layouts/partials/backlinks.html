@@ -1,0 +1,38 @@
+{{ $this := . }}
+{{ $links := slice }}
+{{ $regex := `{{\s*<\s*(?:ref|relref)\s*"(.*?)(#.*?)?"\s*>}}` }}
+
+<!-- Iterate all pages -->
+{{ range $.Site.Pages }}
+	{{ $page := . }}
+
+	<!-- Match the `ref` shortcode -->
+	{{ $matches := findRESubmatch $regex $page.RawContent }}
+
+  	{{ with $matches }}
+      	{{ range . }}
+        	{{ $ref := index . 1 }}
+        	<!-- Compare permalinks -->
+    		{{ with $.Site.GetPage $ref }}
+          		{{ $inbound := . }}
+          		{{ if eq $inbound.Permalink $this.Permalink }}
+          			<!-- Avoid duplicates -->
+            		{{ if not (in $links $page)}}
+              			{{ $links = $links | append $page }}
+            		{{ end }}
+          		{{ end }}
+        	{{ end }}
+      	{{ end }}
+  	{{ end }}
+{{ end }}
+
+<!-- Render inbound links -->
+{{ with $links }}
+    <h2>Linked from</h2>
+	<ul>
+		<!-- Oldest backlinks first -->
+	    {{ range sort . "Date" }}
+	      {{ .Render "li" }}
+	    {{ end }}
+	</ul>
+{{ end }}

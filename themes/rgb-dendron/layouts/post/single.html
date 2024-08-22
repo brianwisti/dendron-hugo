@@ -1,0 +1,11 @@
+{{- define "header" }}
+    <p>{{ .Date.Format "2006-01-02" }}</p>
+    <p>{{ range .Params.tags }}
+        <a href="/tags/{{ . | urlize }}">{{ . }}</a>{{ end }}</p>
+{{- end }}
+
+{{- define "main" }}
+<article>
+    {{ .Content }}
+</article>
+{{- end }}
