@@ -14,21 +14,28 @@
     </div>
   {{ end -}}
 {{- else -}}
-  <figure>
-    <img src="
-      {{- if eq $scheme "" -}}
-        {{- if strings.HasSuffix $url.Path ".md" -}}
-          {{- relref .Page .Destination | safeURL -}}
-        {{- else -}}
-          {{- printf "/%s" .Destination | safeURL -}}
-        {{- end -}}
-      {{- else -}}
-        {{- .Destination | safeURL -}}
-      {{- end -}}"
-      {{- with .Title }} title="{{ . | safeHTML }}"{{- end -}}
-      {{- with .Text }} alt="{{ . | safeHTML }}"
+  {{- $src := $url.String -}}
+  {{- if not $url.IsAbs -}}
+    {{- $path := strings.TrimPrefix "./" $url.Path }}
+    {{- with or (.PageInner.Resources.Get $path) (resources.Get $path) -}}
+      {{- $src = .RelPermalink -}}
+      {{- with $url.RawQuery -}}
+        {{- $src = printf "%s?%s" $src . -}}
       {{- end -}}
-    />
+      {{- with $url.Fragment -}}
+        {{- $src = printf "%s#%s" $src . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $attributes := merge .Attributes (dict "alt" .Text "src" $src "title" (.Title | transform.HTMLEscape)) -}}
+  <figure>
+    <img
+      {{- range $k, $v := $attributes -}}
+        {{- if $v -}}
+          {{- printf " %s=%q" $k $v | safeHTMLAttr -}}
+        {{- end -}}
+      {{- end -}}>
+    {{- /**/ -}}
     {{- with .Title -}}
       <figcaption>{{ . }}</figcaption>
     {{- end -}}

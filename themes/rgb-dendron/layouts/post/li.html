@@ -1,4 +1,12 @@
 <li>
-    <a href="{{.RelPermalink}}">{{.Title}}</a>
-    {{ .Date.Format "2006-02-01" }}
+  {{ if .IsSection }}
+    {{ .Render "section-summary" }}
+  {{ else }}
+      {{ with .Date }}
+        {{ partial "entry-date" . }}
+      {{ end }}
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ partial "generic-meta-li" . }}
+  {{ end }}
+  
   </li>
