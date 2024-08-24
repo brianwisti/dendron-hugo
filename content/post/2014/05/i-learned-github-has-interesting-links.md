@@ -1,0 +1,29 @@
+---
+created: '2024-02-22 16:44:40'
+date: 2014-05-30 00:00:00+00:00
+description: ''
+fname: pub.post.2014.05.i-learned-github-has-interesting-links
+id: hcw6lmuitn2kpvbrgberid7
+redirects:
+- /tools/2014/05/30_i-learned-github-has-interesting-links.html
+- /post/2014/i-learned-github-has-interesting-links/
+- /2014/05/30/i-learned-github-has-interesting-links/
+slug: i-learned-github-has-interesting-links
+tags:
+- tools
+- link
+title: I Learned GitHub Has Interesting Links
+updated: '2024-02-22 16:45:24'
+---
+
+Today I got to take part in a User Experience Research interview with some fine folks from GitHub. It was straightforward. We chatted for about half an hour, mostly discussing GitHub. Makes sense. They learned how I used it. Since there is so little of GitHub that I use, they got to show me some nifty things.
+<!--more-->
+
+
+Like the ["Explore"](https://github.com/explore) link up in the nav bar, for example. Any site's "explore" link is generally useless, and often insulting - little more than a collection of paid promoted links. By 2014 I have learned to ignore the urge to explore. Turns out the GitHub "Explore" is somewhat nifty. Maybe just for me. Anyways. It is a collection of potentially interesting categories of projects hosted on Github, followed by your basic trending / starred-by-folks-you-follow / starred-by-staff blocks. I liked it. I was surprised.
+
+They also told me about [GitHub Guides](https://guides.github.com), a more explicitly useful link. Check it out. Documentation, pretty pictures, good habits. Lots of stuff in there.
+
+There were other things, but those two items are what stuck in my head.
+
+I told them the heavy emphasis on social interaction is what distinguishes Github from similar services. I also said I wanted to use that aspect more. So I followed them.

@@ -1,0 +1,9 @@
+@charset "UTF-8";
+a[href^="/"] {
+  font-weight: bold; }
+
+a[href^="/post"]::before {
+  content: "📝"; }
+
+a[href^="/card"]::before {
+  content: "🗃️"; }
