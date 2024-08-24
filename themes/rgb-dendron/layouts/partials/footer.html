@@ -1,0 +1,21 @@
+<footer>
+    {{ partial "backlinks.html" . }}
+    {{ with .Params.updated }}
+        <p>Updated: {{ . }}</p>
+    {{ end }}
+    <section>
+        <p>  This work is licensed under a
+            <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+          </p>
+    </section>
+    <section>
+        <p>Liberapay is patronage for the FOSS and CC community.</p>
+        <script src="https://liberapay.com/randomgeek/widgets/button.js"></script>
+        <noscript>
+        <a href="https://liberapay.com/randomgeek/donate">
+            <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg">
+        </a>
+        </noscript>
+        <p>Become a patron!</p>
+    </section>
+</footer>

@@ -1,42 +1,8 @@
 {{ $title := .Section }}
-{{ with .Scratch.Get "title" }}
+{{ with .Title }}
   {{ $title = . }}
-{{ else }}
-  {{ with .Title }}
-    {{ $title = . }}
-  {{ end }}
 {{ end }}
 
-
-<header>
-  <p>
-    / <a href="/">Root</a>
-    {{ with .Params.parent }}
-      / …
-      / <a href="/{{ .fname }}/">{{ .title }}</a>
-    {{ end }}
-    / {{ $title }}
-  </p>
-  <h1 class="p-name title" id="title" itemprop="name headline">
-    <a class="u-url anchor" href="{{ .RelPermalink }}">{{ $title }}</a>
-  </h1>
-
-  <div style="padding-top: 1rem; display: flex">
-    <dl>
-      <dt>Note</dt>
-      <dd>{{ .Params.fname }}</dd>
-      <dt>Created</dt>
-      <dd>{{ .Params.created }}</dd>
-      <dt>Updated</dt>
-      <dd>{{ .Params.updated }}</dd>
-    </dl>
-    <div>
-      <strong>Children</strong>
-      <ul>
-        {{- range .Page.Params.children -}}
-            <li><a href="/{{ .fname }}/">{{ .title }}</a></li>
-        {{- end -}}
-      </ul>
-    </div>
-  </div>
-</header>
+<h1 class="p-name title" id="title" itemprop="name headline">
+  <a class="u-url anchor" href="{{ .RelPermalink }}">{{ $title }}</a>
+</h1>

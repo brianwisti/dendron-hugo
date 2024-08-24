@@ -1,0 +1,16 @@
+<section>
+    {{- with .Date -}}
+      Published
+      <time class="dt-published" datetime="{{ .Format $.Site.Params.TimestampForm }}">
+        {{ .Format $.Site.Params.DateForm }}
+      </time>
+    {{- end -}}
+  
+    {{ with .Params.updated }}
+      — Updated
+      <time class="dt-updated" datetime="{{ dateFormat $.Site.Params.TimestampForm . }}">
+        {{ dateFormat $.Site.Params.DateForm . }}
+      </time>
+    </p>
+    {{ end }}
+  </section>

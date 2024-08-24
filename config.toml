@@ -1,4 +1,4 @@
-baseURL = 'https://randomgeekery.org/'
+baseURL = 'https://randomgeekery.org'
 languageCode = 'en-us'
 title = 'Random Geekery'
 theme = "rgb-dendron"
@@ -6,5 +6,23 @@ theme = "rgb-dendron"
 #[outputs]
 #home = ["HTML", "RSS", "JSON"]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
+      [markup.goldmark.parser.attribute]
+        block = true
+
 [params]
-disableBreadcrumb = false
+  disableBreadcrumb = false
+  dateFormat = "2006-01-02"
+  ISODateForm = "2006-01-02"
+  DateForm = "Monday, 2 January, 2006"
+  TimeForm = "Monday, 2 January, 2006, at 3:04 pm"
+  TimestampForm = "2006-01-02T15:04:00-07:00"
+  [params.dendron]
+    rootPath = "~/Documents/dendron-brain"
+    vaultPath = "notes"
+
+[taxonomies]
+  tag = "tags"

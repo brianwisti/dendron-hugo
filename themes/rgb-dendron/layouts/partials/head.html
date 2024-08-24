@@ -1,4 +1,10 @@
 <head>
-    <link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1.1.2/new.min.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="color-scheme" content="light dark">
+    <title>{{ .Title }} - {{ .Site.Title }}</title>
+    {{ $opts := dict "transpiler" "dartsass" "targetPath" "css/style.css" }}
+{{ with resources.Get "sass/main.scss" | toCSS $opts }}
+  <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
+{{ end }}
 </head>

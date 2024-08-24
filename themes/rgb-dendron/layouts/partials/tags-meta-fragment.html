@@ -1,0 +1,3 @@
+{{ range . }}
+  <a class="p-category" href="/tags/{{ . | urlize }}/">#{{ . }}</a>
+{{ end }}
