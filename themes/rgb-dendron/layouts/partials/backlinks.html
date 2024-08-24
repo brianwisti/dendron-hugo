@@ -28,11 +28,17 @@
 
 <!-- Render inbound links -->
 {{ with $links }}
-    <h2>Linked from</h2>
-	<ul>
-		<!-- Oldest backlinks first -->
-	    {{ range sort . "Date" }}
-	      {{ .Render "li" }}
-	    {{ end }}
-	</ul>
+	<details open>
+		<summary>
+			Linked from
+		</summary>
+		<div class="content">
+			<ul>
+				<!-- Oldest backlinks first -->
+				{{ range sort . "Date" }}
+					{{ .Render "li" }}
+				{{ end }}
+			</ul>
+		</div>
+	</details>
 {{ end }}

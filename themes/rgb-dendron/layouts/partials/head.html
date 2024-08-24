@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="color-scheme" content="light dark">
     <title>{{ .Title }} - {{ .Site.Title }}</title>
-    {{ $opts := dict "transpiler" "libsass" "targetPath" "css/style.css" }}
+    {{ $opts := dict "transpiler" "dartsass" "targetPath" "css/style.css" }}
 {{ with resources.Get "sass/main.scss" | toCSS $opts }}
   <link rel="stylesheet" href="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous">
 {{ end }}

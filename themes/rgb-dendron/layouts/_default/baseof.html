@@ -2,17 +2,15 @@
 <html>
     {{- partial "head.html" . -}}
     <body>
-        <main class="section">
+        <main class="container">
             <header>
                 {{ partial "breadcrumb.html" . }}
                 {{- partial "header.html" . -}}
                 {{- block "header" . }}{{- end }}
             </header>
-            <div>
-                <div>
-                    {{- block "main" . }}{{- end }}
-                </div>
-            </div>
+            <article>
+                {{- block "main" . }}{{- end }}
+            </article>
             {{- partial "footer.html" . -}}
         </main>
     </body>

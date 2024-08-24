@@ -9,15 +9,20 @@ theme = "rgb-dendron"
 [markup]
   [markup.goldmark]
     [markup.goldmark.parser]
+      wrapStandAloneImageWithinParagraph = false
       [markup.goldmark.parser.attribute]
         block = true
 
 [params]
-disableBreadcrumb = false
-
-[params.dendron]
-rootPath = "~/Documents/dendron-brain"
-vaultPath = "notes"
+  disableBreadcrumb = false
+  dateFormat = "2006-01-02"
+  ISODateForm = "2006-01-02"
+  DateForm = "Monday, 2 January, 2006"
+  TimeForm = "Monday, 2 January, 2006, at 3:04 pm"
+  TimestampForm = "2006-01-02T15:04:00-07:00"
+  [params.dendron]
+    rootPath = "~/Documents/dendron-brain"
+    vaultPath = "notes"
 
 [taxonomies]
   tag = "tags"

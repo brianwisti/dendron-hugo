@@ -1,0 +1,51 @@
+@use "open-props";
+@use "tiny";
+
+:root {
+    color-scheme: light dark;
+    --background-body:  light-dark(#f7f7f7, #252525);
+    --background:       light-dark(#e2e2e2, #353535);
+    --background-hover: light-dark(#bbb, #454545);
+
+    --text-main:    light-dark(#333, #f7f7f7);
+    --text-bright:  light-dark(#000, #fff);
+    --text-muted:   light-dark(#6a6a6a, #c0c0c0);
+
+    --button-base:  light-dark(#fff, var(--background));
+    --button-hover: light-dark(#eee, var(--background-hover));
+
+    --links: light-dark(#0070e0, #56c7ff);
+
+    --focus: #7aa3fc;
+
+    --table-bg: light-dark(var(--background-body), var(--background));
+    --table-bg-alt: light-dark(#e8e8e8, var(--background-body));
+    --table: light-dark(#0070e0. var(--table-bg-alt));
+
+    --box-shadow-light: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    --box-shadow-dark: 0 0 0px 1px hsla(0, 0%, 100%, 0.15), rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    --box-shadow: light-dark(var(--box-shadow-light), var(--box-shadow-dark));
+}
+
+::backdrop {
+    --dialog-backdrop: light-dark(rgba(0, 0, 0, 0.1), rgba(255, 255, 255, 0.1));
+}
+
+article {
+    a[href^="/"] {
+        font-weight: bold;
+    }
+
+    a[href^="/post"]::before {
+        content: "📝";
+    }
+
+    a[href^="/card"]::before {
+        content: "🗃️";
+    }
+}
+
+li.article-li {
+    display: flex;
+    justify-content: space-between;
+}

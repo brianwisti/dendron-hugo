@@ -1,12 +1,12 @@
-<li>
+<li class="article-li">
   {{ if .IsSection }}
     {{ .Render "section-summary" }}
   {{ else }}
-      {{ with .Date }}
-        {{ partial "entry-date" . }}
-      {{ end }}
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-      {{ partial "generic-meta-li" . }}
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ partial "generic-meta-li" . }}
+    {{ with .Date }}
+      {{ partial "entry-date" . }}
+    {{ end }}
   {{ end }}
   
   </li>

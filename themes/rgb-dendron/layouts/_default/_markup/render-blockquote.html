@@ -7,13 +7,15 @@
   }}
   
   {{ if eq .Type "alert" }}
-    <blockquote class="alert alert-{{ .AlertType }}">
-      <heading>
+    <aside class="card fluid alert-{{ .AlertType }}">
+      <heading class="section">
         {{ transform.Emojify (index $emojis .AlertType) }}
         {{ or (i18n .AlertType) (title .AlertType) }}
       </heading>
-      {{ .Text | safeHTML }}
-    </blockquote>
+      <div class="section">
+        {{ .Text | safeHTML }}
+      </div>
+    </aside>
   {{ else }}
     <blockquote>
       {{ .Text | safeHTML }}

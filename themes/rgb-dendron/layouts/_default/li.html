@@ -2,11 +2,7 @@
   {{ if .IsSection }}
     {{ .Render "section-summary" }}
   {{ else }}
-    <div class="entry">  
-      <div class="entry-link">
-        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        {{ partial "generic-meta-li" . }}
-      </div>
-    </div>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ partial "generic-meta-li" . }}
   {{ end }}
 </li>
