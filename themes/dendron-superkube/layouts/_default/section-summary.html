@@ -1,0 +1,15 @@
+{{ $section := . }}
+{{ $pages := .RegularPagesRecursive }}
+{{ $len := len $pages }}
+
+  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  <span>
+    {{ with $len }}
+      {{ $len }}
+      {{ if eq . 1 }}
+        {{ $section.Type }}
+      {{ else }}
+        {{ $section.Type | pluralize }}
+      {{ end }}
+    {{ end }}
+  </span>

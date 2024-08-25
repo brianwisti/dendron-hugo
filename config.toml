@@ -1,7 +1,7 @@
 baseURL = 'https://randomgeekery.org'
 languageCode = 'en-us'
 title = 'Random Geekery'
-theme = "rgb-dendron"
+theme = "dendron-superkube"
 
 #[outputs]
 #home = ["HTML", "RSS", "JSON"]

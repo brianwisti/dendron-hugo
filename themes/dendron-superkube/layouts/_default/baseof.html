@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+      <main>
+            <header>
+                {{ partial "breadcrumb.html" . }}
+                {{- partial "header.html" . -}}
+                {{- block "header" . }}{{- end }}
+            </header>
+            <article class="prose">
+                <div class="prose-body">
+                {{- block "main" . }}{{- end }}
+                </div>
+            </article>
+            {{- partial "footer.html" . -}}
+        </main>
+    </body>
+</html>

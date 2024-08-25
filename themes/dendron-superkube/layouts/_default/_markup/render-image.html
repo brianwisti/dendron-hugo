@@ -1,0 +1,45 @@
+{{- $url := urls.Parse .Destination -}}
+{{- $scheme := $url.Scheme -}}
+
+{{- if strings.HasPrefix $url.Hostname "www.youtube" -}}
+  {{- $pc := .Page.Site.Config.Privacy.YouTube -}}
+  {{- if not $pc.Disable -}}
+    {{- $ytHost := cond $pc.PrivacyEnhanced  "www.youtube-nocookie.com" "www.youtube.com" -}}
+    {{- $id := $url.Query.Get "v" -}}
+    {{- $title := "YouTube Video" -}}
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe src="https://{{ $ytHost }}/embed/{{ $id }}"
+              style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"
+              allowfullscreen title="{{ $title }}"></iframe>
+    </div>
+  {{ end -}}
+{{- else -}}
+  {{- $src := $url.String -}}
+  {{- if not $url.IsAbs -}}
+    {{- $path := strings.TrimPrefix "./" $url.Path }}
+    {{- with or (.PageInner.Resources.Get $path) (resources.Get $path) -}}
+      {{- $src = .RelPermalink -}}
+      {{- with $url.RawQuery -}}
+        {{- $src = printf "%s?%s" $src . -}}
+      {{- end -}}
+      {{- with $url.Fragment -}}
+        {{- $src = printf "%s#%s" $src . -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $attributes := merge .Attributes (dict "alt" .Text "src" $src "title" (.Title | transform.HTMLEscape)) -}}
+  <figure>
+    <img
+      {{- range $k, $v := $attributes -}}
+        {{- if $v -}}
+          {{- printf " %s=%q" $k $v | safeHTMLAttr -}}
+        {{- end -}}
+      {{- end -}}>
+    {{- /**/ -}}
+    {{- with .Title -}}
+      <figcaption>{{ . }}</figcaption>
+    {{- end -}}
+  </figure>
+{{- end -}}
+
+{{- /* whitespace stripped here to avoid trailing newline in rendered result caused by file EOL */ -}}

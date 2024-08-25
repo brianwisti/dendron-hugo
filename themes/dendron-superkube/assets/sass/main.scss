@@ -1,0 +1,18 @@
+article {
+    a[href^="/"] {
+        font-weight: bold;
+    }
+
+    a[href^="/post"]::before {
+        content: "📝";
+    }
+
+    a[href^="/card"]::before {
+        content: "🗃️";
+    }
+}
+
+li.article-li {
+    display: flex;
+    justify-content: space-between;
+}

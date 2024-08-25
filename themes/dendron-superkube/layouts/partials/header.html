@@ -1,0 +1,8 @@
+{{ $title := .Section }}
+{{ with .Title }}
+  {{ $title = . }}
+{{ end }}
+
+<h1 class="p-name title" id="title" itemprop="name headline">
+  <a class="u-url anchor" href="{{ .RelPermalink }}">{{ $title }}</a>
+</h1>

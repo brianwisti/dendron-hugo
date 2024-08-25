@@ -1,0 +1,8 @@
+<li>
+  {{ if .IsSection }}
+    {{ .Render "section-summary" }}
+  {{ else }}
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ partial "generic-meta-li" . }}
+  {{ end }}
+</li>

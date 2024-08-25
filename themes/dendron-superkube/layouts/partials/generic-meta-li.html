@@ -1,0 +1,15 @@
+{{- $renderSection := false -}}
+{{- if .File -}}
+  {{- $prefix := substr .File.LogicalName 0 1 -}}
+  {{- if eq $prefix "_" -}}
+    {{- $renderSection = true -}}
+  {{- end -}}
+{{- else -}}
+  {{/* taxonomy file probably */}}
+  {{- $renderSection = true -}}
+{{- end -}}
+
+  {{- if $renderSection -}}
+    {{ partial "section-meta" . }} /
+  {{- end -}}
+
