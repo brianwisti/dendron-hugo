@@ -11,10 +11,10 @@ tags:
 - crochet
 - craft
 title: Potholders
-updated: '2024-08-07 18:51:57'
+updated: '2024-08-25 17:20:20'
 ---
 
-A friend asked me to *Crochet* a potholder based on an image she saw online. I tracked the image down to its source: the "ManHandle Pot Holder" on Margaret Calver’s [ayarnnut](https://www.etsy.com/shop/ayarnnut) Etsy store.
+A friend asked me to crochet a potholder based on an image she saw online. I tracked the image down to its source: the "ManHandle Pot Holder" on Margaret Calver’s [ayarnnut](https://www.etsy.com/shop/ayarnnut) Etsy store.
 
 ![gift bag with crochet tubes resembling penises](assets/img/2018/cover-2018-08-26.jpg)
 

@@ -1,7 +1,7 @@
 ---
 created: '2024-02-12 02:59:38'
-date: 2021-05-22 00:00:00+00:00
-description: Why mess with getopt when I can just use multi-dispatch?
+date: '2021-05-22T00:00:00.000Z'
+description: ''
 fname: pub.post.2021.05.my-raku-script-for-journaling-in-joplin
 id: 0e707zy1oxxrrg0a4yi6c3v
 series:
@@ -15,10 +15,14 @@ tags:
 - joplin
 - shell
 title: My Raku Script for Journaling in Joplin
-updated: '2024-08-07 19:04:54'
+updated: '2024-08-25 16:32:03'
 ---
 
 ![terminal displaying formatted journal entries](assets/img/2021/cover-2021-05-22.png)
+
+Why mess with getopt when I can just use multi-dispatch?
+
+<!--more-->
 
 ## Setting the scene
 
@@ -199,7 +203,7 @@ Things are about to improve!
 
 ### I just want today
 
-I've been carefully using *inbox.iso-8601* format for my entries.  That means I can filter to a specific date — or year, month, hour, etc — by constructing a date fragment and grabbing each entry that starts with the fragment.
+I've been carefully using [ISO-8601]({{< relref "/card/iso-8601.md" >}}) format for my entries.  That means I can filter to a specific date — or year, month, hour, etc — by constructing a date fragment and grabbing each entry that starts with the fragment.
 
 ``` raku
 sub filtered-entries(Str $date-funnel) {

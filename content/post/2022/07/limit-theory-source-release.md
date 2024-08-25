@@ -1,6 +1,6 @@
 ---
 created: '2024-02-11 18:09:36'
-date: 2022-07-24 00:00:00+00:00
+date: '2022-07-24T00:00:00.000Z'
 description: ''
 fname: pub.post.2022.07.limit-theory-source-release
 id: k224nw183d0et1nbxpldmxc
@@ -43,4 +43,4 @@ Over 5,000 people pledged nearly $188,000 total. I put in $75. Parnell took the 
 
 I feel bad for him — Parnell, not Roberts — and I'm grateful he released the  source code. I hope he gets some kind of closure from this. He deserves it.
 
-Now if you'll excuse me, I'm gonna go learn some more *inbox.lua*.
+Now if you'll excuse me, I'm gonna go learn some more [Lua]({{< relref "/card/lua.md" >}}).

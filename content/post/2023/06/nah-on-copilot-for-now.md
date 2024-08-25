@@ -12,13 +12,13 @@ tags:
 - tools
 - llm
 title: Nah on Copilot for Now
-updated: '2024-08-07 19:13:59'
+updated: '2024-08-25 13:38:23'
 ---
 
 > [!NOTE] 2024-02-10
 > Cautiously exploring further. [codeium](https://codeium.com) and [Ollama]({{< relref "/card/ollama.md" >}}) have been working better for my needs.
 
-[GitHub Copilot](https://github.com/features/copilot) is a development tool from Microsoft driven by a *Large Language Model* — one piece of the very big tech trend described as *Artificial Intelligence*.
+[GitHub Copilot](https://github.com/features/copilot) is a development tool from Microsoft driven by a [Large Language Model (LLM)]({{< relref "/card/ai/llm.md" >}}) — one piece of the very big tech trend described as [Artificial Intelligence (AI)]({{< relref "/card/ai/_index.md" >}}).
 
 Copilot acts as a super-powered autocomplete for developers. Sort of like an [LSP](https://microsoft.github.io/language-server-protocol/), but this goes much further. Where an LSP might give you an identifier or point you to a definition, Copilot generates entire expressions and blocks of code. It assembles reasonable-looking code from what it's been fed, including your own current projects.
 

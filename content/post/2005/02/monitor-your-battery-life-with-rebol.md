@@ -13,7 +13,7 @@ tags:
 - learn
 - coolnamehere
 title: Monitor Your Battery Life with REBOL
-updated: '2024-08-07 18:30:20'
+updated: '2024-08-25 17:41:52'
 ---
 
 One thing you like to keep track of on your laptop is how much juice is left in your battery. There’s nothing quite like being in the middle of some insane hacking session and watching as the computer suddenly gets tired and blacks out on you. Of course, I’ve already got a handy battery monitor in my [KDE](https://kde.org) panel, but what if I’m not in KDE? Okay, okay, there are handy battery monitors for nearly every desktop environment out there. That’s not my point, though.
@@ -188,7 +188,7 @@ We want to get rid of the leading whitespace for each value.
 
 I need to think for a minute…
 
-Okay, I know how I would do this with a regular expression in *Perl*:
+Okay, I know how I would do this with a regular expression in [Perl]({{< relref "/card/perl.md" >}}):
 
 ```perl
 #!/usr/bin/perl

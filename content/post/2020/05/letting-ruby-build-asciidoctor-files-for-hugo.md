@@ -1,7 +1,7 @@
 ---
 created: '2024-02-11 23:58:10'
 date: 2020-05-18 21:15:00+00:00
-description: Stuff like this is why i don't advertise my site repo
+description: ''
 fname: pub.post.2020.05.letting-ruby-build-asciidoctor-files-for-hugo
 id: n8fi9ywzxayk9sw0hwzdt1f
 slug: letting-ruby-build-asciidoctor-files-for-hugo
@@ -17,10 +17,14 @@ tags:
 - but-i-warned-you
 - programming
 title: Letting Ruby Build Asciidoctor Files for Hugo
-updated: '2024-08-07 19:02:47'
+updated: '2024-08-25 14:41:41'
 ---
 
 ![coffee cup with text "I cannot brain today; I has the dumb"](assets/img/2020/cover-2020-05-18.jpg "actually really proud of myself but this post needs all the disclaimers")
+
+Stuff like this is why i don't advertise my site repo
+
+<!--more-->
 
 > [!WARNING]
 > Normal people: don't do any of this.  The whole post is me compensating for making Hugo do things it's not good at.
@@ -42,9 +46,9 @@ I enjoy the flexibility.  And that bit about supporting HTML as an authoring lan
 
 ## So what’s the problem?
 
-What’s up with this?
+What's up with this?
 
-``` text
+``` console
 $ hugo
 
                    |  EN

@@ -1,6 +1,6 @@
 ---
 created: '2024-02-13 14:55:41'
-date: 2020-02-25 00:00:00+00:00
+date: '2020-02-25T00:00:00.000Z'
 description: ''
 fname: pub.post.2020.02.that-is-just-embarrassing
 id: bseoa1i1fbksn5ku3zgctod
@@ -20,6 +20,6 @@ updated: '2024-08-07 18:59:48'
 
 ![prematurely ended fragment of a blog post](assets/img/2020/cover-2020-02-25.png "Where's the rest of the post?")
 
-Got a *inbox.pyinvoke* `test` task for the site. Because of that, I found a post about [Making a Jekyll Collection]({{< relref "/post/2015/07/making-a-jekyll-collection.md" >}}) that got truncated — before the current repo existed.
+Got a [Pyinvoke]({{< relref "/card/pyinvoke.md" >}}) `test` task for the site. Because of that, I found a post about [Making a Jekyll Collection]({{< relref "/post/2015/07/making-a-jekyll-collection.md" >}}) that got truncated — before the current repo existed.
 
 Fixed it though. Got the missing content from an [old copy](https://web.archive.org/web/20160318224730/http://randomgeekery.org/post/2015/making-a-jekyll-collection). Yay for Internet Archive\!

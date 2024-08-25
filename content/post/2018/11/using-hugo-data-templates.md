@@ -1,6 +1,6 @@
 ---
 created: '2024-03-06 20:53:33'
-date: 2018-11-10
+date: '2018-11-10T00:00:00.000Z'
 description: ''
 fname: pub.post.2018.11.using-hugo-data-templates
 id: wwgguig3jz9uhk4jzt9bu1q
@@ -27,7 +27,7 @@ for that reference changes.
 
 Hugo [data templates](https://gohugo.io/templates/data-templates/) could fix all that.
 
-Data templates are written in [YAML]({{< relref "/card/yaml.md" >}}), [TOML]({{< relref "/card/toml.md" >}}), or *inbox.json* format and saved to your site’s `data` folder. Your data templates and their contents become available to Hugo via the `$.Site.Data` variable. Organize your data templates however you like, and make them as complex as you want.
+Data templates are written in [YAML]({{< relref "/card/yaml.md" >}}), [TOML]({{< relref "/card/toml.md" >}}), or [JSON]({{< relref "/card/json.md" >}}) format and saved to your site’s `data` folder. Your data templates and their contents become available to Hugo via the `$.Site.Data` variable. Organize your data templates however you like, and make them as complex as you want.
 
 ## My data template for links
 

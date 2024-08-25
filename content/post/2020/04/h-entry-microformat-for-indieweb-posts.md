@@ -1,6 +1,6 @@
 ---
 created: '2024-02-13 17:33:29'
-date: 2020-04-26 00:00:00+00:00
+date: '2020-04-26T00:00:00.000Z'
 description: In which I go overboard with Hugo and Python for a quick Sunday task
 fname: pub.post.2020.04.h-entry-microformat-for-indieweb-posts
 id: tj7mzhcb0od812fpa8rfz40
@@ -29,7 +29,7 @@ Like `h-cards` in [Indieweb h-cards]({{< relref "/post/2020/04/indieweb-h-cards.
 > [!NOTE] But I want to try Webmentions!
 > You totally can!
 >
-> I plan to examine *inbox.webmention* — the mechanism behind replies, likes, reposts, etc. They’re the fun conversation part of [Indieweb]({{< relref "/card/indieweb.md" >}}) after all. But I need to make sure that when I get to the conversation I have a clear understanding of who is taking part — the h-cards — and where the discussions take place — the h-entries.
+> I plan to examine [Webmention]({{< relref "/card/webmention.md" >}}) — the mechanism behind replies, likes, reposts, etc. They’re the fun conversation part of [Indieweb]({{< relref "/card/indieweb.md" >}}) after all. But I need to make sure that when I get to the conversation I have a clear understanding of who is taking part — the h-cards — and where the discussions take place — the h-entries.
 >
 > But you don’t need to wait for me. There are fine tutorials out there to walk you through the process. <https://IndieWebify.me> in particular tells you everything you need to know.
 
@@ -173,7 +173,7 @@ Yep, that’s a post header all right. What about validation? Did I get the micr
 
 ## Examining my microformats locally
 
-I know I can [validate](https://indiewebify.me/validate-h-entry) my h-entry at IndieWebify or copy and paste to <https://microformats.io>, but I want to look at this stuff from the shell. Preferably with a single command. *Ideally* with something I can stash in my *inbox.pyinvoke* `tasks.py` file.
+I know I can [validate](https://indiewebify.me/validate-h-entry) my h-entry at IndieWebify or copy and paste to <https://microformats.io>, but I want to look at this stuff from the shell. Preferably with a single command. *Ideally* with something I can stash in my [Pyinvoke]({{< relref "/card/pyinvoke.md" >}}) `tasks.py` file.
 
 [mfpy](https://github.com/microformats/mf2py) and [mf2util](https://mf2util.readthedocs.io/en/latest/) provide microformats2 handling for Python code.
 
@@ -339,40 +339,40 @@ inv mf2 https://v2.jacky.wtf -f toml
 ```
 
 ``` toml
-*items*
+[[items]]
 type = [ "h-card",]
 
 [items.properties]
 name = [ "Jacky Alciné",]
 photo = [ "https://v2.jacky.wtf/media/profile-image",]
 url = [ "https://v2.jacky.wtf",]
-*items*
+[[items]]
 type = [ "h-feed",]
-*items.children*
+[[items.children]]
 type = [ "h-entry",]
 
 [items.children.properties]
 author = [ "https://v2.jacky.wtf",]
 url = [ "https://v2.jacky.wtf/post/a53bb7c4-2831-4666-ad85-75433ab2b1c3",]
 published = [ "2020-04-26T08:57:39-07:00",]
-*items.children.properties.in-reply-to*
+[[items.children.properties.in-reply-to]]
 type = [ "h-cite",]
 value = "https://twitter.com/tiffani/status/1254438450897530882"
 
 [items.children.properties.in-reply-to.properties]
 url = [ "https://twitter.com/tiffani/status/1254438450897530882",]
-*items.children.properties.in-reply-to.properties.author*
+[[items.children.properties.in-reply-to.properties.author]]
 type = [ "h-card",]
 value = "https://twitter.com/tiffani"
 
 [items.children.properties.in-reply-to.properties.author.properties]
 name = [ "Tiffani Ashley Bell",]
 url = [ "https://twitter.com/tiffani",]
-*items.children.properties.in-reply-to.properties.content*
+[[items.children.properties.in-reply-to.properties.content]]
 html = "Definitely need to take a long walk today. Staying in the house all day is [...]"
 value = "Definitely need to take a long walk today. Staying in the house all day is [...]"
 
-*items.children.properties.content*
+[[items.children.properties.content]]
 html = "<p>Just came back from one and I felt so much better about this with the [...]"
 value = "Just came back from one and I felt so much better about this with the way [...]"
 

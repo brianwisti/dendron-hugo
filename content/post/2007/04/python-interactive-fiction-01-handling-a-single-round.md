@@ -16,7 +16,7 @@ tags:
 - interactive-fiction
 - coolnamehere
 title: Python Interactive Fiction 01 Handling a Single Round
-updated: '2024-08-07 18:31:53'
+updated: '2024-08-25 17:37:22'
 ---
 
 I think the next step is to write the code for a single round of the game. We'll limit ourselves to Scene 1 to stay focused.
@@ -258,7 +258,7 @@ It's starting to look like something! Now go take a break for a minute. I threw 
 
 ## Getting the user's selection
 
-I am pleased that we have the scene description code working, but user input is still missing. All we need is `raw_input`, which we encountered in the initial *python-babysteps-tutorial|Python Babysteps*. Add a line to get user input and another line to show the result.
+I am pleased that we have the scene description code working, but user input is still missing. All we need is `raw_input`, which we encountered in the initial [Python Babysteps Tutorial]({{< relref "/post/2001/01/python-babysteps-tutorial.md" >}}). Add a line to get user input and another line to show the result.
 
 ``` python
 # ifiction.py
@@ -343,7 +343,7 @@ else:
 
 A little note about being careful. I spent five minutes debugging the above code. I kept getting `Choice 3 Go into the cave`, for every non-zero choice I entered. Turns out that I had cut and pasted some debugging code from earlier which was using the `i` variable. `i` was last set to `3`, so that's what Python kept printing for me. It can be very easy to get distracted while writing code, and although Python can catch a lot of errors, you must keep an eye out for little mistakes like that. Once I replace `i` with `choice` in the last line, everything was happy.
 
-Now, why did I use the `int` function on the user input? Keyboard input comes to you in the form of a String, which is a different *simple-types-in-python|type* than numbers. If we want to be able to use the input as an index for the `paths` list, we need a way to turn that String into an integer, or whole number. This is exactly what `int` does. What happens when the user entry can't be turned into a number? That's part of the next topic.
+Now, why did I use the `int` function on the user input? Keyboard input comes to you in the form of a String, which is a different [type]({{< relref "/post/2002/06/simple-types-in-python.md" >}}) than numbers. If we want to be able to use the input as an index for the `paths` list, we need a way to turn that String into an integer, or whole number. This is exactly what `int` does. What happens when the user entry can't be turned into a number? That's part of the next topic.
 
 ## Ensuring valid choices
 

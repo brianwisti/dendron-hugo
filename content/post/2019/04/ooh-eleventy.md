@@ -12,7 +12,7 @@ tags:
 - eleventy
 - tools
 title: Ooh Eleventy
-updated: '2024-08-07 18:52:52'
+updated: '2024-08-25 17:18:53'
 ---
 
 Spring has sprung, and with it comes thoughts of new tools to build a Web site. Okay no the picture has nothing to do with Web sites but isn't it pretty?
@@ -21,9 +21,9 @@ Spring has sprung, and with it comes thoughts of new tools to build a Web site. 
 
 ![flowers](assets/img/2019/cover-2019-04-06.jpg)
 
-I use [Hugo]({{< relref "/card/hugo.md" >}}) to build this site, and have for *a while|pub.post.2015.09.next-hugo* now. Hugo builds fast, includes loads of features, and by now has the added benefit of being familiar. It's still fun to see what else people use for their sites, though.
+I use [Hugo]({{< relref "/card/hugo.md" >}}) to build this site, and have for [a while]({{< relref "/post/2015/09/next-hugo.md" >}}) now. Hugo builds fast, includes loads of features, and by now has the added benefit of being familiar. It's still fun to see what else people use for their sites, though.
 
-*Eleventy* caught my eye with its claims at being a simpler static site generator. [Node.js]({{< relref "/card/node-js.md" >}}) powers Eleventy. That caught my attention because of how much I've been using the platform at work recently.
+[Eleventy]({{< relref "/card/eleventy.md" >}}) caught my eye with its claims at being a simpler static site generator. [Node.js]({{< relref "/card/node-js.md" >}}) powers Eleventy. That caught my attention because of how much I've been using the platform at work recently.
 
 Aided by the [core documentation](https://www.11ty.io/docs/), I'll make a single page site with a stylesheet. To my mind, that's the ["Hello World"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) of static site generators. It covers the three core elements: content, layouts, and including files outside of the content/layout flow (stylesheets, images, etc).
 

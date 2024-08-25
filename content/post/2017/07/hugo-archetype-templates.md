@@ -90,7 +90,7 @@ IFS=$'\n\t'
 SECTION=${1:-}
 TITLE=${2:-}
 
-if * -z "$SECTION" || -z "$TITLE" *; then
+if [[ -z "$SECTION" || -z "$TITLE" ]]; then
   echo "Usage: $0 SECTION TITLE"
   exit 1
 fi

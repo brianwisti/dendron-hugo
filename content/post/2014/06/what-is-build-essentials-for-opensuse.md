@@ -13,10 +13,10 @@ tags:
 - suse
 - tools
 title: What Is Build Essentials for Opensuse
-updated: '2024-02-22 17:36:30'
+updated: '2024-08-25 17:24:34'
 ---
 
-> [!NOTE] *card.tldr*
+> [!NOTE] [Tldr]({{< relref "/card/tldr.md" >}})
 > `devel_basis`
 
 <!--more-->

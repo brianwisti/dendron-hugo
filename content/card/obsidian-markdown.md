@@ -4,15 +4,17 @@ description: ''
 fname: pub.card.obsidian-markdown
 id: kzins5n04bkkraq5b6yjj70
 title: Obsidian Markdown
-updated: '2024-02-10 14:21:47'
+updated: '2024-08-25 17:55:34'
 ---
 
 Special considerations and features that I care about for [Markdown]({{< relref "/card/markdown.md" >}}) in [Obsidian]({{< relref "/card/obsidian.md" >}})
 
+<!--more-->
+
 ## Linking
 
-- Internal links with `*link*`
-- Internal images with regular `![](link)` or `!*link*`
+- Internal links with `[[link]]`
+- Internal images with regular `![](link)` or `![[link]]`
 - YouTube embeds with `![](link)`
 
 ## Callouts

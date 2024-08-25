@@ -12,7 +12,7 @@ tags:
 - nushell
 - hugo
 title: My Three(ish) Favorite Nushell Features
-updated: '2024-08-07 19:12:05'
+updated: '2024-08-25 13:43:16'
 ---
 
 ![histogram for post frequency by year using Nushell built-ins](assets/img/2022/cover-2022-07-04.png)
@@ -31,7 +31,7 @@ Let's get started.
 
 If you can't easily run a program and see its output, you are in a REPL, not a shell. I have not come across a command shell that fails that test yet, but I use it as an immediate reassurance that I haven't confused myself by launching `ipython` again.
 
-I'm on [Hugo](https://gohugo.io) again, which means I have the Hugo CLI. `hugo list all` prints out a *CSV* summary of your site, ready for processing by some other program.
+I'm on [Hugo](https://gohugo.io) again, which means I have the Hugo CLI. `hugo list all` prints out a [CSV]({{< relref "/card/csv.md" >}}) summary of your site, ready for processing by some other program.
 
 ``` nushell
 hugo list all

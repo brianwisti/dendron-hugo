@@ -11,7 +11,7 @@ tags:
 - taskwarrior
 - tools
 title: Active Tasks in Taskwarrior
-updated: '2024-03-06 21:00:20'
+updated: '2024-08-25 17:19:56'
 ---
 
 ![highlighted task roughly describing the task for writing this post](assets/img/2018/cover-2018-12-01.png)
@@ -46,7 +46,7 @@ Being active increases the urgency of a task, bubbling it up to the top in this 
 
 ## `task active`
 
-The `active` report shows me only those tasks that have been assigned the `+ACTIVE` virtual tag. Very handy in my blog *taskwarrior-contexts|context*, when many curious ideas are tugging at my easily distracted brain and I need to see just what I’m doing.
+The `active` report shows me only those tasks that have been assigned the `+ACTIVE` virtual tag. Very handy in my blog [context]({{< relref "/post/2018/02/taskwarrior-contexts.md" >}}), when many curious ideas are tugging at my easily distracted brain and I need to see just what I’m doing.
 
 ```console
 $ task active

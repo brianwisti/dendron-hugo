@@ -1,7 +1,7 @@
 ---
 created: '2024-02-12 04:40:04'
-date: 2020-06-14 00:00:00+00:00
-description: Trying out another windows package manager
+date: '2020-06-14T00:00:00.000Z'
+description: ''
 fname: pub.post.2020.06.winget-preview
 id: um9mnjf4sn6v7m861fbn1nc
 slug: winget
@@ -12,10 +12,14 @@ tags:
 - package-manager
 - tools
 title: Winget Preview
-updated: '2024-08-07 19:03:03'
+updated: '2024-08-25 15:32:00'
 ---
 
-[Winget]({{< relref "/card/winget.md" >}}) is a command line package manager for *inbox.windows* 10, open-sourced under the [MIT License](https://github.com/microsoft/winget-cli/blob/master/LICENSE).  Roughly equivalent to `apt` or `brew`.  If you already know and love [Chocolatey](https://chocolatey.org/), you’re fine.  Stick with that for now. `winget` shows promise though.
+Trying out another windows package manager
+
+<!--more-->
+
+[Winget]({{< relref "/card/winget.md" >}}) is a command line package manager for [Windows]({{< relref "/card/windows.md" >}}) 10, open-sourced under the [MIT License](https://github.com/microsoft/winget-cli/blob/master/LICENSE).  Roughly equivalent to `apt` or `brew`.  If you already know and love [Chocolatey](https://chocolatey.org/), you’re fine.  Stick with that for now. `winget` shows promise though.
 
 The other night I installed [Strawberry Perl](https://strawberryperl.com) and played with [Image::ExifTool](https://metacpan.org/release/Image-ExifTool) a tiny bit.
 

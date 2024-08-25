@@ -13,7 +13,7 @@ tags:
 - socks
 - craft
 title: Amicable Socks
-updated: '2024-02-23 13:14:54'
+updated: '2024-08-25 17:23:58'
 ---
 
 ![purple knitted socks laid out flat](assets/img/2015/cover-2015-05-20.jpg)
@@ -24,7 +24,7 @@ That takes care of the technical details, more or less. What made this project i
 
 ## I Kept a Journal
 
-*inbox.knitting* is detail work. You need to remember how many stitches you knitted, how many more you need to knit, and how far along the increases or decreases you are. I usually handle this by counting stitches constantly, getting bored, and loathing the fact that people have two feet because it means I need to knit a *second* sock. I often take months to finish a single pair of socks. Knitting two at the same time just confused me more — though I plan to tackle that eventually.
+Knitting is detail work. You need to remember how many stitches you knitted, how many more you need to knit, and how far along the increases or decreases you are. I usually handle this by counting stitches constantly, getting bored, and loathing the fact that people have two feet because it means I need to knit a *second* sock. I often take months to finish a single pair of socks. Knitting two at the same time just confused me more — though I plan to tackle that eventually.
 
 I decided to log my work with the Amicable Socks. Part of that involved breaking down the generalized instructions into something specific for my chosen pattern.
 

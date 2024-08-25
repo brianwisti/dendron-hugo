@@ -7,22 +7,21 @@ id: 9cncvvu5iqxr2vrl8at6wn0
 redirects:
 - /post/2017/elscreen/
 - /2017/01/11/elscreen/
-slug: elscreen
 tags:
 - emacs
 - elscreen
 - tools
 title: Elscreen
-updated: '2024-02-12 22:33:28'
+updated: '2024-08-25 17:22:59'
 ---
 
-I use [ElScreen](https://github.com/knu/elscreen/) every time I open *Emacs*. May as well make a quick note about it.
+I use [ElScreen](https://github.com/knu/elscreen/) every time I open [Emacs]({{< relref "/card/emacs.md" >}}). May as well make a quick note about it.
 
 <!--more-->
 
-!*attachments/img/2017/cover-2017-01-11.png*
+![cover-2017-01-11.png](assets/img/2017/cover-2017-01-11.png)
 
-I admit it. I’m still more of a *Vim* user. The workflow I’m used to is Vim with some tabs, usually sitting in a [tmux](https://tmux.github.io/) session. When in Emacs I use ElScreen, which basically gives me tmux inside Emacs.
+I admit it. I’m still more of a [Vim]({{< relref "/card/vim.md" >}}) user. The workflow I’m used to is Vim with some tabs, usually sitting in a [tmux](https://tmux.github.io/) session. When in Emacs I use ElScreen, which basically gives me tmux inside Emacs.
 
 If you know what that means, great. If not, then pretend ElScreen is a weird way to make emacs a tabbed editor.
 

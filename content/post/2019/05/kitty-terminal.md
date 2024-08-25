@@ -1,6 +1,6 @@
 ---
 created: '2024-03-26 04:52:34'
-date: 2019-05-27
+date: '2019-05-27T00:00:00.000Z'
 description: I installed kitty for font ligatures in terminals on Linux, but it does
   other stuff too.
 fname: pub.post.2019.05.kitty-terminal
@@ -39,7 +39,7 @@ True
 
 Anyways, back to ligatures. They let you pretend you’re using that rich library of symbols.
 
-Gnome Terminal does not support ligatures, at least not on my system. Konsole from the *inbox.kde* project does, but adds many KDE-specific dependencies to my system. I wanted to find something a bit more lightweight.
+Gnome Terminal does not support ligatures, at least not on my system. Konsole from the [KDE]({{< relref "/card/kde.md" >}}) project does, but adds many KDE-specific dependencies to my system. I wanted to find something a bit more lightweight.
 
 kitty satisfies that need.
 

@@ -1,6 +1,6 @@
 ---
 created: '2024-02-12 02:52:56'
-date: 2019-11-03 00:00:00+00:00
+date: '2019-11-03T00:00:00.000Z'
 description: In which I rediscover `make && make test && make install`
 fname: pub.post.2019.11.building-rakudo-and-moarvm-on-linux
 id: 3itbj7u8a0udcj948djjuez
@@ -36,7 +36,7 @@ macOS? No problem.
 brew install rakudo
 ```
 
-*inbox.linux*?
+[Linux]({{< relref "/card/linux.md" >}})?
 
 ```bash
 brew install rakudo

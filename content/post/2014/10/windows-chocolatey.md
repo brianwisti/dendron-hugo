@@ -1,6 +1,6 @@
 ---
 created: '2024-02-22 18:11:55'
-date: 2014-10-04 00:00:00+00:00
+date: '2014-10-04T00:00:00.000Z'
 description: A package manager for Windows
 fname: pub.post.2014.10.windows-chocolatey
 id: g47v7le11ezhcr295zo1ynu
@@ -23,7 +23,7 @@ I don't know about you, but I had a pleasant Saturday. It started with an hour o
 
 Some time in the evening was spent playing Torchlight 2 and fiddling with things on the Windows partition of my machine.
 
-Recently I have been spending more time in *inbox.windows*. I don't really know why. Could just be a seasonal thing. Every few months I get bored of the tools and languages I'm using, and start looking for new combinations. Most of the Free and Open Source Software that I enjoy is available on any operating system I feel like using, so it isn't *that* big of a deal.
+Recently I have been spending more time in [Windows]({{< relref "/card/windows.md" >}}). I don't really know why. Could just be a seasonal thing. Every few months I get bored of the tools and languages I'm using, and start looking for new combinations. Most of the Free and Open Source Software that I enjoy is available on any operating system I feel like using, so it isn't *that* big of a deal.
 
 Sometimes I discover something completely new to me when I do these switches. One of my discoveries this time around on Windows is [chocolatey](https://chocolatey.org/). chocolatey is a package manager for Windows. It allows you to install a surprising range of software utilities from an administrative command line - `cmd.exe` or PowerShell will work.
 

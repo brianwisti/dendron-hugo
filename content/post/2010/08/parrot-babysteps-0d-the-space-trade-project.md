@@ -1,6 +1,6 @@
 ---
 created: '2024-02-20 23:08:10'
-date: 2010-08-02 00:00:00+00:00
+date: '2010-08-02T00:00:00.000Z'
 description: ''
 fname: pub.post.2010.08.parrot-babysteps-0d-the-space-trade-project
 id: k69d8tv57yph1umauztumax
@@ -15,7 +15,7 @@ tags:
 - learn
 - coolnamehere
 title: Parrot Babysteps 0d the Space Trade Project
-updated: '2024-08-07 18:37:56'
+updated: '2024-08-25 17:33:19'
 ---
 
 [Parrot Babysteps 0c the Stellar App]({{< relref "/post/2010/07/parrot-babysteps-0c-the-stellar-app.md" >}}) wrapped up the Stellar application for the moment, but I don't think I'm done with the space theme in [Parrot]({{< relref "/card/parrot.md" >}}) yet.
@@ -229,7 +229,7 @@ The first sub that's needed is `register_command`, which will add a `:dude` entr
 
 There is no special magic going on here. `command[':dude']` points to a Hash containing a subroutine name and an explanation of the command. `commands` is returned to the caller once the new command has been added.
 
-You can probably figure out what I expect to happen from the test code. I have a `say_dude` sub, and somehow I expect the shell to figure out how to call that sub when I ask for it by sending the `:dude` command. We've actually already done this, back when we were grabbing the `chomp` sub in *parrot-babysteps-06-files-and-hashes|/post/2009/06-files-and-hashes/*. The `get_global` [variable opcode](http://docs.parrot.org/parrot/latest/html/src/ops/var.ops.html) will look for a variable with a specified name and return it to us if it exists.
+You can probably figure out what I expect to happen from the test code. I have a `say_dude` sub, and somehow I expect the shell to figure out how to call that sub when I ask for it by sending the `:dude` command. We've actually already done this, back when we were grabbing the `chomp` sub in [Parrot Babysteps 06 Files and Hashes]({{< relref "/post/2009/10/parrot-babysteps-06-files-and-hashes.md" >}}). The `get_global` [variable opcode](http://docs.parrot.org/parrot/latest/html/src/ops/var.ops.html) will look for a variable with a specified name and return it to us if it exists.
 
     # example-0d-02/lib/spacetrade.pir
     .sub evaluate_command
@@ -629,3 +629,5 @@ It's certainly shorter than what I started with. How well does it work?
     Goodbye!
 
 It isn't perfect, but it will work for the moment. This new shell has most of the core behavior from the original, and we have shown that it will not be hard to add new commands. There is still a large part of me that thinks the code for the shell should be tucked into its own corner, where it cannot get mixed up with the code for the actual game. That will have to wait for the next step, though.
+
+Files

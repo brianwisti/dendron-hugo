@@ -9,7 +9,7 @@ title: Remove a File from Git History
 updated: '2024-02-10 14:44:12'
 ---
 
-Oops I had `.envrc` in my *inbox.git* repo.  Fixing it with `git-filter-repo`.
+Oops I had `.envrc` in my [Git]({{< relref "/card/git.md" >}}) repo.  Fixing it with `git-filter-repo`.
 
 ```shell
 git clone URL ~/tmp/

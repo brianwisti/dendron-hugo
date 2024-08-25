@@ -1,6 +1,6 @@
 ---
 created: '2024-02-13 14:41:36'
-date: 2020-02-17 00:00:00+00:00
+date: '2020-02-17T00:00:00.000Z'
 description: I got to know the Python `invoke` task runner a little better.
 fname: pub.post.2020.02.python-invoke
 id: td51650q010z36seuwgsoj2
@@ -30,7 +30,7 @@ But I want to try a more unified approach. I also decided that 2020 is my year o
 
 Don’t hold me to that "year of Python" thing. I get distracted.
 
-I could use the *inbox.pyinvoke* tool created by [Jeff Forcier](http://bitprophet.org/) for this unified approach.
+I could use the [Pyinvoke]({{< relref "/card/pyinvoke.md" >}}) tool created by [Jeff Forcier](http://bitprophet.org/) for this unified approach.
 
 Invoke gives you a task runner and support library for managing those tasks. It works a bit like Make, except that you define tasks with Python. Decorate some functions in a `tasks.py` file and you’re ready to go!
 

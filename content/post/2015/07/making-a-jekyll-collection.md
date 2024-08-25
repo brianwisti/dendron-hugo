@@ -15,7 +15,7 @@ tags:
 - site
 - tools
 title: Making a Jekyll Collection
-updated: '2024-08-07 18:43:21'
+updated: '2024-08-25 17:23:24'
 ---
 
 [Jekyll]({{< relref "/card/jekyll.md" >}}) currently generates the HTML for my site. I am curious about the experimental [collections](http://jekyllrb.com/docs/collections/) feature, and whether it could be useful for me.
@@ -46,7 +46,7 @@ A blog post probably works for most of these use cases. Maybe fiddle a bit with 
 
 There are also dedicated sites for all of these ideas, and those are good enough too. Some excel at the services they provide. They have concerns too. Now the visibility of your creations is tied to the fortunes and policies of whoever provides that service. Keeping that in a collection on your own site gives you a backup if the service goes away, at least.
 
-I could use collections for my knitting and crochet projects. I have a couple of *inbox.knitting* blog posts here. My [account](http://www.ravelry.com/people/brianwisti) on [Ravelry](https://www.ravelry.com) highlights a handful of other WIPs and FOs: *Works In Progress* and *Finished Objects*.
+I could use collections for my knitting and crochet projects. I have a couple of knitting blog posts here. My [account](http://www.ravelry.com/people/brianwisti) on [Ravelry](https://www.ravelry.com) highlights a handful of other WIPs and FOs: *Works In Progress* and *Finished Objects*.
 
 The blog posts work fine as blog posts, but I still want a separate way to organize those projects. The stuff on Ravelry can only be seen if you have an account with the service. That’s fine, but I have spent 2015 consolidating material I’ve created elsewhere onto my site. Ravelry is a reasonable next target for me.
 

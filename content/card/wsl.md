@@ -9,7 +9,7 @@ updated: '2024-02-10 16:20:39'
 
 Windows Subsystem for Linux
 
-Either a heavyweight container or a lightweight VM. Either way, it's how I do *inbox.linux* when on *inbox.windows*.
+Either a heavyweight container or a lightweight VM. Either way, it's how I do [Linux]({{< relref "/card/linux.md" >}}) when on [Windows]({{< relref "/card/windows.md" >}}).
 
 # CLI Usage
 

@@ -1,9 +1,7 @@
 ---
 created: '2024-02-11 15:22:00'
-date: 2020-05-06 00:00:00+00:00
-description: 'I had entirely too much fun replacing my site metadata script with sqlite-utils
-
-  '
+date: '2020-05-06T00:00:00.000Z'
+description: ''
 fname: pub.post.2020.05.querying-hugo-content-with-python
 id: 8ntz8n17sdpflcli6wkzvv5
 slug: querying-hugo-content-with-python
@@ -17,10 +15,14 @@ tags:
 - workflow
 - tools
 title: Querying Hugo Content with Python
-updated: '2024-08-07 19:02:53'
+updated: '2024-08-25 14:25:14'
 ---
 
 ![line graph of posts by year with year 0001 appearing with entries](assets/img/2020/cover-2020-05-06.png "My blogging output by year – bet you didn’t know there were blogs in 1 CE")
+
+I had entirely too much fun replacing my site metadata script with sqlite-utils
+
+<!--more-->
 
 ## The plan
 
@@ -103,7 +105,7 @@ I’ll stick to Python for now. But surely we can do better than the duct tape s
 
 ## What’s `sqlite-utils`?
 
-[`sqlite-utils`](https://sqlite-utils.readthedocs.io/) provides both a Python library and a command line too for building and querying SQLite databases. It can guess a schema from structures as you insert them — though you can be explicit if you prefer. It’s particularly useful for bulk inserting or exporting data dumps in *inbox.json* or [CSV]({{< relref "/card/csv.md" >}}).
+[`sqlite-utils`](https://sqlite-utils.readthedocs.io/) provides both a Python library and a command line too for building and querying SQLite databases. It can guess a schema from structures as you insert them — though you can be explicit if you prefer. It’s particularly useful for bulk inserting or exporting data dumps in [JSON]({{< relref "/card/json.md" >}}) or [CSV]({{< relref "/card/csv.md" >}}).
 
 Makes sense. It’s part of the [Datasette ecosystem](https://datasette.readthedocs.io/en/stable/ecosystem.html#ecosystem).  Willison’s Datasette project simplifies exploring and publishing data for folks who understand data but not necessarily databases.
 
@@ -416,8 +418,8 @@ Yep. Datasette is pretty nifty. I’m not missing `q` at all. And I’m *really*
 That was fun! Still got a lot ahead of me.
 
 - Figuring out the quickest way to refresh the database
-- Adding those IndieWeb tables, so I can review *inbox.webmention* updates
-- New *inbox.pyinvoke* tasks to build, query, and explore the database
+- Adding those IndieWeb tables, so I can review [Webmention]({{< relref "/card/webmention.md" >}}) updates
+- New [Pyinvoke]({{< relref "/card/pyinvoke.md" >}}) tasks to build, query, and explore the database
 - Fixing those tasks that still call out to my old and busted `query` Python
 - Make my Datasette site dashboard pretty
 

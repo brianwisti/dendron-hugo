@@ -9,7 +9,7 @@ syndication:
 tags:
 - snapshot
 title: Snapshot — Vacation Time
-updated: '2024-08-22 04:05:17'
+updated: '2024-08-25 13:37:22'
 ---
 
 oops didn't mean to skip a whole month
@@ -33,7 +33,7 @@ Finally on [ADHD]({{< relref "/card/adhd.md" >}}) meds for the first time in ove
 Been a little distracted for the last couple of weeks to log many bookmarks. Good thing it's been a month since my last snapshot!
 
 [GitHub - boltex/leointeg: Leo Editor Integration with VS Code](https://github.com/boltex/leointeg)
-: lets you use [Leo editor](https://leo-editor.github.io/leo-editor/) – a very funky flexible *inbox.literate-programming* and [PKM]({{< relref "/card/pkm.md" >}}) tool – from [Visual Studio Code]({{< relref "/card/vs-code.md" >}})
+: lets you use [Leo editor](https://leo-editor.github.io/leo-editor/) – a very funky flexible *literate programming* and [PKM]({{< relref "/card/pkm.md" >}}) tool – from [Visual Studio Code]({{< relref "/card/vs-code.md" >}})
 
 [Apple Annie’s Weblog · What I've learned about CSS `color-scheme` and friends.](https://weblog.anniegreens.lol/2024/04/what-ive-learned-about-css-color-scheme-and-system-color)
 : a great breakdown on one of the easiest ways to enable dark mode in your [CSS]({{< relref "/card/css.md" >}})

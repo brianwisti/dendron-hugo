@@ -13,10 +13,10 @@ tags:
 - shell
 - tools
 title: Pretty Recursive Grep
-updated: '2024-02-22 17:34:29'
+updated: '2024-08-25 17:24:49'
 ---
 
-> [!NOTE] *tldr*
+> [!NOTE] [Tldr]({{< relref "/card/tldr.md" >}})
 > Set `GREP_OPTIONS='-RI --color=auto'`. Or install [ack](http://beyondgrep.com).
 
 <!--more-->

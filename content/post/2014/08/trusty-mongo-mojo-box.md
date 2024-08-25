@@ -17,10 +17,10 @@ tags:
 - mojolicious
 - tools
 title: Trusty Mongo Mojo Box
-updated: '2024-08-07 18:41:09'
+updated: '2024-08-25 17:24:18'
 ---
 
-> [!NOTE] *card.tldr*
+> [!NOTE] [Tldr]({{< relref "/card/tldr.md" >}})
 > Install Vagrant & VirtualBox.
 >
 > ```bash

@@ -13,11 +13,11 @@ tags:
 - ruby
 - blogspot
 title: Aliases
-updated: '2024-08-07 18:30:52'
+updated: '2024-08-25 13:18:10'
 ---
 
 Here's my [TIL]({{< relref "/card/til.md" >}}) for [Ruby]({{< relref "/card/ruby/_index.md" >}}). When you override a method in a subclass, you also need to redeclare any aliases for that method. Seems pretty obvious when you think about it. I didn't think about it, though, and it caught me up for a few minutes.
 
-I'd post a block of sample code, but I keep getting `"body, Malformed HTML found."`
-errors from [43 Things]({{< relref "/card/43-things.md" >}}) whenever I try to save with my code in there (`pre` tags and
-all)
+I'd post a block of sample code, but I keep getting `"body, Malformed HTML found."` errors from 43 Things[^1] whenever I try to save with my code in there (`pre` tags and all)
+
+[^1]: One of the prototypical social networks. I was there instead of Friendster. [43 Things - Wikipedia](https://en.wikipedia.org/wiki/43_Things)

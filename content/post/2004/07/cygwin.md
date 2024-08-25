@@ -1,6 +1,6 @@
 ---
 created: '2024-02-11 05:24:19'
-date: 2004-07-08 00:00:00+00:00
+date: '2004-07-08T00:00:00.000Z'
 description: Unix for the Windows World
 fname: pub.post.2004.07.cygwin
 id: qcrowhvqyrg3kiobwigyd8s
@@ -15,7 +15,7 @@ title: Cygwin
 updated: '2024-02-11 05:30:09'
 ---
 
-Okay, so you’re a geek. Or you’d like to be. All of your cool friends are running *inbox.linux* — or maybe even [FreeBSD](http://www.freebsd.org/). You’d like to install something with a distinctly geeky UNIX flavor. There’s a problem, though. You’ve got a PC, it runs *inbox.windows*, and your parents / spouse / girlfriend / boyfriend / children will cause you great pain — or at least a great headache — if you do anything to endanger their comfortable environment. Chopping your hard drive in half to put a new operating system on it will probably end in tears. What to do?
+Okay, so you’re a geek. Or you’d like to be. All of your cool friends are running [Linux]({{< relref "/card/linux.md" >}}) — or maybe even [FreeBSD](http://www.freebsd.org/). You’d like to install something with a distinctly geeky UNIX flavor. There’s a problem, though. You’ve got a PC, it runs [Windows]({{< relref "/card/windows.md" >}}), and your parents / spouse / girlfriend / boyfriend / children will cause you great pain — or at least a great headache — if you do anything to endanger their comfortable environment. Chopping your hard drive in half to put a new operating system on it will probably end in tears. What to do?
 
 Or maybe you’re like me. You are sort of a geek. You like to program, and you enjoy the command line. Heck, you even like X11. Trouble is, you’ve also got a few decent Windows programs, and you don’t feel like rebooting every time you want to play Civilization IV or muck about with [Adobe Photoshop](http://www.adobe.com/products/photoshop/main.html). If you were a real geek, you could probably do something with [Wine](http://winehq.com/). You’re not a real geek, though – at least not the sort who can work their way through a binary compatibility layer. I’m with you. Heck, I can’t even type “binary compatibility layer” without a spellchecker handy. What should we do?
 

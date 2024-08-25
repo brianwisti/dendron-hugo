@@ -12,7 +12,7 @@ tags:
 - python
 - programming
 title: A Quick Notes Script for Taskwarrior
-updated: '2024-08-07 18:58:12'
+updated: '2024-08-25 17:06:52'
 ---
 
 ![Vim in terminal with a task note](assets/img/2020/cover-2020-01-12.png)
@@ -249,7 +249,7 @@ if __name__ == "__main__":
 I know. I didn’t want task metadata yet. It quickly became obvious that I would forget what task is involved unless I put *something*. So now the script adds the task description to a header line the first time a note is opened.
 
 > [!WARNING]
-> Remember to `flush` your filehandles before handing control over to external processes like *Vim*. Python takes care of files and buffers on its own schedule. Launching an external process interrupts Python’s schedule. So let Python know!
+> Remember to `flush` your filehandles before handing control over to external processes like [Vim]({{< relref "/card/vim.md" >}}). Python takes care of files and buffers on its own schedule. Launching an external process interrupts Python’s schedule. So let Python know!
 
 Also threw in some error checking after the first time I tried writing notes for a nonexistent task.
 

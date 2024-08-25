@@ -12,7 +12,7 @@ tags:
 - ruby
 - coolnamehere
 title: Ruby and the HYG Star Catalog
-updated: '2024-08-07 18:38:15'
+updated: '2024-08-25 17:30:25'
 ---
 
 One of my big projects over the last year has been learning [Parrot]({{< relref "/card/parrot.md" >}}). One of the more interesting tasks in that tutorial was reading a [CSV]({{< relref "/card/csv.md" >}}) file in [Parrot Babysteps 06 Files and Hashes]({{< relref "/post/2009/10/parrot-babysteps-06-files-and-hashes.md" >}}). I used the [HYG Star Catalog](http://www.astronexus.com/node/34) as a sample CSV file that was large enough to present some interesting data. This was fun in Parrot, but obviously I thought quite a bit about how I would tackle the problem in a higher level language such as [Ruby]({{< relref "/card/ruby/_index.md" >}}). Today seems like a good day to find out.
@@ -36,7 +36,7 @@ wget http://www.astronexus.com/files/downloads/hygxyz.csv.gz
 tar xfvz hygxyz.csv.gz
 ```
 
-If we open `hygxyz.csv` in our favorite *Editor*, we will see that the file is large and bewildering.
+If we open `hygxyz.csv` in our favorite [Text Editor]({{< relref "/card/text-editor.md" >}}), we will see that the file is large and bewildering.
 
 ```csv
 StarID,HIP,HD,HR,Gliese,BayerFlamsteed,ProperName,RA,Dec,Distance,PMRA,PMDec,RV,Mag,AbsMag,Spectrum,ColorIndex,X,Y,Z,VX,VY,VZ
@@ -201,7 +201,7 @@ Sorry, I got sleepy. Is it done? I should have put a `break` in that code after 
 
 ### Creating a Database
 
-I would imagine that stuffing these values into a database should make simple questions like "show me the star named 'Sol'" or "count the stars within 10 light years" pretty straightforward. We can use a lightweight database such as *SQLite*. There may be nearly 120,000 stars in the catalog, but that is trivial for SQLite. I have heard anecdotal reports of it being used for tables with millions of rows.
+I would imagine that stuffing these values into a database should make simple questions like "show me the star named 'Sol'" or "count the stars within 10 light years" pretty straightforward. We can use a lightweight database such as [SQLite]({{< relref "/card/sqlite.md" >}}). There may be nearly 120,000 stars in the catalog, but that is trivial for SQLite. I have heard anecdotal reports of it being used for tables with millions of rows.
 
 First, I want to install `sqlite3`.
 

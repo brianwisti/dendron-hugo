@@ -1,7 +1,7 @@
 ---
 created: '2024-02-12 02:51:26'
 date: 2020-05-19 00:00:00+00:00
-description: Rakudobrew changed its name since last I looked
+description: ''
 fname: pub.post.2020.05.setting-up-raku-with-rakubrew
 id: bk0rae7tixe7p80ul70j5bz
 redirects:
@@ -15,8 +15,12 @@ tags:
 - rakubrew
 - tools
 title: Setting up Raku with Rakubrew
-updated: '2024-08-07 19:02:59'
+updated: '2024-08-25 14:47:32'
 ---
+
+Rakudobrew changed its name since last I looked
+
+<!--more-->
 
 I was avoiding Rakudobrew for some now-forgotten technical reason.  Probably couldn’t get a particular Perl 6 release to build.  But I’m tired of one-off scripts or distribution packages that don’t quite match my expectations. What’s new in the Perl 6 language manager world?
 
@@ -41,7 +45,7 @@ how to fix it, please visit the web page mentioned above.
 
 Firefox thinks the site’s fine, though.  I’ll download `install-on-perl.sh` and run it locally.  Oh nice, shell initialization instructions specific to the shell I’m running.
 
-``` text
+```console
 $ sh ~/Downloads/install-on-perl.sh
 Downloading rakubrew...
 Installing rakubrew to /home/random/.rakubrew ...
@@ -58,9 +62,7 @@ This can be easily done using:
 
 I do not yet have rakubrew on all my machines, but I *do* have nearly the same config everywhere.  The logic I want looks a little more like this.
 
-**`~/.zshenv`**
-
-``` bash
+``` bash{title="~/.zshenv"}
 export RAKUBREW_HOME=``$HOME/.rakubrew''
 
 if [ -d "$RAKUBREW_HOME" ]; then

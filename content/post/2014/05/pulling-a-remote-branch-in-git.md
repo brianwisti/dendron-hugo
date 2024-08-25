@@ -14,11 +14,11 @@ tags:
 - shell
 - tools
 title: Pulling a Remote Branch in Git
-updated: '2024-02-22 16:48:32'
+updated: '2024-08-25 17:25:28'
 ---
 
-> [!NOTE] *card.tldr*
-> `git branch -r` to list remote branches. `git checkout --track -b <local-branch> <remote>/<branch>` to check your branch out.
+> [!NOTE] [Tldr]({{< relref "/card/tldr.md" >}})
+> `git branch -r` to list remote branches. `git checkout --track -b <local-branch> <remote>/<branch>` to check your [Git]({{< relref "/card/git.md" >}}) branch out.
 
 <!--more-->
 

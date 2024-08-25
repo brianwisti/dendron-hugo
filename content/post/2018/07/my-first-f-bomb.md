@@ -12,10 +12,10 @@ tags:
 - crochet
 - craft
 title: My First F Bomb
-updated: '2024-03-06 15:08:40'
+updated: '2024-08-25 17:20:39'
 ---
 
-Took a break this weekend *inbox.knitting* a quick yarn project.
+Took a break this weekend knitting a quick yarn project.
 <!--more-->
 
 ![knitted ball bomb with red "F" stitched on](assets/img/2018/cover-2018-07-01.jpg)

@@ -1,6 +1,6 @@
 ---
 created: '2024-03-06 15:18:53'
-date: 2018-08-30
+date: '2018-08-30T00:00:00.000Z'
 description: ''
 fname: pub.post.2018.08.windows-virtual-desktops
 id: 39ih70z4d379y2d883psuz4
@@ -14,7 +14,7 @@ title: Windows Virtual Desktops
 updated: '2024-03-06 15:19:29'
 ---
 
-A short post noting *inbox.windows* 10 keyboard shortcuts for virtual desktops
+A short post noting [Windows]({{< relref "/card/windows.md" >}}) 10 keyboard shortcuts for virtual desktops
 <!--more-->
 
 I started spending more time in Windows recently for a change of pace. One feature in Windows 10 that pleases me is the [virtual desktop](https://en.wikipedia.org/wiki/Virtual_desktop), a way of keeping your applications in different visual spaces. Virtual desktops have been a fixture of life in my Linux and macOS for many years. It's great to see them in Windows!

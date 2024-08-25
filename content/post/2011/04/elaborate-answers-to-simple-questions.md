@@ -8,18 +8,17 @@ redirects:
 - /blogspot/2011/04/14_elaborate-answers-to-simple-questions.html
 - /post/2011/elaborate-answers-to-simple-questions/
 - /2011/04/14/elaborate-answers-to-simple-questions/
-- /post/2011/04/elaborate-answers-to-simple-questions/
 slug: elaborate-answers-to-simple-questions
 tags:
 - python
 - blogspot
 title: Elaborate Answers to Simple Questions
-updated: '2024-02-22 13:54:20'
+updated: '2024-08-25 17:29:19'
 ---
 
 Use `string` methods instead of importing `string`. Build email messages with the standard [email](http://docs.python.org.library.email.html)library.
 
-I saw an email last night from somebody with a simple *Python* question.
+I saw an email last night from somebody with a simple [Python]({{< relref "/card/python.md" >}}) question.
 
 > Hi,
 >

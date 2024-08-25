@@ -1,6 +1,6 @@
 ---
 created: '2024-02-12 04:11:39'
-date: 2021-09-04 00:00:00+00:00
+date: '2021-09-04T00:00:00.000Z'
 description: I only golfed it the tiniest bit
 fname: pub.post.2021.09.wrote-a-node-js-version-of-my-content-format-counter
 id: g8iotbun1sddmf2uj2irovv
@@ -33,7 +33,7 @@ Bag(html(39) md(542))
 
 Unfortunately, it didn't cover all the content extension once I figured out that Hugo can ignore `*.txt` files, allowing me to try all sorts of with content generation.
 
-So I've had this [Ruby]({{< relref "/card/ruby/_index.md" >}}) code embedded in my *config.justfile*.
+So I've had this [Ruby]({{< relref "/card/ruby/_index.md" >}}) code embedded in my [Justfile]({{< relref "/config/justfile.md" >}}).
 
 ``` ruby
 #!/usr/bin/env ruby

@@ -15,10 +15,10 @@ tags:
 - procreate
 - symmetry
 title: Again with the Manual Symmetry
-updated: '2024-02-12 15:37:59'
+updated: '2024-08-25 17:09:03'
 ---
 
-I spent forty hours over the last month or so *inbox.drawing* this.
+I spent forty hours over the last month or so drawing this.
 
 ![intricate mandala-style image split into black and white, grayscale, and red hue overlays](assets/img/2019/cover-2019-12-15.jpg)
 

@@ -11,14 +11,14 @@ syndication:
 tags:
 - hugo
 title: Hugo Render Hooks for Titled Code Blocks
-updated: '2024-04-05 03:25:08'
+updated: '2024-08-25 13:42:29'
 ---
 
 ![titled code block](assets/img/2023/cover-2023-01-19.png "an illustrative example")
 
 I like to label my code blocks, especially when they describe the contents of a specific file.
 
-That's been possible with *Hugo* since 0.93.0, using [render hooks for code blocks](https://gohugo.io/templates/render-hooks/#render-hooks-for-code-blocks). Render hooks let you use custom templates for all instances of certain Markdown structures such as links, headers, images, and code! I didn't think to try them out for labeling code until just now, though. This [comment](https://discourse.gohugo.io/t/is-there-a-good-reason-not-to-have-a-mechanism-facilitating-a-title-for-code-blocks/40554/3) from Hugo Discourse user pamubay got me started. My template builds directly on theirs.
+That's been possible with [Hugo]({{< relref "/card/hugo.md" >}}) since 0.93.0, using [render hooks for code blocks](https://gohugo.io/templates/render-hooks/#render-hooks-for-code-blocks). Render hooks let you use custom templates for all instances of certain Markdown structures such as links, headers, images, and code! I didn't think to try them out for labeling code until just now, though. This [comment](https://discourse.gohugo.io/t/is-there-a-good-reason-not-to-have-a-mechanism-facilitating-a-title-for-code-blocks/40554/3) from Hugo Discourse user pamubay got me started. My template builds directly on theirs.
 
 ```html {title="layouts/_default/render-codeblock.html"}
 {{- $isVerbatim := true -}}

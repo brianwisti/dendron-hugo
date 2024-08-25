@@ -4,7 +4,7 @@ banner:
   caption: I drew this with Amaziograph
   href: assets/img/2020/cover-2020-02-05.jpg
 created: '2024-02-13 14:38:59'
-date: 2020-02-05 00:00:00+00:00
+date: '2020-02-05T00:00:00.000Z'
 description: ''
 fname: pub.post.2020.02.inv-note
 id: 2j3v18889se9y4oj8c8351f
@@ -20,8 +20,8 @@ tags:
 - drawing
 - amaziograph
 - fun
-title: Inv Note
-updated: '2024-08-01 22:35:42'
+title: inv note
+updated: '2024-08-25 14:05:51'
 ---
 
 ![tiled symmetry drawing in green and yellow tones](assets/img/2020/cover-2020-02-05.jpg "I drew this with Amaziograph")
@@ -30,7 +30,7 @@ updated: '2024-08-01 22:35:42'
 inv note --title='inv note'
 ```
 
-Don’t mind me. I’m just trying an experiment with using *inbox.pyinvoke* for my site workflow instead of [Make](https://www.gnu.org/software/make/).
+Don’t mind me. I’m just trying an experiment with using [Pyinvoke]({{< relref "/card/pyinvoke.md" >}}) for my site workflow instead of [Make](https://www.gnu.org/software/make/).
 
 ```console
 $ inv serve

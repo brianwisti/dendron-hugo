@@ -10,23 +10,22 @@ redirects:
 - /2009/07/10/parrot-babysteps/
 series:
 - Parrot Babysteps
-slug: parrot-babysteps
 tags:
 - parrot
 - learn
 - coolnamehere
 title: Parrot Babysteps
-updated: '2024-08-07 18:36:25'
+updated: '2024-08-25 17:35:52'
 ---
 
 ## Introduction
 
-I thought that maybe I could write a raw beginner's introduction to [Parrot]({{< relref "/card/parrot.md" >}}). This is a fair challenge, since coding directly for Parrot requires more work than using one of the languages that (2024 edit: was) written on top of the platform, such as *Raku*. Still, my philosophy is that people shouldn't be afraid to dip their feet in new water, no matter how
+I thought that maybe I could write a raw beginner's introduction to [Parrot]({{< relref "/card/parrot.md" >}}). This is a fair challenge, since coding directly for Parrot requires more work than using one of the languages that (2024 edit: was) written on top of the platform, such as [Raku]({{< relref "/card/raku.md" >}}). Still, my philosophy is that people shouldn't be afraid to dip their feet in new water, no matter how
 cold or forbidding it may look.
 
 ## What?
 
-[Parrot](http://parrot.org) is the name for the virtual machine that drives [Rakudo](http://rakudo.org) and [many other languages](http://www.parrot.org/languages). Part of the problem with writing programs has always been getting it to work on somebody else's machine. Sure, it's no problem if you're both using [Ubuntu](http://ubuntu.com), but what if you use Ubuntu and your friend uses Microsoft Windows? Of course, because it's been a problem for a long time there have been solutions for a long time as well. Python provides reasonable cross-platform standard libraries while still allowing you to "dive down" into operating system specifics.  As far as I can tell, *Perl* solves the problem by [pretending that everything is Unix](http://perldoc.perl.org/perlfork.html), but providing extensive libraries via the [CPAN](http://cpan.org) when you need to get at behavior that Perl can't just fake its way through.
+[Parrot](http://parrot.org) is the name for the virtual machine that drives [Rakudo](http://rakudo.org) and [many other languages](http://www.parrot.org/languages). Part of the problem with writing programs has always been getting it to work on somebody else's machine. Sure, it's no problem if you're both using [Ubuntu](http://ubuntu.com), but what if you use Ubuntu and your friend uses Microsoft Windows? Of course, because it's been a problem for a long time there have been solutions for a long time as well. Python provides reasonable cross-platform standard libraries while still allowing you to "dive down" into operating system specifics.  As far as I can tell, [Perl]({{< relref "/card/perl.md" >}}) solves the problem by [pretending that everything is Unix](http://perldoc.perl.org/perlfork.html), but providing extensive libraries via the [CPAN](http://cpan.org) when you need to get at behavior that Perl can't just fake its way through.
 
 Another solution that is becoming more popular is the [virtual machine](http://en.wikipedia.org/wiki/Virtual_machine) - more or less a pretend computer sitting on top of your own computer. Developers can all focus on writing code that works on the virtual machine, and the virtual machine - or "VM" - concerns itself with how to make the code work on *your* machine.
 

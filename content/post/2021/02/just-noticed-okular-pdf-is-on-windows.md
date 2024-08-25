@@ -1,6 +1,6 @@
 ---
 created: '2024-02-11 19:51:31'
-date: 2021-02-19 19:37:37+00:00
+date: '2021-02-19T19:37:37.000Z'
 description: ''
 fname: pub.post.2021.02.just-noticed-okular-pdf-is-on-windows
 id: f0qv58chtiwg8j60wn0hc9c
@@ -16,7 +16,7 @@ updated: '2024-02-28 15:15:46'
 
 ![Okular document viewer with several tabs open including "Programming Crystal"](assets/img/2021/cover-2021-02-19.png)
 
-[Okular](https://okular.kde.org), the *inbox.kde* document viewer, works on Windows. Not only that, but it's available in the [Microsoft Store](https://www.microsoft.com/en-us/p/okular/9n41msq1wnm8).
+[Okular](https://okular.kde.org), the [KDE]({{< relref "/card/kde.md" >}}) document viewer, works on Windows. Not only that, but it's available in the [Microsoft Store](https://www.microsoft.com/en-us/p/okular/9n41msq1wnm8).
 
 Free, obviously.
 

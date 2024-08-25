@@ -16,7 +16,7 @@ tags:
 - learn
 - coolnamehere
 title: REBOL Babysteps 04 Repeating Yourself
-updated: '2024-08-07 18:30:34'
+updated: '2024-08-25 17:41:16'
 ---
 
 Now we know how to do things, and we know how to choose whether or not we will do something. We’re getting close to having some real skills with [Rebol]({{< relref "/card/rebol.md" >}}). We just need to get the understanding of one more concept before we reach the first little plateau of programming knowledge. We need to learn how to do a task more than once. Well, besides just running the script again, but that doesn’t really count.
@@ -154,7 +154,7 @@ The next sort of repetition structure is `for`, which adds a starting point, sto
 >> for num 1 9 1 [ print ["3 x" num "is" 3 * num] ]
 ```
 
-We have a loop variable, `num`, which starts at `1` and goes up to `9` `1` number at a time. Of course, `repeat num 9` does exactly the same thing. `for` tends to be more useful in loops for "real-world" code, though, where you need more control over what’s being looped. You want some real world code? Hmm. Oh, I know. Let’s answer the age-old question, "How much should I tip? That way we can play a little bit with some *rebol-datatypes|datatypes* while helping out our friends in the food service industry. Hey, what do you expect from me? I was a waiter for ten years, so this is the sort of stuff that pops into my head!
+We have a loop variable, `num`, which starts at `1` and goes up to `9` `1` number at a time. Of course, `repeat num 9` does exactly the same thing. `for` tends to be more useful in loops for "real-world" code, though, where you need more control over what’s being looped. You want some real world code? Hmm. Oh, I know. Let’s answer the age-old question, "How much should I tip? That way we can play a little bit with some [Rebol Datatypes]({{< relref "/post/2004/12/rebol-datatypes.md" >}}) while helping out our friends in the food service industry. Hey, what do you expect from me? I was a waiter for ten years, so this is the sort of stuff that pops into my head!
 
 ```plaintext
 >> for bill $10 $20 $1 [

@@ -13,7 +13,7 @@ tags:
 - exiftool
 - tools
 title: Getting File Info from the Shell
-updated: '2024-02-11 20:03:39'
+updated: '2024-08-25 17:05:11'
 ---
 
 ![a dirty keyboard with nearby trackball](assets/img/2020/cover-2020-04-21.jpg "also, it is time to vacuum my desk again")
@@ -110,7 +110,7 @@ ImageWidth: 800
 ImageHeight: 487
 ```
 
-We could tell ExifTool to format its report for processing by *CSV* or [JSON](https://github.com/burningtree/awesome-json) tools.
+We could tell ExifTool to format its report for processing by [CSV]({{< relref "/card/csv.md" >}}) or [JSON]({{< relref "/card/json.md" >}}) tools.
 
 ```console
 $ exiftool -j basement-original.jpg

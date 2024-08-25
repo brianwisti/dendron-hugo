@@ -14,7 +14,7 @@ tags:
 - site
 - coolnamehere
 title: Rake
-updated: '2024-08-07 18:39:01'
+updated: '2024-08-25 17:28:41'
 ---
 
 [rake]: https://ruby.github.io/rake/
@@ -46,15 +46,9 @@ This is not going to be an in-depth Rake tutorial.  I’ve noticed a lack of sim
 
 [plurk]: https://plurk.com
 
-I have a Web site. You may have noticed that.
-If you only know me from my frequent postings on social network sites like [Plurk][plurk] or Google+.
-I assure you that I do indeed have a Web site.
+I have a Web site. You may have noticed that. If you only know me from my frequent postings on social network sites like [Plurk][plurk] or Google+. I assure you that I do indeed have a Web site.
 
-The thing about my Web site is that rather than use Drupal or some other convenient Content Management System,
-I use a tool that generates static HTML.
-The static HTML and associated files like images and stylesheets are then uploaded to an inexpensive Web host.
-Hey.
-It works for me.
+The thing about my Web site is that rather than use Drupal or some other convenient Content Management System, I use a tool that generates static HTML. The static HTML and associated files like images and stylesheets are then uploaded to an inexpensive Web host. Hey. It works for me.
 Static HTML serves fast, and I don’t change the content on my site *that* often.
 
 I invoke a simple command to build my site before uploading it.
@@ -139,10 +133,7 @@ That is why limiting the task list to described tasks is a good idea.
 
 ### A Second Task
 
-As I mentioned before, part of the reason I am writing a Rakefile is because I want to use Compass to define the styles for coolnamehere.
-I set up a Compass project parallel to my site sources, including the blueprint module.
-The Compass project is called "style".
-My projects generally do not have clever names.
+As I mentioned before, part of the reason I am writing a Rakefile is because I want to use Compass to define the styles for coolnamehere. I set up a Compass project parallel to my site sources, including the blueprint module. The Compass project is called "style". My projects generally do not have clever names.
 
 If you *really* want to play along, here is how I set up my Compass project.
 
@@ -170,11 +161,7 @@ unchanged style/sass/print.scss
 unchanged style/sass/screen.scss
 ```
 
-There is still a problem, though.
-All of the stylesheets are in `style/stylesheets`,
-but the working stylesheets have been over in `site/inc/css`.
-I need Rake to copy the finished stylesheets to the expected location.
-Might as well copy the images that are sitting in the `style` project while I am at it.
+There is still a problem, though. All of the stylesheets are in `style/stylesheets`, but the working stylesheets have been over in `site/inc/css`. I need Rake to copy the finished stylesheets to the expected location. Might as well copy the images that are sitting in the `style` project while I am at it.
 
 ``` ruby
 desc "Generate style sheets"
@@ -185,8 +172,7 @@ task :css do
 end
 ```
 
-Rake conveniently imports the FileUtils module.
-This lets me use Ruby standard library methods such as `cp` to copy a list of files rather than relying on platform-specific shell commands.
+Rake conveniently imports the FileUtils module. This lets me use Ruby standard library methods such as `cp` to copy a list of files rather than relying on platform-specific shell commands.
 
 What does that look like in action?
 
@@ -200,15 +186,11 @@ cp -r style/stylesheets/ie.css style/stylesheets/print.css style/stylesheets/scr
 cp -r style/images/grid.png source/inc/images
 ```
 
-Good enough.
-Excuse me while I adjust my HTML template to point at the right stylesheets.
+Good enough. Excuse me while I adjust my HTML template to point at the right stylesheets.
 
 ### Setting a Dependency
 
-There are already awkward bits to the Rakefile as it is right now.
-I need to run two commands in order to build the site completely.
-Because `site-builder.py` also copies the site files to a new location, I must also remember to run the commands in the correct order.
-If I don’t, then the generated CSS will go into my site sources after the HTML has already been generated and copied.
+There are already awkward bits to the Rakefile as it is right now. I need to run two commands in order to build the site completely. Because `site-builder.py` also copies the site files to a new location, I must also remember to run the commands in the correct order. If I don’t, then the generated CSS will go into my site sources after the HTML has already been generated and copied.
 
 ```console
 $ rake css
@@ -217,8 +199,7 @@ $ rake html
 ...
 ```
 
-What if I made `:css` a *dependency* of `:html`?
-Rake would make sure that the `:css` task was executed before it tried to execute the `:html` task.
+What if I made `:css` a *dependency* of `:html`? Rake would make sure that the `:css` task was executed before it tried to execute the `:html` task.
 
 A little syntax trickery simplifies the task of describing a task’s dependencies.
 
@@ -229,8 +210,7 @@ task :html => [:css] do
 end
 ```
 
-Now instead of just a name for the task, we are giving `task` a Hash.
-The only key of that Hash is the name of the task, and the value is a list of tasks which this one depends on.
+Now instead of just a name for the task, we are giving `task` a Hash. The only key of that Hash is the name of the task, and the value is a list of tasks which this one depends on.
 
 ```console
 $ rake html
@@ -244,17 +224,13 @@ python site-builder.py
 Look at me, I'm building a site!
 ```
 
-Excellent.
-Now I can generate both CSS and HTML from a single Rake command.
-I am going to work a little bit on the styles, and to see if I notice any other little issues with my Rakefile.
+Excellent. Now I can generate both CSS and HTML from a single Rake command. I am going to work a little bit on the styles, and to see if I notice any other little issues with my Rakefile.
 
 ### Setting The Default Task
 
 It has been pretty effective so far. Incidentally, Compass is kind of awesome. I highly recommend you check it out for your Web design needs.
 
-It would be nice if I could make the `rake` call a little shorter, though.
-I have a shortcut set up in *Vim* that invokes Rake with a default argument.
-It would be nice to use that shortcut while I am working on coolnamehere.
+It would be nice if I could make the `rake` call a little shorter, though. I have a shortcut set up in [Vim]({{< relref "/card/vim.md" >}}) that invokes Rake with a default argument. It would be nice to use that shortcut while I am working on coolnamehere.
 
 Rake already has rules for default tasks, actually. It looks for a task named "default" or `:default`. That makes sense. Let me set up a default task that depends on the `:html` task.
 

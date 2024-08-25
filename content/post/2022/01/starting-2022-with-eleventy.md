@@ -12,12 +12,12 @@ tags:
 - ssg
 - site
 title: Starting 2022 with Eleventy
-updated: '2024-08-07 19:08:43'
+updated: '2024-08-25 16:27:13'
 ---
 
 ![small possum in the grass](assets/img/2022/cover-2022-01-01.jpg "A baby possum!")
 
-Finally ported enough of my site to [Eleventy]({{< relref "/card/eleventy.md" >}}) that I feel like making it live. It's only been two and a half years since I started thinking about this in *thinking|pub.post.2019.04.ooh-eleventy* . Why rush into things, right?
+Finally ported enough of my site to [Eleventy]({{< relref "/card/eleventy.md" >}}) that I feel like making it live. It's only been two and a half years since I started thinking about this in [thinking]({{< relref "/post/2019/04/ooh-eleventy.md" >}}) . Why rush into things, right?
 
 <!--more-->
 
@@ -25,7 +25,7 @@ Finally ported enough of my site to [Eleventy]({{< relref "/card/eleventy.md" >}
 
 Well, Eleventy's got [Nunjucks](https://mozilla.github.io/nunjucks/) support, for starters. For the Pythonistas out there, Nunjucks is basically [Jinja](https://jinja2docs.readthedocs.io/en/stable/) for Node.js.
 
-Beyond that, the Node.js ecosystem is pretty lively, with plenty to keep the dedicated *ssg-is-for-putterers|putterer* occupied for a bit. Eleventy can hook into enough of that without going overboard on the [Jamstack](https://jamstack.com) application side of things. A gentle transition.
+Beyond that, the Node.js ecosystem is pretty lively, with plenty to keep the dedicated [putterer]({{< relref "/post/2020/09/ssg-is-for-putterers.md" >}}) occupied for a bit. Eleventy can hook into enough of that without going overboard on the [Jamstack](https://jamstack.com) application side of things. A gentle transition.
 
 ## This isn't even my final form
 

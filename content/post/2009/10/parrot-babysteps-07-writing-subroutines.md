@@ -16,7 +16,7 @@ tags:
 - learn
 - coolnamehere
 title: Parrot Babysteps 07 Writing Subroutines
-updated: '2024-08-07 18:37:01'
+updated: '2024-08-25 17:35:01'
 ---
 
 ## Introduction
@@ -163,9 +163,7 @@ you need to do is declare a `.sub`.
 I like my subroutine names to clearly describe the task being accomplished,
 to minimize the guesswork when I come back to code later.
 
-This subroutine accepts a single parameter: a Hash describing the star to be
-printed. We learned *parrot-babysteps-04-adding-command-line-arguments|a few steps ago*
-that the `.param` directive declares a parameter for your subroutine.
+This subroutine accepts a single parameter: a Hash describing the star to be printed. We learned [a few steps ago]({{< relref "/post/2009/09/parrot-babysteps-04-adding-command-line-arguments.md" >}}) that the `.param` directive declares a parameter for your subroutine.
 
     .sub say_star_details
         .param pmc star

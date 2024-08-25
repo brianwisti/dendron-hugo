@@ -6,14 +6,13 @@ id: c8lymuuvb5npa8vg1ubr45u
 redirects:
 - /now
 title: Now
-updated: '2024-08-06 17:58:46'
+updated: '2024-08-25 17:44:54'
 ---
 
-:::info
-Check out the [`/now`](https://sive.rs/nowff) page movement started by [Derek Sivers](https://sive.rs). You can get a [profile](https://nownownow.com/p/2ugf) if you set up a `/now` page.
-
-[`/now`](https://nownownow.com) --- it's like a [webring](https://en.wikipedia.org/wiki/Webring) for status pages!
-:::
+> [!NOTE]
+> Check out the [`/now`](https://sive.rs/nowff) page movement started by [Derek Sivers](https://sive.rs). You can get a [profile](https://nownownow.com/p/2ugf) if you set up a `/now` page.
+>
+> [`/now`](https://nownownow.com) --- it's like a [webring](https://en.wikipedia.org/wiki/Webring) for status pages!
 
 ## Where?
 
@@ -29,19 +28,18 @@ The critters? Two dogs, two cats.
 
 ## Doing what?
 
-Getting ready to start a new job!
+Just started a new job! It's [Devops]({{< relref "/card/devops.md" >}}) with some [Go]({{< relref "/card/go.md" >}}).
 
 ## General activities
 
 ### Reading
 
-- *library.head-first-data-analysis*
+- [[library.head-first-data-analysis]]
 
 ### Doing
 
-- [Job Search]({{< relref "/card/job-search.md" >}})
-- *scratch.moving-to-tucson*
-- *scratch.note-consolidation*
+- [[scratch.moving-to-tucson]]
+- [[scratch.note-consolidation]]
 
 ### Playing
 

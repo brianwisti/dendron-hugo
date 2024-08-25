@@ -14,12 +14,12 @@ tags:
 - hat
 - craft
 title: My Weston Hat
-updated: '2024-02-25 00:07:02'
+updated: '2024-08-25 17:22:11'
 ---
 
 ![knitted green hat with rope-like cabling from base to top](assets/img/2017/cover-2017-06-28.jpg)
 
-Ended up *Knitting* this one twice. Tried the large size first, and it ended up way too large for my taste. Frogged and restarted the smaller size, making a new set of mistakes. But the hat fits now and I’m not starting again!
+Ended up knitting this one twice. Tried the large size first, and it ended up way too large for my taste. Frogged and restarted the smaller size, making a new set of mistakes. But the hat fits now and I’m not starting again!
 
 ![Me wearing the Weston](assets/img/2017/me-wearing-weston-medium.jpg)
 

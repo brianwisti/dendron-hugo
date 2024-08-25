@@ -13,7 +13,7 @@ tags:
 - hugo
 - programming
 title: Crafts Are Now Posts
-updated: '2024-08-07 18:51:15'
+updated: '2024-08-25 17:21:49'
 ---
 
 I turned the craft section into a Craft category — then a tag years later. Drawing, Knitting, and Crochet became tags. The rest of this post is just notes about that.
@@ -58,7 +58,7 @@ For every markdown file in `content/craft`:
 * Oops I have some word case inconsistencies ("Knitting", "knitting"). Fix those.
 * Rewrite the file with the new front matter.
 
-I use *YAML* for front matter. Ruby includes a [core library](http://ruby-doc.org/stdlib-2.5.1/libdoc/yaml/rdoc/YAML.html) for handling YAML. [Find.find](http://ruby-doc.org/stdlib-2.5.1/libdoc/find/rdoc/Find.html#method-c-find) helps me find the markdown content files. This means I do not need to install extra libraries!
+I use [YAML]({{< relref "/card/yaml.md" >}}) for front matter. Ruby includes a [core library](http://ruby-doc.org/stdlib-2.5.1/libdoc/yaml/rdoc/YAML.html) for handling YAML. [Find.find](http://ruby-doc.org/stdlib-2.5.1/libdoc/find/rdoc/Find.html#method-c-find) helps me find the markdown content files. This means I do not need to install extra libraries!
 
 ``` ruby{title="migrate-craft.rb"}
 require 'find'

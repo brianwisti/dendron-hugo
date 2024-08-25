@@ -1,6 +1,6 @@
 ---
 created: '2024-02-20 23:22:15'
-date: 2010-10-11 00:00:00+00:00
+date: '2010-10-11T00:00:00.000Z'
 description: ''
 fname: pub.post.2010.10.parrot-babysteps-0e-parrot-namespaces
 id: 3zekat9l9czep55sm7a978b
@@ -16,7 +16,7 @@ tags:
 - learn
 - coolnamehere
 title: Parrot Babysteps 0e Parrot Namespaces
-updated: '2024-08-07 18:38:09'
+updated: '2024-08-25 17:32:06'
 ---
 
 Where was I? In [Parrot Babysteps 0d the Space Trade Project]({{< relref "/post/2010/08/parrot-babysteps-0d-the-space-trade-project.md" >}}), I started working out some rough ideas for a version of the old school [Star Trader](https://en.wikipedia.org/wiki/Star_Trader) game written in [Parrot]({{< relref "/card/parrot.md" >}}) PIR. I made a quick description and sketched up a list of the  features that would need to be created. One of those features was an interactive shell to be used in developing and hacking on that Space Trade game. I wrote a simple shell that could be extended, making it easier to expand the capabilities of the shell in the future - or even use the shell in some completely unforeseen future application.
@@ -70,14 +70,14 @@ It's time to try it out in `spacetrade.pir`. All of the code written so far is f
     .sub run_shell
         # ...
 
-Why do I say "SpaceTrade::Shell" rather than `['SpaceTrade';'Shell']` when talking about my namespace in this article? That is mainly because I am lazy. My fingers do not enjoy typing out all the characters to say `['SpaceTrace';'Shell']`, so I want to use a shorthand. "SpaceTrade::Shell" mimics a convention used by some Parrot programmers when talking about namespaces. It is a convention derived from the way that namespaces - or "packages" - are declared in *Perl*, which is another language of choice for many Parrot developers. I will switch to another convention if I see one that is both widely used and easy to type.
+Why do I say "SpaceTrade::Shell" rather than `['SpaceTrade';'Shell']` when talking about my namespace in this article? That is mainly because I am lazy. My fingers do not enjoy typing out all the characters to say `['SpaceTrace';'Shell']`, so I want to use a shorthand. "SpaceTrade::Shell" mimics a convention used by some Parrot programmers when talking about namespaces. It is a convention derived from the way that namespaces - or "packages" - are declared in [Perl]({{< relref "/card/perl.md" >}}), which is another language of choice for many Parrot developers. I will switch to another convention if I see one that is both widely used and easy to type.
 
 Back to SpaceTrade. I run `setup.pir test` out of curiosity.
 
     $ parrot setup.pir test
     t/01-shell-metacommands.t .. ok
     All tests successful.
-    Files=1, Tests=6,  0.015 wallclock secs
+    
     Result: PASS
 
 The tests pass, which is kind of cool. But *why* do they pass, if I have
@@ -128,7 +128,7 @@ What happens if I run the tests now?
 
 This is the error I was expecting to see initially, so I am happy. I suppose I could have put that `.namespace [ ]` directive at the end of `spacetrade.pir` - Parrot does not have any rules about where to end one namespace and start another - but I feel like that would have broken the way `.include` behaves. I will probably learn a better way to handle these little namespace issues eventually.
 
-Now I have library code tucked into a namespace and test code that doesn't know about the shell subroutines. A quick look at *parrot-babysteps-07-writing-subroutines|07-writing-subroutines/* shows how to get those shell subroutines into our current namespace. The `get_global` opcode allows us to grab a variable from another namespace. We used it in to grab the `chomp` subroutine from the String::Utils namespace. Let's use `get_global` to make the tested subroutines available.
+Now I have library code tucked into a namespace and test code that doesn't know about the shell subroutines. A quick look at [writing subroutines in Parrot]({{< relref "/post/2009/10/parrot-babysteps-07-writing-subroutines.md" >}}) shows how to get those shell subroutines into our current namespace. The `get_global` opcode allows us to grab a variable from another namespace. We used it in to grab the `chomp` subroutine from the String::Utils namespace. Let's use `get_global` to make the tested subroutines available.
 
     # example-0e-03/t/01-shell-metacommands.t
     .include 'lib/spacetrade.pir'

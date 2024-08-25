@@ -13,7 +13,7 @@ tags:
 - nikola
 - tools
 title: Building a Starter Blog with Nikola
-updated: '2024-08-07 18:58:18'
+updated: '2024-08-25 17:06:19'
 ---
 
 ![page header of blog with default Nikola theme](assets/img/2020/cover-2020-01-05.png)
@@ -233,7 +233,7 @@ Scanning posts........done!
 [2020-01-05T09:37:40Z] INFO: new_page: Your page's text is at: pages/now.rst
 ```
 
-Everybody could use a *now* page. Excuse me a moment while I edit `pages/now.rst`. Oh! Since it’s not a post, it won’t show up unless we link to it. The `/now` page is significant enough that it should go on the site menu.
+Everybody could use a [Now]({{< relref "/page/now.md" >}}) page. Excuse me a moment while I edit `pages/now.rst`. Oh! Since it’s not a post, it won’t show up unless we link to it. The `/now` page is significant enough that it should go on the site menu.
 
 Back over to `config.py`:
 

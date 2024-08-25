@@ -1,6 +1,6 @@
 ---
 created: '2024-02-16 17:15:32'
-date: 2020-05-20 00:00:00+00:00
+date: '2020-05-20T00:00:00.000Z'
 description: I killed some redirects for accessibility and likes
 fname: pub.post.2020.05.alias-templates-in-hugo
 id: u8yflgsvq0vr07n09w8bp5a
@@ -71,7 +71,7 @@ The visitor may briefly see a blank page.  Browsers visiting the old URL see the
 
 ## Now for today’s problem
 
-Now my *inbox.webmention* feed is busted.  The syndication links all point to the old URL.  Visitors get corrected, but Webmention senders don’t.  [Brid.gy](https://brid.gy/) — a lovely service which forwards social network reactions to your webmention handler — saw nothing to forward to!
+Now my [Webmention]({{< relref "/card/webmention.md" >}}) feed is busted.  The syndication links all point to the old URL.  Visitors get corrected, but Webmention senders don’t.  [Brid.gy](https://brid.gy/) — a lovely service which forwards social network reactions to your webmention handler — saw nothing to forward to!
 
 ![Bridgy dashboard showing "No webmention support" in responses to my old URL](assets/img/2020/bridgy.png)
 

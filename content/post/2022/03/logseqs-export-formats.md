@@ -64,7 +64,7 @@ Takes a bit, but eventually drops a zip file containing mostly mundane Markdown.
 Course, there's still a fair chunk for me to parse.
 
 - tags
-- those double bracket `*links*`
+- those double bracket `[[links]]`
 - plus I lose all my properties. Headings are just list items, and images have no caption. So yeah, "standard Markdown" is not an option for me.
 
 ### Export as OPML

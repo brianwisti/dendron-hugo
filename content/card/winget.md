@@ -7,7 +7,7 @@ title: Winget
 updated: '2024-02-10 16:18:54'
 ---
 
-Command line package manager for *inbox.windows*
+Command line package manager for [Windows]({{< relref "/card/windows.md" >}})
 
 ## Related
 

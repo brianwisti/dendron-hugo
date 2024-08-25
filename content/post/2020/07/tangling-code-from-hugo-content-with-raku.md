@@ -1,7 +1,7 @@
 ---
 created: '2024-02-11 05:42:21'
 date: 2020-07-08 00:00:00+00:00
-description: I could just use Org mode, but noo that's too easy
+description: ''
 fname: pub.post.2020.07.tangling-code-from-hugo-content-with-raku
 id: lmjmw8261xkme9dj97tp4oi
 redirects:
@@ -17,21 +17,23 @@ tags:
 - sortof
 - programming
 title: Tangling Code from Hugo Content with Raku
-updated: '2024-08-07 19:03:08'
+updated: '2024-08-25 15:37:14'
 ---
 
 ![closeup of densely tangled yarn](assets/img/2020/cover-2020-07-08.jpg "You know what else I can tangle? Yarn!")
 
-I spend a while using [Raku]({{< relref "/card/raku.md" >}}) to extract code from a [Hugo]({{< relref "/card/hugo.md" >}}) post.
+I could just use Org mode, but noo that's too easy.
 
 <!--more-->
+
+I spend a while using [Raku]({{< relref "/card/raku.md" >}}) to extract code from a [Hugo]({{< relref "/card/hugo.md" >}}) post.
 
 > [!NOTE] 2020-09-03
 > [@codesections@fosstodon.org](https://fosstodon.org/@codesections) found a typo! I forgot to *show* the target file name once command line arguments are in place. It should go `raku tangle-fragments.raku index.md`.
 
 Let's say I have a file.  The one you're reading, perhaps.  Well, its original Markdown content.
 
-It has a *Hugo* shortcode in it.
+It has a Hugo shortcode in it.
 
 ``` html
 {{</* code file="hello.py" */>}}
@@ -114,7 +116,7 @@ shortcode =>
 
 I can grab the named capture `filename` of my matched `shortcode` regex with `$/<shortcode><filename>` — or `~$<shortcode><filename>`, depending on your preferred syntax.
 
-This is all possible in languages like Perl with assorted flags, but I haven't seen parsing treated so well by default since maybe *REBOL*.
+This is all possible in languages like Perl with assorted flags, but I haven't seen parsing treated so well by default since maybe [Rebol]({{< relref "/card/rebol.md" >}}).
 
 Anyways, let's run this thing.
 

@@ -1,6 +1,6 @@
 ---
 created: '2024-02-16 17:45:58'
-date: 2005-01-04 00:00:00+00:00
+date: '2005-01-04T00:00:00.000Z'
 description: Installing and first steps with Perl
 fname: pub.post.2005.01.perl-5-babysteps-01-getting-started
 id: 4bnpr7etypcf5ubrov7mg4x
@@ -19,7 +19,7 @@ updated: '2024-02-16 18:10:10'
 
 ## Installing Perl
 
-Okay. Everybody not on *inbox.windows*, go install [Perlbrew](https://perlbrew.pl).
+Okay. Everybody not on [Windows]({{< relref "/card/windows.md" >}}), go install [Perlbrew](https://perlbrew.pl).
 
 Done? Excellent. Here is how you install Perl 5.14.1 and make it your default Perl.
 

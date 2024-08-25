@@ -13,13 +13,13 @@ tags:
 - perl
 - coolnamehere
 title: Moose
-updated: '2024-08-07 18:39:06'
+updated: '2024-08-25 17:27:10'
 ---
 
 [Moose]: https://metacpan.org/module/Moose
 
 I have been dabbling a lot with [Moose][], a solid framework
-for object oriented programming in *Perl 5.10*. It is remarkably powerful
+for object oriented programming in [Perl]({{< relref "/card/perl.md" >}}). It is remarkably powerful
 and has transformed the way I look at Perl OO. It is also different
 enough from object oriented programming in other languages that I needed
 to create a section for it on [Coolnamehere]({{< relref "/card/coolnamehere.md" >}}).

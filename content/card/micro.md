@@ -7,7 +7,7 @@ title: Micro
 updated: '2024-02-10 16:05:16'
 ---
 
-A friendly CUA-ish terminal text editor, extensible in *inbox.lua*.
+A friendly CUA-ish terminal text editor, extensible in [Lua]({{< relref "/card/lua.md" >}}).
 
 ## Related
 

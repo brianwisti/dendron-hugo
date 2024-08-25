@@ -7,7 +7,7 @@ title: Neovim
 updated: '2024-02-10 15:12:30'
 ---
 
-[Vim]({{< relref "/card/vim.md" >}}) fork extensible via *inbox.lua*
+[Vim]({{< relref "/card/vim.md" >}}) fork extensible via [Lua]({{< relref "/card/lua.md" >}})
 
 ## Related
 

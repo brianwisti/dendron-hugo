@@ -11,12 +11,12 @@ tags:
 - ruby
 - nanoc
 title: Nanoc builds sites faster with 3.2.0
-updated: '2024-08-07 19:12:40'
+updated: '2024-08-25 13:42:54'
 ---
 
 ![tabular display of build time values described in post](assets/img/2022/cover-2022-12-25.png "just the numbers")
 
-Today is Christmas, which means version [3.2.0](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/) of *Ruby* has been released. I read Peter Solnica's post about [Benchmarking Ruby 3.2 with YJIT](https://www.solnic.dev/p/benchmarking-ruby-32-with-yjit). One bit of feedback he got was that YJIT — the now official Just In Time compiler — kicks in for frequently called methods:
+Today is Christmas, which means version [3.2.0](https://www.ruby-lang.org/en/news/2022/12/25/ruby-3-2-0-released/) of [Ruby]({{< relref "/card/ruby/_index.md" >}}) has been released. I read Peter Solnica's post about [Benchmarking Ruby 3.2 with YJIT](https://www.solnic.dev/p/benchmarking-ruby-32-with-yjit). One bit of feedback he got was that YJIT — the now official Just In Time compiler — kicks in for frequently called methods:
 
 > By default, YJIT optimizes a method on the 30th time you call it.
 

@@ -7,7 +7,7 @@ title: SQLite
 updated: '2024-03-11 18:08:32'
 ---
 
-A lightweight embeddable *inbox.sql* engine ideal for small use cases.
+A lightweight embeddable [SQL]({{< relref "/card/sql.md" >}}) engine ideal for small use cases.
 
 Small for computers, that is. It can still handle data that is huge by human brain standards.
 

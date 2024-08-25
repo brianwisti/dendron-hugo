@@ -4,7 +4,7 @@ description: ''
 fname: pub.card.sdkman
 id: p3hqo78bl3mzha5mhroytp8
 title: Sdkman
-updated: '2024-02-10 04:25:59'
+updated: '2024-08-25 17:53:37'
 ---
 
 Command-line tool for version management of [Java]({{< relref "/card/java.md" >}}) and related tools for UNIX-like systems and Windows+MinGW.
@@ -35,7 +35,7 @@ Install a specific JDK:
 sdk install java 17.0.8-tem
 ```
 
-Install a particular *inbox.jvm* tool:
+Install a particular JVM tool:
 
 ```sh
 sdk install maven

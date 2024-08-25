@@ -17,14 +17,14 @@ tags:
 - space
 - coolnamehere
 title: Parrot Babysteps 0a the Stellar Project
-updated: '2024-08-07 18:37:37'
+updated: '2024-08-25 17:33:52'
 ---
 
 We just learned how to create and test simple projects in [Parrot Babysteps 09 Simple Projects]({{< relref "/post/2010/04/parrot-babysteps-09-simple-projects.md" >}}). The next step is to reexamine the star catalog handler we started writing in [Parrot Babysteps 07 Writing Subroutines]({{< relref "/post/2009/10/parrot-babysteps-07-writing-subroutines.md" >}}), and turn it into a testable project. There will be some changes in how this code gets its work done, but don't expect any new features.
 
 I know - you *really* want to start adding features and working on cool new
 stuff. So do I. My workspace is scattered with half-completed steps that talked
-about adding new things and using new *Parrot* features. They kept breaking,
+about adding new things and using new [Parrot]({{< relref "/card/parrot.md" >}}) features. They kept breaking,
 though. They kept breaking because I wasn't building from a stable, testable
 foundation. Today we're going to get that step our of the way.
 
