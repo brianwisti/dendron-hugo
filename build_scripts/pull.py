@@ -5,11 +5,13 @@ import logging
 import re
 import os
 import os.path
+import sys
 from dataclasses import dataclass
 from pathlib import Path
 
 import arrow
 import frontmatter
+import yaml.parser
 from dotenv import load_dotenv
 from rich.logging import RichHandler
 
@@ -26,7 +28,15 @@ TIMESTAMP_FIELDS = ["created", "updated"]
 TIMESTAMP_FORMAT = "YYYY-MM-DD HH:mm:ss"
 
 VAULT_LINK_RE = re.compile(
-    r"""\[\[ (?P<fname>[^\]]+) \]\]""",
+    r"""(?<!`)  # I use backticks to indicate syntax of a link but not an actual link
+            \[\[
+                (?:
+                    (?P<label> [^|\]]+)
+                    \|
+                )?
+                (?P<fname> [^\]]+) 
+            \]\]
+        """,
     re.VERBOSE,
 )
 
@@ -122,25 +132,46 @@ def has_descendants(note_path: Path, candidates: list[Path]) -> bool:
 
 
 def pull_note(note: Note, link_for: dict[str, dict[str, str]]) -> None:
-    logging.info("Note: '%s'", note)
+    logging.debug("Note: '%s'", note)
+    links_found = 0
+    links_applied = 0
+
     # replace Dendron-style links with Hugo-style links
-    content = note.post.content
-    for match in VAULT_LINK_RE.finditer(content):
-        link = match.group("fname")
+    processed_content_lines = []
+    in_code_block = False
 
-        if link in link_for:
-            title = link_for[link]["title"]
-            ref_for_link = "/" + link_for[link]["ref"]
-            partial = '{{< relref "' + ref_for_link + '" >}}'
-            content = content.replace(
-                match.group(0),
-                f"[{title}]({partial})",
-            )
-        else:
-            logging.warning("Link not found: %s", link)
-            content = content.replace(match.group(0), f"*{link}*")
+    for line in note.post.content.splitlines():
+        if line.startswith("```"):
+            in_code_block = not in_code_block
 
-    note.post.content = content
+        if in_code_block:
+            processed_content_lines.append(line)
+            continue
+
+        for match in VAULT_LINK_RE.finditer(line):
+            links_found += 1
+            link = match.group("fname")
+            label = match.group("label")
+
+            if link in link_for:
+                if not label:
+                    label = link_for[link]["title"]
+
+                ref_for_link = "/" + link_for[link]["ref"]
+                partial = '{{< relref "' + ref_for_link + '" >}}'
+                line = line.replace(match.group(0), f"[{label}]({partial})")
+                links_applied += 1
+            else:
+                logging.warning(
+                    "'%s' :: Link '%s' not found in '%s'", match.group(0), link, note
+                )
+        processed_content_lines.append(line)
+
+    logging.debug(
+        "'%s' :: links found: %s, links applied: %s", note, links_found, links_applied
+    )
+
+    note.post.content = "\n".join(processed_content_lines)
     content_path = Path(f"content/{note.content_path}")
     content_path.parent.mkdir(parents=True, exist_ok=True)
     content_path.write_text(frontmatter.dumps(note.post), encoding="utf-8")
@@ -149,12 +180,9 @@ def pull_note(note: Note, link_for: dict[str, dict[str, str]]) -> None:
 def main():
     logging.info("Initializing...")
     dendron_root_dir = os.getenv("DENDRON_ROOT_DIR")
-    vault_subdir = os.getenv("DENDRON_VAULT_SUBDIR")
     hugo_site_dir = os.getenv("HUGO_SITE_DIR")
 
     assert dendron_root_dir, "DENDRON_ROOT_DIR not set"
-
-    assert vault_subdir, "DENDRON_VAULT_SUBDIR not set"
 
     assert hugo_site_dir, "HUGO_SITE_DIR not set"
 
@@ -163,7 +191,17 @@ def main():
     public_note_paths = sorted(
         [note for note in notes_path.glob("*.md") if note.stem.startswith("pub")]
     )
-    notes = [Note.from_path(note, public_note_paths) for note in public_note_paths]
+
+    notes = []
+
+    for note_path in public_note_paths:
+        try:
+            note = Note.from_path(note_path, public_note_paths)
+            notes.append(note)
+        except yaml.parser.ParserError as e:
+            logging.error("Error parsing frontmatter in '%s': %s", note_path, e)
+            sys.exit(1)
+
     link_for = {
         note.fname: {"title": note.post.metadata["title"], "ref": note.content_path}
         for note in notes
