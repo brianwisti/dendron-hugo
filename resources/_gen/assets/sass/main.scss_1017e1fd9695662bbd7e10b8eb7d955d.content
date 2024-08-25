@@ -1454,7 +1454,7 @@ article a[href^="/card"]::before {
   content: "🗃️";
 }
 
-li.article-li {
+li.meta-li {
   display: flex;
   justify-content: space-between;
 }

@@ -1,8 +1,11 @@
-<li>
+<li class="meta-li">
   {{ if .IsSection }}
     {{ .Render "section-summary" }}
   {{ else }}
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    {{ partial "generic-meta-li" . }}
+    <span>
+      {{ partial "generic-meta-li" . }}
+      {{ .Render "li-meta" }}
+    </span>
   {{ end }}
 </li>
