@@ -1,4 +1,35 @@
 {{- define "main" }}
+  <section class="card h-card">
+    <header>
+      <p>
+          <a class="u-url u-uid" href="https://randomgeekery.org">
+            <span class="p-name">{{ .Site.Params.Author.Name }}</span>
+          </a>
+          ( <a class="u-pronoun" href="https://pronoun.is/he">he / him / his</a> )
+      </p>
+      <div class="card-body">
+        <section class="third">
+          <img class="u-photo" src="/img/avatar-thumbnail.jpg" alt="Brian Wisti">
+        </section>
+        <section class="two-third bio">
+          <p class="p-note">
+            {{ .Site.Params.Author.bio | safeHTML }}
+          </p>
+        </section>
+      </div>
+    </header>
+      <footer class="twin-grid">
+        {{ range .Site.Params.Author.social }}
+            <a {{if .relMe }}rel="me"{{ end }} href="{{ .href }}"
+              class="pseudo button social {{ .class }} {{ .icon }}"
+              title="{{ .service }}"
+              aria-label="{{ .service }}">
+              {{ .service }}
+            </a>
+        {{ end }}
+      </footer>
+  </section>
+
   {{ .Content }}
   <ul>
     {{ range .Pages }}

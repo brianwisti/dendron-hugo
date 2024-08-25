@@ -1,0 +1,65 @@
+{{- $site := .Site -}}
+{{- $page := . -}}
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>
+  {{ with .Title }}
+    {{ . }} |
+  {{ end }}
+  {{ .Section | title }} | {{ .Site.Title }}
+</title>
+{{ with .OutputFormats.Get "RSS" }}
+  <link href="{{ .Permalink }}"
+    rel="alternate" type="application/rss+xml"
+    title="{{ $site.Title }}"/>
+{{ end }}
+{{- $coverName := "cover.*" -}}
+
+{{- with .Params.cover_image -}}
+    {{- $coverName = . -}}
+{{- end -}}
+
+{{- $coverImage := .Page.Resources.GetMatch $coverName -}}
+
+{{- if $coverImage -}}
+  {{- $cardImage := $coverImage.Fill "1200x630" -}}
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image" content="{{ $cardImage.Permalink }}">
+  <meta property="og:image" content="{{ $cardImage.Permalink }}">
+{{- else -}}
+  <meta name="twitter:card" content="summary">
+{{- end -}}
+
+<meta property="og:url" content="{{ .Permalink }}">
+<meta property="og:title" content="{{ .Title }}">
+<meta name="twitter:title" content="{{ .Title }}">
+
+{{ if .Site.Author.twitter }}
+  <meta name="twitter:site" content="@{{ .Site.Author.twitter }}">
+{{ end }}
+
+{{ if .IsPage }}
+  {{ if .Description }}
+    <meta name="twitter:description" content="{{ .Description }}">
+    <meta property="og:description" content="{{ .Description }}">
+  {{ else }}
+    <meta name="twitter:description" content="{{ .Summary }}">
+    <meta property="og:description" content="{{ .Summary }}">
+  {{ end }}
+{{ end }}
+
+<link
+    rel="webmention"
+    href="https://webmention.io/randomgeekery.org/webmention"
+/>
+<link
+    rel="pingback"
+    href="https://webmention.io/randomgeekery.org/xmlrpc"
+/>
+
+{{- $includeAnalytics := getenv "HUGO_INCLUDE_ANALYTICS" -}}
+{{- if eq $includeAnalytics "1" -}}
+  <script async defer data-domain="randomgeekery.org"
+                      src="https://plausible.io/js/plausible.js"></script>
+{{- end -}}
