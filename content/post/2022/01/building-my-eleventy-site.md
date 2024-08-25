@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2022/01/building-my-eleventy-site/
 created: '2024-02-11 13:14:42'
 date: 2022-01-03 00:00:00+00:00
 description: something something "right tool for the right job"
 fname: pub.post.2022.01.building-my-eleventy-site
 id: nn1ae1nkijtzlxin04ezdrv
-redirects:
-- /note/2022/01/building-my-eleventy-site/
 slug: building-my-eleventy-site
 syndication:
   mastodon: https://hackers.town/@randomgeek/107562930844947425

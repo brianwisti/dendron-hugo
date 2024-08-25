@@ -1,13 +1,13 @@
 ---
+aliases:
+- /marginalia/2014/10/03_coursera-proglang.html
+- /post/2014/coursera-proglang/
+- /2014/10/03/starting-the-coursera-programming-languages-course/
 created: '2024-02-22 18:04:11'
 date: 2014-10-03 00:00:00+00:00
 description: A quick confession about learning how to learn
 fname: pub.post.2014.10.starting-the-coursera-programming-languages-course
 id: wxrzgsd9fpk4rqpomi074hb
-redirects:
-- /marginalia/2014/10/03_coursera-proglang.html
-- /post/2014/coursera-proglang/
-- /2014/10/03/starting-the-coursera-programming-languages-course/
 slug: starting-the-coursera-programming-languages-course
 tags:
 - personal

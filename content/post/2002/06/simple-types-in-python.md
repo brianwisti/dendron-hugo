@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2002/06/12_simple-types-in-python.html
+- /post/2002/simple-types-in-python/
+- /2002/06/12/simple-types-in-python/
 created: '2024-02-10 23:05:19'
 date: 2002-06-12 00:00:00+00:00
 description: In which I attempt to explain value types
 fname: pub.post.2002.06.simple-types-in-python
 id: uatrwuqlgi65oe9h0p1s2e2
-redirects:
-- /coolnamehere/2002/06/12_simple-types-in-python.html
-- /post/2002/simple-types-in-python/
-- /2002/06/12/simple-types-in-python/
 slug: simple-types-in-python
 tags:
 - python

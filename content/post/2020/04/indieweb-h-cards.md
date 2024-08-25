@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2020/04/11/indieweb-h-cards/
 created: '2024-02-13 17:35:57'
 date: 2020-04-11 00:00:00+00:00
 description: Using microformats to build a profile page
 fname: pub.post.2020.04.indieweb-h-cards
 id: su6kdpcsmr4eld1ca7sxwjo
-redirects:
-- /2020/04/11/indieweb-h-cards/
 slug: indieweb-h-cards
 tags:
 - indieweb

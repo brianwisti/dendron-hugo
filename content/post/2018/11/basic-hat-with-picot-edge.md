@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/11/20/basic-hat-with-picot-edge/
 created: '2024-03-06 20:49:37'
 date: 2018-11-20
 description: I continue building my hat knitting knowledge!
 fname: pub.post.2018.11.basic-hat-with-picot-edge
 id: g0fo1zmikvhc6kwxp448vhh
-redirects:
-- /2018/11/20/basic-hat-with-picot-edge/
 slug: basic-hat-with-picot-edge
 tags:
 - knitting

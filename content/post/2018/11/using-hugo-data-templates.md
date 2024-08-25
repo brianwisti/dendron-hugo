@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/11/10/using-hugo-data-templates/
 created: '2024-03-06 20:53:33'
 date: '2018-11-10T00:00:00.000Z'
 description: ''
 fname: pub.post.2018.11.using-hugo-data-templates
 id: wwgguig3jz9uhk4jzt9bu1q
-redirects:
-- /2018/11/10/using-hugo-data-templates/
 slug: using-hugo-data-templates
 tags:
 - hugo

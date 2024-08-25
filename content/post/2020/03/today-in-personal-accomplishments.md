@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/65/today-in-personal-accomplishments/
+- /note/2020/03/today-in-personal-accomplishments/
 created: '2024-02-13 16:54:49'
 date: 2020-03-06 04:23:19+00:00
 description: ''
 fname: pub.post.2020.03.today-in-personal-accomplishments
 id: p406l0iigan643kygbqicrm
-redirects:
-- /note/2020/65/today-in-personal-accomplishments/
-- /note/2020/03/today-in-personal-accomplishments/
 slug: today-in-personal-accomplishments
 syndication:
   mastodon: https://hackers.town/@randomgeek/103774313023211236

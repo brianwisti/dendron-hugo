@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/06/10/two-weeks-without-cigarettes/
 created: '2024-03-06 15:02:23'
 date: 2018-06-10
 description: ''
 fname: pub.post.2018.06.two-weeks-without-cigarettes
 id: n32pc8rohwgdlislcdgcluv
-redirects:
-- /2018/06/10/two-weeks-without-cigarettes/
 slug: two-weeks-without-cigarettes
 tags:
 - personal

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2020/02/12/stealing-a-hugo-shortcode-for-nikola/
 created: '2024-02-13 14:48:59'
 date: 2020-02-12 00:00:00+00:00
 description: I needed a YouTube shortcode for Nikola, so I adapted Hugo's.
 fname: pub.post.2020.02.stealing-a-hugo-shortcode-for-nikola
 id: l3oirepl1rcx9lu8mci3ro8
-redirects:
-- /2020/02/12/stealing-a-hugo-shortcode-for-nikola/
 slug: stealing-a-hugo-shortcode-for-nikola
 tags:
 - nikola

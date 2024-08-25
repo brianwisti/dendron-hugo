@@ -1,13 +1,13 @@
 ---
+aliases:
+- /programming/2014/12/13_duplicate-files.html
+- /post/2014/duplicate-files/
+- /2014/12/13/finding-and-removing-duplicate-files/
 created: '2024-02-22 18:13:15'
 date: 2014-12-13 00:00:00+00:00
 description: Perl CPAN modules to simplify file cleanup
 fname: pub.post.2014.12.finding-and-removing-duplicate-files
 id: nsp9llucpft34s86vv8dlut
-redirects:
-- /programming/2014/12/13_duplicate-files.html
-- /post/2014/duplicate-files/
-- /2014/12/13/finding-and-removing-duplicate-files/
 slug: finding-and-removing-duplicate-files
 tags:
 - perl

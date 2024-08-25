@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/56/that-is-just-embarrassing/
+- /note/2020/02/that-is-just-embarrassing/
 created: '2024-02-13 14:55:41'
 date: '2020-02-25T00:00:00.000Z'
 description: ''
 fname: pub.post.2020.02.that-is-just-embarrassing
 id: bseoa1i1fbksn5ku3zgctod
-redirects:
-- /note/2020/56/that-is-just-embarrassing/
-- /note/2020/02/that-is-just-embarrassing/
 slug: that-is-just-embarrassing
 syndication:
   mastodon: https://hackers.town/@randomgeek/103723600431654059

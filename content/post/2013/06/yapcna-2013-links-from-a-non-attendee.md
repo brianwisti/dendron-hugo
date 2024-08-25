@@ -1,14 +1,14 @@
 ---
+aliases:
+- /programming/2013/06/06_yapcna-links-from-a-non-attendee.html
+- /wp/2013/06/yapcna-2013-links-from-a-non-attendee/
+- /post/2013/yapcna-links-from-a-non-attendee/
+- /2013/06/06/yapcna-2013-links-from-a-non-attendee/
 created: '2024-02-22 15:16:43'
 date: 2013-06-06 00:00:00+00:00
 description: ''
 fname: pub.post.2013.06.yapcna-2013-links-from-a-non-attendee
 id: 1lv5n7aunppj3lks97gmhzz
-redirects:
-- /programming/2013/06/06_yapcna-links-from-a-non-attendee.html
-- /wp/2013/06/yapcna-2013-links-from-a-non-attendee/
-- /post/2013/yapcna-links-from-a-non-attendee/
-- /2013/06/06/yapcna-2013-links-from-a-non-attendee/
 slug: yapcna-2013-links-from-a-non-attendee
 tags:
 - perl

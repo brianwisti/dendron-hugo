@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2019/180/checking-in-on-my-idea-bucket/
+- /note/2019/06/checking-in-on-my-idea-bucket/
 created: '2024-04-01 21:07:45'
 date: 2019-06-29
 description: ''
 fname: pub.post.2019.06.checking-in-on-my-idea-bucket
 id: z5rj6c4bl417xv4bvgwtkal
-redirects:
-- /note/2019/180/checking-in-on-my-idea-bucket/
-- /note/2019/06/checking-in-on-my-idea-bucket/
 tags:
 - coffee-thoughts
 - taskwarrior

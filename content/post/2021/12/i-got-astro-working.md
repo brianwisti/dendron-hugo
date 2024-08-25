@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/12/i-got-astro-working/
 created: '2024-02-12 04:48:56'
 date: 2021-12-23 00:00:00+00:00
 description: ''
 fname: pub.post.2021.12.i-got-astro-working
 id: 0uahrwo8vddqjsooltbwtlk
-redirects:
-- /note/2021/12/i-got-astro-working/
 slug: i-got-astro-working
 syndication:
   mastodon: https://hackers.town/@randomgeek/107498629085558103

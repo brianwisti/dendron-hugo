@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/109/kistler-tree/
+- /note/2020/04/kistler-tree/
 created: '2024-02-10 17:02:49'
 date: 2020-04-18 00:00:00+00:00
 description: ''
 fname: pub.post.2020.04.kistler-tree
 id: hamzi431qpkw90280dp1bw8
-redirects:
-- /note/2020/109/kistler-tree/
-- /note/2020/04/kistler-tree/
 slug: kistler-tree
 syndication:
   mastodon: https://hackers.town/@randomgeek/104023170828376600

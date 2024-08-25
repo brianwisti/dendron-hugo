@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/06/wanted-a-uses-page-made-a-config-section/
 created: '2024-08-25 15:29:30'
 date: 2020-06-03 12:32:47-07:00
 description: ''
 fname: pub.post.2020.06.wanted-a-uses-page-made-a-config-section
 id: 85az2d7flfeuw9swzrr6x7w
-redirects:
-- /note/2020/06/wanted-a-uses-page-made-a-config-section/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104281805883788300
 tags:

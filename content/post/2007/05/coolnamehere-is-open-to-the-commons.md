@@ -1,12 +1,12 @@
 ---
+aliases:
+- /blogspot/2007/05/02_coolnamehere-is-open-to-commons.html
+- /post/2007/coolnamehere-is-open-to-commons/
 created: '2024-02-18 05:01:43'
 date: 2007-05-02 00:00:00+00:00
 description: ''
 fname: pub.post.2007.05.coolnamehere-is-open-to-the-commons
 id: f60cadsnkht1438ay8j0p8y
-redirects:
-- /blogspot/2007/05/02_coolnamehere-is-open-to-commons.html
-- /post/2007/coolnamehere-is-open-to-commons/
 slug: coolnamehere-is-open-to-the-commons
 tags:
 - site

@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/118/i-helped-genehack/
+- /note/2020/04/i-helped-genehack/
 created: '2024-02-13 17:47:55'
 date: 2020-04-27 00:00:00+00:00
 description: ''
 fname: pub.post.2020.04.i-helped-genehack
 id: sdnr6q3b202n1psva8jeic3
-redirects:
-- /note/2020/118/i-helped-genehack/
-- /note/2020/04/i-helped-genehack/
 slug: i-helped-genehack
 syndication:
   mastodon: https://hackers.town/@randomgeek/104071596654150778

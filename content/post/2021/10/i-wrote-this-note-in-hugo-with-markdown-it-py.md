@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/10/i-wrote-this-note-in-hugo-with-markdown-it-py/
 created: '2024-02-12 04:14:17'
 date: 2021-10-09 00:00:00+00:00
 description: ''
 fname: pub.post.2021.10.i-wrote-this-note-in-hugo-with-markdown-it-py
 id: u4tcv62doy06yi0lrvfnksj
-redirects:
-- /note/2021/10/i-wrote-this-note-in-hugo-with-markdown-it-py/
 slug: i-wrote-this-note-in-hugo-with-markdown-it-py
 syndication:
   mastodon: https://hackers.town/@randomgeek/107075806340083071

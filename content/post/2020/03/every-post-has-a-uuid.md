@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/81/every-post-has-a-uuid/
+- /note/2020/03/every-post-has-a-uuid/
 created: '2024-02-13 16:35:59'
 date: 2020-03-21 00:00:00+00:00
 description: ''
 fname: pub.post.2020.03.every-post-has-a-uuid
 id: gayyzjb6tbo152nv8qlb851
-redirects:
-- /note/2020/81/every-post-has-a-uuid/
-- /note/2020/03/every-post-has-a-uuid/
 slug: every-post-has-a-uuid
 syndication:
   mastodon: https://hackers.town/@randomgeek/103864261442692092

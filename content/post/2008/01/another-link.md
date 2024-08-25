@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2008/01/04_another-link.html
+- /post/2008/another-link/
+- /2008/01/04/another-link/
 created: '2024-02-19 01:17:01'
 date: '2008-01-04T00:00:00.000Z'
 description: ''
 fname: pub.post.2008.01.another-link
 id: 7htvenfwv2fshwqq6m28cp9
-redirects:
-- /blogspot/2008/01/04_another-link.html
-- /post/2008/another-link/
-- /2008/01/04/another-link/
 slug: another-link
 tags:
 - links

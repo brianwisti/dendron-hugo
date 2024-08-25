@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2016/art-and-indieweb/
+- /2016/11/20/still-not-dead/
 created: '2024-02-24 05:51:09'
 date: '2016-11-20T00:00:00.000Z'
 description: ''
 fname: pub.post.2016.11.still-not-dead
 id: rgsk457k3dut4a1xu7tfv8l
-redirects:
-- /post/2016/art-and-indieweb/
-- /2016/11/20/still-not-dead/
 slug: still-not-dead
 tags:
 - site

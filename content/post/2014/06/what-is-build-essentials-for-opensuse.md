@@ -1,13 +1,13 @@
 ---
+aliases:
+- /tools/2014/06/22_what-is-build-essentials-for-opensuse.html
+- /post/2014/what-is-build-essentials-for-opensuse/
+- /2014/06/22/what-is-build-essentials-for-opensuse/
 created: '2024-02-22 17:35:56'
 date: 2014-06-22 00:00:00+00:00
 description: ''
 fname: pub.post.2014.06.what-is-build-essentials-for-opensuse
 id: kaxrkqw10zg9fhctneu8o18
-redirects:
-- /tools/2014/06/22_what-is-build-essentials-for-opensuse.html
-- /post/2014/what-is-build-essentials-for-opensuse/
-- /2014/06/22/what-is-build-essentials-for-opensuse/
 slug: what-is-build-essentials-for-opensuse
 tags:
 - suse

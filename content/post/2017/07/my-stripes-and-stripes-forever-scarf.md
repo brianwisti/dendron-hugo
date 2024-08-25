@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2017/my-stripes-and-stripes-scarf/
+- /2017/07/06/my-stripes-and-stripes-forever-scarf/
 created: '2024-02-25 05:46:53'
 date: 2017-07-06 00:00:00+00:00
 description: ''
 fname: pub.post.2017.07.my-stripes-and-stripes-forever-scarf
 id: co9grzctpi1b9fyqocr2q7u
-redirects:
-- /craft/2017/my-stripes-and-stripes-scarf/
-- /2017/07/06/my-stripes-and-stripes-forever-scarf/
 slug: my-stripes-and-stripes-forever-scarf
 tags:
 - crochet

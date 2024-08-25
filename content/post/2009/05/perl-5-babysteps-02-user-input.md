@@ -1,14 +1,14 @@
 ---
+aliases:
+- /coolnamehere/2009/05/05_02-user-input.html
+- /post/2009/02-user-input/
+- /2009/05/05/perl-5-babysteps-02-user-input/
+- /post/2009/05/perl-5-babysteps-02-user-input/
 created: '2024-02-16 18:17:36'
 date: 2009-05-05 00:00:00+00:00
 description: ''
 fname: pub.post.2009.05.perl-5-babysteps-02-user-input
 id: i67vhbui7h7t2i0rsfuak33
-redirects:
-- /coolnamehere/2009/05/05_02-user-input.html
-- /post/2009/02-user-input/
-- /2009/05/05/perl-5-babysteps-02-user-input/
-- /post/2009/05/perl-5-babysteps-02-user-input/
 slug: perl-5-babysteps-02-user-input
 tags:
 - perl

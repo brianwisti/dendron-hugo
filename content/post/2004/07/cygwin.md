@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2004/07/08_cygwin.html
+- /post/2004/cygwin/
+- /2004/07/08/cygwin/
 created: '2024-02-11 05:24:19'
 date: '2004-07-08T00:00:00.000Z'
 description: Unix for the Windows World
 fname: pub.post.2004.07.cygwin
 id: qcrowhvqyrg3kiobwigyd8s
-redirects:
-- /coolnamehere/2004/07/08_cygwin.html
-- /post/2004/cygwin/
-- /2004/07/08/cygwin/
 slug: cygwin
 tags:
 - coolnamehere

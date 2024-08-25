@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/09/local-wp-is-nice-but-no/
 created: '2024-08-25 15:44:03'
 date: 2020-09-30 22:57:23-07:00
 description: ''
 fname: pub.post.2020.09.local-wp-is-nice-but-no
 id: co0ec97wwyalap7r2vz6q3s
-redirects:
-- /note/2020/09/local-wp-is-nice-but-no/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104958066939426916
 tags:

@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2010/04/06_reading-modern-perl-book.html
+- /post/2010/reading-modern-perl-book/
+- /2010/04/06/reading-the-modern-perl-book/
 created: '2024-02-20 22:42:11'
 date: 2010-04-06 00:00:00+00:00
 description: ''
 fname: pub.post.2010.04.reading-the-modern-perl-book
 id: dzze9ib2tpjyhw1vgcd74kt
-redirects:
-- /blogspot/2010/04/06_reading-modern-perl-book.html
-- /post/2010/reading-modern-perl-book/
-- /2010/04/06/reading-the-modern-perl-book/
 slug: reading-the-modern-perl-book
 tags:
 - perl

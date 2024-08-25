@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/05/i-added-10-seconds-to-build-time/
 created: '2024-08-25 14:38:43'
 date: 2020-05-13 23:22:00-07:00
 description: ''
 fname: pub.post.2020.05.i-added-10-seconds-to-build-time
 id: ypwxax5quegmqa7zi786b0v
-redirects:
-- /note/2020/05/i-added-10-seconds-to-build-time/
 tags:
 - like-the-tide
 - build-time-go-down

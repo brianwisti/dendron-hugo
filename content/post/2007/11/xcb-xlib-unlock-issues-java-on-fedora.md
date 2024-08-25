@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2007/11/26_xcbxlibunlock-issues-java-on-fedora.html
+- /post/2007/xcbxlibunlock-issues-java-on-fedora/
+- /2007/11/26/xcb_xlib_unlock-issues-java-on-fedora/
 created: '2024-02-18 05:16:55'
 date: '2007-11-26T00:00:00.000Z'
 description: ''
 fname: pub.post.2007.11.xcb-xlib-unlock-issues-java-on-fedora
 id: lq7jk5fwu8vzj5z68z59fey
-redirects:
-- /blogspot/2007/11/26_xcbxlibunlock-issues-java-on-fedora.html
-- /post/2007/xcbxlibunlock-issues-java-on-fedora/
-- /2007/11/26/xcb_xlib_unlock-issues-java-on-fedora/
 slug: xcb-xlib-unlock-issues-java-on-fedora
 tags:
 - linux

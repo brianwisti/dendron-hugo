@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2017/maybe-ration-my-time-in-hot-take-land/
+- /2017/03/13/maybe-ration-my-time-in-hot-take-land/
 created: '2024-02-24 23:46:45'
 date: 2017-03-13 00:00:00+00:00
 description: ''
 fname: pub.post.2017.03.maybe-ration-my-time-in-hot-take-land
 id: pqpj4j1llw2a8qwz1kl6m3k
-redirects:
-- /post/2017/maybe-ration-my-time-in-hot-take-land/
-- /2017/03/13/maybe-ration-my-time-in-hot-take-land/
 slug: maybe-ration-my-time-in-hot-take-land
 tags:
 - personal

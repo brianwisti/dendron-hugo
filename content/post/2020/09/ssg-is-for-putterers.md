@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/09/ssg-is-for-putterers/
 created: '2024-08-25 15:46:26'
 date: 2020-09-20 10:29:56-07:00
 description: ''
 fname: pub.post.2020.09.ssg-is-for-putterers
 id: 6haamfnfyhl2cf3cmq35nmf
-redirects:
-- /note/2020/09/ssg-is-for-putterers/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104898574975176332
 tags:

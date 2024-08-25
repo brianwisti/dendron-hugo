@@ -1,12 +1,12 @@
 ---
+aliases:
+- /coolnamehere/2010/08/02_0d-the-spacetrade-project.html
+- /post/2010/0d-the-spacetrade-project/
 created: '2024-02-20 23:08:10'
 date: '2010-08-02T00:00:00.000Z'
 description: ''
 fname: pub.post.2010.08.parrot-babysteps-0d-the-space-trade-project
 id: k69d8tv57yph1umauztumax
-redirects:
-- /coolnamehere/2010/08/02_0d-the-spacetrade-project.html
-- /post/2010/0d-the-spacetrade-project/
 series:
 - Parrot Babysteps
 slug: parrot-babysteps-0d-the-space-trade-project

@@ -1,13 +1,13 @@
 ---
+aliases:
+- /tools/2014/08/14_perl-reply-repl.html
+- /post/2014/perl-reply-repl/
+- /2014/08/14/repl-in-perl-with-reply/
 created: '2024-02-22 17:43:32'
 date: 2014-08-14 00:00:00+00:00
 description: ''
 fname: pub.post.2014.08.repl-in-perl-with-reply
 id: oelo0sa1tnsmv19wwrfsm6s
-redirects:
-- /tools/2014/08/14_perl-reply-repl.html
-- /post/2014/perl-reply-repl/
-- /2014/08/14/repl-in-perl-with-reply/
 series:
 - The Reply Perl REPL
 slug: repl-in-perl-with-reply

@@ -1,10 +1,13 @@
 ---
+aliases:
+- /page/follow/
+- /follow/
 created: '2024-02-10 14:39:46'
 description: Follow the blog, and follow me personally on social networks.
-fname: pub.page.follow
+fname: pub.slash.follow
 id: aakehxmdl1apaz0jg33q5xp
 title: Follow
-updated: '2024-02-10 14:40:22'
+updated: '2024-08-25 21:51:11'
 ---
 
 I automatically share new posts on [Mastodon](https://hackers.town/@randomgeek). [RSS]({{< relref "/card/rss.md" >}}) is the best way to follow this site, though. It works even when my announcement scripts don't.

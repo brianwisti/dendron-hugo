@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2018/06/buy-my-stuff-at-design-by-humans/
 category: post
 created: '2024-03-06 14:36:57'
 date: 2018-06-12 00:00:00+00:00
 description: ''
 fname: pub.post.2018.06.buy-my-stuff-at-design-by-humans
 id: 0vesrmhvediqy3xsjogg0fa
-redirects:
-- /post/2018/06/buy-my-stuff-at-design-by-humans/
 slug: buy-my-stuff-at-design-by-humans
 tags:
 - drawing

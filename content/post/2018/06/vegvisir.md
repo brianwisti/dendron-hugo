@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/06/13/vegvisir/
 created: '2024-03-06 15:03:30'
 date: 2018-06-13
 description: ''
 fname: pub.post.2018.06.vegvisir
 id: cnqzvr19u5anx5ct8uzh0k2
-redirects:
-- /2018/06/13/vegvisir/
 slug: vegvisir
 tags:
 - drawing

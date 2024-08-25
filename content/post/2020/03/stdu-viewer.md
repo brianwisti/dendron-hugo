@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2020/03/26/stdu-viewer/
+- /post/2020/03/stdu-viewer/
 created: '2024-02-13 16:56:41'
 date: 2020-03-26 00:00:00+00:00
 description: I think I found my PDF reader for Windows
 fname: pub.post.2020.03.stdu-viewer
 id: 3b3x0ronrfsg7hsi1kurxn5
-redirects:
-- /2020/03/26/stdu-viewer/
-- /post/2020/03/stdu-viewer/
 slug: stdu-viewer
 tags:
 - windows

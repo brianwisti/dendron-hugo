@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/59/emacs-refresh-package-contents/
+- /note/2020/02/emacs-refresh-package-contents/
 created: '2024-02-12 15:42:31'
 date: 2020-02-28 00:00:00+00:00
 description: ''
 fname: pub.post.2020.02.emacs-refresh-package-contents
 id: h7dsalxr9x3yv8dcfqptq8a
-redirects:
-- /note/2020/59/emacs-refresh-package-contents/
-- /note/2020/02/emacs-refresh-package-contents/
 slug: emacs-refresh-package-contents
 syndication:
   mastodon: https://hackers.town/@randomgeek/103737312348546113

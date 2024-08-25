@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2020/03/20/got-married-yesterday/
+- /post/2020/03/got-married-yesterday/
 created: '2024-02-11 19:19:14'
 date: 2020-03-20 18:00:21+00:00
 description: Can't let our dystopian sci-fi setting stop us
 fname: pub.post.2020.03.got-married-yesterday
 id: klynaj4a73accmoyzv9qisw
-redirects:
-- /2020/03/20/got-married-yesterday/
-- /post/2020/03/got-married-yesterday/
 slug: got-married-yesterday
 tags:
 - personal

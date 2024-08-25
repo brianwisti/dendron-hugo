@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2019/05/06/teabagging-a-monsto/
 created: '2024-03-27 16:51:20'
 date: 2019-05-06
 description: Yeah I know. That's not what "teabagging" is.
 fname: pub.post.2019.05.teabagging-a-monsto
 id: koj59t68xetsr8n4y1onwfh
-redirects:
-- /2019/05/06/teabagging-a-monsto/
 slug: teabagging-a-monsto
 syndication:
   mastodon: https://hackers.town/@randomgeek/102049691879467282

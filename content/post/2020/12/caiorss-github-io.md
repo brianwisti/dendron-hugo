@@ -1,11 +1,11 @@
 ---
+aliases:
+- /bookmark/2020/12/caiorss-github-io/
 created: '2024-08-25 16:06:42'
 date: 2020-12-13 00:00:00-08:00
 description: ''
 fname: pub.post.2020.12.caiorss-github-io
 id: gsv3lwth3q4mdfpidbmezx4
-redirects:
-- /bookmark/2020/12/caiorss-github-io/
 tags:
 - emacs
 - elisp

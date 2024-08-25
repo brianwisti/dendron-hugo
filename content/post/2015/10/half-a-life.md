@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2015/half-a-life/
+- /2015/10/02/half-a-life/
 created: '2024-02-23 13:41:39'
 date: 2015-10-02 00:00:00+00:00
 description: Brian ponders midlife and plutoids
 fname: pub.post.2015.10.half-a-life
 id: 2n6hycsop7i7y3kjpxrkidc
-redirects:
-- /post/2015/half-a-life/
-- /2015/10/02/half-a-life/
 slug: half-a-life
 tags:
 - space

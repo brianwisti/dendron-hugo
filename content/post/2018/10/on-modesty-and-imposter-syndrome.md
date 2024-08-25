@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/10/21/on-modesty-and-imposter-syndrome/
 created: '2024-03-06 15:25:26'
 date: 2018-10-21
 description: Take a deep breath. Relax. You got this.
 fname: pub.post.2018.10.on-modesty-and-imposter-syndrome
 id: v0z4j1txf5ihjlh6u7huz9x
-redirects:
-- /2018/10/21/on-modesty-and-imposter-syndrome/
 slug: on-modesty-and-imposter-syndrome
 tags:
 - personal

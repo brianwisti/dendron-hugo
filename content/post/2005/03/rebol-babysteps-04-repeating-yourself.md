@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2005/03/07_04-repeating-yourself.html
+- /post/2005/04-repeating-yourself/
+- /2005/03/07/rebol-babysteps-04-repeating-yourself/
 created: '2024-02-16 20:49:48'
 date: 2005-03-07 00:00:00+00:00
 description: ''
 fname: pub.post.2005.03.rebol-babysteps-04-repeating-yourself
 id: g1b6vkadwnr3f2xgsa0pd4x
-redirects:
-- /coolnamehere/2005/03/07_04-repeating-yourself.html
-- /post/2005/04-repeating-yourself/
-- /2005/03/07/rebol-babysteps-04-repeating-yourself/
 series:
 - REBOL Babysteps
 slug: rebol-babysteps-04-repeating-yourself

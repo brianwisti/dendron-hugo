@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/05/17/purple-symmetry/
 created: '2024-02-27 23:50:49'
 date: 2018-05-17 00:00:00+00:00
 description: ''
 fname: pub.post.2018.05.purple-symmetry
 id: oe6ibj61m43jxe7q0n2og46
-redirects:
-- /2018/05/17/purple-symmetry/
 slug: purple-symmetry
 tags:
 - drawing

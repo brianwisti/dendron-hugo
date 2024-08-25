@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/05/pondering-my-indieweb-guinea-pig/
 created: '2024-08-25 14:23:04'
 date: '2020-05-04T03:30:00.000Z'
 description: ''
 fname: pub.post.2020.05.pondering-my-indieweb-guinea-pig
 id: 7pw8l2gfgklgd1wkwzhm0ri
-redirects:
-- /note/2020/05/pondering-my-indieweb-guinea-pig/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104108152121137583
 tags:

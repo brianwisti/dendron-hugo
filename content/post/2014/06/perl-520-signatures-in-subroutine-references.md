@@ -1,13 +1,13 @@
 ---
+aliases:
+- /programming/2014/06/25_perl-subref-signatures.html
+- /post/2014/perl-subref-signatures/
+- /2014/06/25/perl-5.20-signatures-in-subroutine-references/
 created: '2024-02-22 17:32:16'
 date: 2014-06-25 00:00:00+00:00
 description: ''
 fname: pub.post.2014.06.perl-520-signatures-in-subroutine-references
 id: dkzqlfvpux6gm58edpt28ng
-redirects:
-- /programming/2014/06/25_perl-subref-signatures.html
-- /post/2014/perl-subref-signatures/
-- /2014/06/25/perl-5.20-signatures-in-subroutine-references/
 slug: perl-520-signatures-in-subroutine-references
 tags:
 - perl

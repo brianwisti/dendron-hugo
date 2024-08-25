@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/06/deidres-juneuary-hat/
 created: '2024-08-25 15:17:36'
 date: 2020-06-24 15:02:53-07:00
 description: ''
 fname: pub.post.2020.06.deidres-juneuary-hat
 id: lsb0ryr8kugc2n5t9b6ynfn
-redirects:
-- /note/2020/06/deidres-juneuary-hat/
 syndication:
   mastodon: https https://hackers.town/@randomgeek/104401357678850511
 tags:

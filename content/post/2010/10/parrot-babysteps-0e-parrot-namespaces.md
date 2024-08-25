@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2010/10/11_0e-parrot-namespaces.html
+- /post/2010/0e-parrot-namespaces/
+- /2010/10/11/parrot-babysteps-0e-parrot-namespaces/
 created: '2024-02-20 23:22:15'
 date: '2010-10-11T00:00:00.000Z'
 description: ''
 fname: pub.post.2010.10.parrot-babysteps-0e-parrot-namespaces
 id: 3zekat9l9czep55sm7a978b
-redirects:
-- /coolnamehere/2010/10/11_0e-parrot-namespaces.html
-- /post/2010/0e-parrot-namespaces/
-- /2010/10/11/parrot-babysteps-0e-parrot-namespaces/
 series:
 - Parrot Babysteps
 slug: parrot-babysteps-0e-parrot-namespaces

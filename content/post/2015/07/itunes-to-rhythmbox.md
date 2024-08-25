@@ -1,13 +1,13 @@
 ---
+aliases:
+- /tools/2015/07/27_itunes-to-rhythmbox.html
+- /post/2015/itunes-to-rhythmbox/
+- /2015/07/27/itunes-to-rhythmbox/
 created: '2024-02-23 13:19:47'
 date: 2015-07-27 00:00:00+00:00
 description: I used Edgar Salgado's version of iTunesToRhythm.
 fname: pub.post.2015.07.itunes-to-rhythmbox
 id: ybu4ahrjwxti80f8936rfqj
-redirects:
-- /tools/2015/07/27_itunes-to-rhythmbox.html
-- /post/2015/itunes-to-rhythmbox/
-- /2015/07/27/itunes-to-rhythmbox/
 slug: itunes-to-rhythmbox
 tags:
 - itunes

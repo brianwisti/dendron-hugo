@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2020/01/26/taskwarrior-sync/
 created: '2024-02-12 15:25:22'
 date: 2020-01-26 00:00:00+00:00
 description: ''
 fname: pub.post.2020.01.taskwarrior-sync
 id: 22qtpmidn8rs228b650et1t
-redirects:
-- /2020/01/26/taskwarrior-sync/
 series:
 - Taskwarrior Babysteps
 slug: taskwarrior-sync

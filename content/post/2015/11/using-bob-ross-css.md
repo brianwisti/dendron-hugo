@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2015/bob-ross-css/
+- /2015/11/29/bob-ross-css/
 created: '2024-02-23 13:46:34'
 date: 2015-11-29 00:00:00+00:00
 description: ''
 fname: pub.post.2015.11.using-bob-ross-css
 id: qq0bhpikk0d7iivgw4a9hev
-redirects:
-- /post/2015/bob-ross-css/
-- /2015/11/29/bob-ross-css/
 slug: using-bob-ross-css
 tags:
 - css

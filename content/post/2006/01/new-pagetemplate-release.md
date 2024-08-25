@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2006/01/07_i-snuck-out-couple-of-new-pagetemplate.html
+- /post/2006/i-snuck-out-couple-of-new-pagetemplate/
+- /2006/01/07/new-pagetemplate-release/
 created: '2024-02-17 21:09:17'
 date: 2006-01-07 00:00:00+00:00
 description: ''
 fname: pub.post.2006.01.new-pagetemplate-release
 id: z9xuxv079ict3n0zl9365kr
-redirects:
-- /blogspot/2006/01/07_i-snuck-out-couple-of-new-pagetemplate.html
-- /post/2006/i-snuck-out-couple-of-new-pagetemplate/
-- /2006/01/07/new-pagetemplate-release/
 slug: new-pagetemplate-release
 tags:
 - pagetemplate

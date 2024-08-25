@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2017/full-content-hugo-feeds/
+- /2017/09/15/full-content-hugo-feeds/
 created: '2024-02-25 05:49:56'
-date: 2017-09-15 00:00:00+00:00
+date: '2017-09-15T00:00:00.000Z'
 description: ''
 fname: pub.post.2017.09.full-content-hugo-feeds
 id: yw5z9zqinptwcdcsfqlaix0
-redirects:
-- /post/2017/full-content-hugo-feeds/
-- /2017/09/15/full-content-hugo-feeds/
 slug: full-content-hugo-feeds
 tags:
 - site
@@ -16,7 +16,7 @@ title: Full Content Hugo Feeds
 updated: '2024-08-07 18:48:48'
 ---
 
-[Hugo]({{< relref "/card/hugo.md" >}}) defaults to filling your [Follow]({{< relref "/page/follow.md" >}}) with the summary of every post. I prefer the full content of the most recent posts. Today I make my [RSS]({{< relref "/card/rss.md" >}}) feed reflect my preferences.
+[Hugo]({{< relref "/card/hugo.md" >}}) defaults to filling your [Follow]({{< relref "/slash/follow.md" >}}) with the summary of every post. I prefer the full content of the most recent posts. Today I make my [RSS]({{< relref "/card/rss.md" >}}) feed reflect my preferences.
 
 ## The Problem
 

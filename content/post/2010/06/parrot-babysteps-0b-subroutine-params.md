@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2010/06/15_0b-subroutine-params.html
+- /post/2010/0b-subroutine-params/
+- /2010/06/15/parrot-babysteps-0b-subroutine-params/
 created: '2024-02-20 22:46:21'
 date: 2010-06-15 00:00:00+00:00
 description: ''
 fname: pub.post.2010.06.parrot-babysteps-0b-subroutine-params
 id: 3adf14tk3mrut0ay3pxloab
-redirects:
-- /coolnamehere/2010/06/15_0b-subroutine-params.html
-- /post/2010/0b-subroutine-params/
-- /2010/06/15/parrot-babysteps-0b-subroutine-params/
 series:
 - Parrot Babysteps
 slug: parrot-babysteps-0b-subroutine-params

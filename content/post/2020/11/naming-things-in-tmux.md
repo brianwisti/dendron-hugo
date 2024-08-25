@@ -1,11 +1,11 @@
 ---
+aliases:
+- /post/2020/11/naming-things-in-tmux/
 created: '2024-08-25 15:53:03'
 date: 2020-11-21 00:00:00-08:00
 description: ''
 fname: pub.post.2020.11.naming-things-in-tmux
 id: bhraelb3rpbrc8q9smtrna8
-redirects:
-- /post/2020/11/naming-things-in-tmux/
 syndication:
   mastodon: https://hackers.town/@randomgeek/105251184292723132
 tags:

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/02/17/my-sloppy-floppy-fingerless-mitten/
 created: '2024-02-26 04:06:34'
 date: 2018-02-17 00:00:00+00:00
 description: ''
 fname: pub.post.2018.02.my-sloppy-floppy-fingerless-mitten
 id: 9b73r9yvmtl1c4sqy9lc6b0
-redirects:
-- /2018/02/17/my-sloppy-floppy-fingerless-mitten/
 slug: my-sloppy-floppy-fingerless-mitten
 tags:
 - knitting

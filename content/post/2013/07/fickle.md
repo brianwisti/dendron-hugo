@@ -1,13 +1,13 @@
 ---
+aliases:
+- /marginalia/2013/07/23_fickle.html
+- /post/2013/fickle/
+- /2013/07/23/fickle/
 created: '2024-02-22 15:28:17'
 date: 2013-07-23 00:00:00+00:00
 description: ''
 fname: pub.post.2013.07.fickle
 id: b9x5mpyay2puw24m8vc553n
-redirects:
-- /marginalia/2013/07/23_fickle.html
-- /post/2013/fickle/
-- /2013/07/23/fickle/
 slug: fickle
 tags:
 - site

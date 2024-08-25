@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/05/enjoyed-this-derek-sivers-interview/
 created: '2024-08-25 14:25:44'
-date: 2020-05-24 14:29:03-07:00
+date: 2020-05-24 21:29:03+00:00
 description: ''
 fname: pub.post.2020.05.enjoyed-this-derek-sivers-interview
 id: 92vfzemrvh78z8kyzp2vvt8
-redirects:
-- /note/2020/05/enjoyed-this-derek-sivers-interview/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104225579620719849
 tags:
@@ -14,7 +14,7 @@ title: Enjoyed This Derek Sivers Interview
 updated: '2024-08-25 14:27:13'
 ---
 
-I'm not a money podcast person, but this episode was worth an hour of my time. I found myself nodding along with this interview with [Derek Sivers](https://sivers.org) — who I already love for [Now]({{< relref "/page/now.md" >}}) pages and the [NowNowNow](https://nownownow.com/) project. His emphasis on making enough vs making all the billions meshes well with my preference for using the tech you need vs emulating Google-scale solutions for *every* project.
+I'm not a money podcast person, but this episode was worth an hour of my time. I found myself nodding along with this interview with [Derek Sivers](https://sivers.org) — who I already love for [Now]({{< relref "/slash/now.md" >}}) pages and the [NowNowNow](https://nownownow.com/) project. His emphasis on making enough vs making all the billions meshes well with my preference for using the tech you need vs emulating Google-scale solutions for *every* project.
 
 I also enjoyed the shout-out to [Amy Hoy](https://stackingthebricks.com/).
 

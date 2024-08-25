@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:08:41'
 date: 2023-10-22 00:00:00+00:00
 description: ''
@@ -10,7 +12,7 @@ tags:
 - css
 - art
 title: Watched Your Colors Suck Its Not Your Fault
-updated: '2024-08-07 19:14:22'
+updated: '2024-08-25 18:21:52'
 ---
 
 Hey do you want a 37 minute info dump about digital color? Of course you do.

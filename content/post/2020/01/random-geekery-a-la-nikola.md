@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/20/random-geekery-a-la-nikola/
+- /note/2020/01/random-geekery-a-la-nikola/
 created: '2024-02-12 15:20:41'
 date: 2020-01-20 00:00:00+00:00
 description: ''
 fname: pub.post.2020.01.random-geekery-a-la-nikola
 id: g2z56vyn6cxfdedbatkgpsh
-redirects:
-- /note/2020/20/random-geekery-a-la-nikola/
-- /note/2020/01/random-geekery-a-la-nikola/
 slug: random-geekery-a-la-nikola
 syndication:
   mastodon: https://hackers.town/@randomgeek/103520062263364491

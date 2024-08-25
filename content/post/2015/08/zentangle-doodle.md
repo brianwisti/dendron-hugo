@@ -1,13 +1,13 @@
 ---
+aliases:
+- /marginalia/2015/08/01_zentangle-doodle.html
+- /craft/2015/zentangle-doodle/
+- /2015/08/01/zentangle-doodle/
 created: '2024-02-23 13:35:33'
 date: 2015-08-01 00:00:00+00:00
 description: Trying to get back into the habit of drawing regularly.
 fname: pub.post.2015.08.zentangle-doodle
 id: 68it5n0poeafrt0vudb520o
-redirects:
-- /marginalia/2015/08/01_zentangle-doodle.html
-- /craft/2015/zentangle-doodle/
-- /2015/08/01/zentangle-doodle/
 slug: zentangle-doodle
 tags:
 - drawing

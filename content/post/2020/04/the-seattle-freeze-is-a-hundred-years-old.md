@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/115/the-seattle-freeze-is-a-hundred-years-old/
 created: '2024-02-13 18:14:20'
 date: 2020-04-24 00:00:00+00:00
 description: ''
 fname: pub.post.2020.04.the-seattle-freeze-is-a-hundred-years-old
 id: jvtcuoc1iikmphc4t9z2wby
-redirects:
-- /note/2020/115/the-seattle-freeze-is-a-hundred-years-old/
 slug: the-seattle-freeze-is-a-hundred-years-old
 syndication:
   mastodon: https://hackers.town/@randomgeek/104054210028790974

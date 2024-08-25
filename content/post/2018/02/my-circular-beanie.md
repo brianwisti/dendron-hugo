@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/02/07/my-circular-beanie/
 created: '2024-02-26 04:04:58'
 date: 2018-02-07 00:00:00+00:00
 description: ''
 fname: pub.post.2018.02.my-circular-beanie
 id: 78oh1618n9xufv84hhakfyi
-redirects:
-- /2018/02/07/my-circular-beanie/
 slug: my-circular-beanie
 tags:
 - knitting

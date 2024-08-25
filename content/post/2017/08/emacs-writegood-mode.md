@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2017/emacs-writegood-mode/
+- /2017/08/06/emacs-writegood-mode/
 created: '2024-08-25 17:12:49'
 date: 2017-08-06 00:00:00-07:00
 description: ''
 fname: pub.post.2017.08.emacs-writegood-mode
 id: 2e7r5ay774vtp3rrzavancz
-redirects:
-- /post/2017/emacs-writegood-mode/
-- /2017/08/06/emacs-writegood-mode/
 tags:
 - emacs
 - tools

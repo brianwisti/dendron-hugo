@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/
 created: '2024-08-25 14:50:13'
 date: 2020-05-28 00:32:25-07:00
 description: ''
 fname: pub.post.2020.05.uploaded-to-cpan-oops-hang-on-how-about-now
 id: 4p8qfboqn50r7irj31uq601
-redirects:
-- /note/2020/05/uploaded-to-cpan-oops-hang-on-how-about-now/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104244939719750904
 tags:

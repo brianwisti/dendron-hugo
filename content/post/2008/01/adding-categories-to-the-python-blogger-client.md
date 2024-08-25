@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2008/01/02_adding-categories-to-python-blogger.html
+- /post/2008/adding-categories-to-python-blogger/
+- /2008/01/02/adding-categories-to-the-python-blogger-client/
 created: '2024-02-19 01:15:00'
 date: 2008-01-02 00:00:00+00:00
 description: ''
 fname: pub.post.2008.01.adding-categories-to-the-python-blogger-client
 id: t45jh7klzsl5c5tgqnrue4i
-redirects:
-- /blogspot/2008/01/02_adding-categories-to-python-blogger.html
-- /post/2008/adding-categories-to-python-blogger/
-- /2008/01/02/adding-categories-to-the-python-blogger-client/
 slug: adding-categories-to-the-python-blogger-client
 tags:
 - blogger

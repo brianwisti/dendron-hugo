@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:17:04'
 date: 2023-06-15 00:00:00+00:00
 description: ''
@@ -11,7 +13,7 @@ tags:
 - adhd
 - read
 title: Reading What Developers with ADHD Want You to Know
-updated: '2024-08-07 19:14:03'
+updated: '2024-08-25 18:23:16'
 ---
 
 Installed [Ruby](https://www.ruby-lang.org/en/) on the most recent [EndeavourOS](https://endeavouros.com) [^1] install so I could run my script that adds a post to my site's primary [Hugo](https://gohugo.io) iteration as I work on a [Gatsby](https://www.gatsbyjs.com) iteration of the site so I can convincingly claim knowledge of [React](https://react.dev) [^2] when talking to recruiters during this year's interminable [job search](https://www.linkedin.com/in/brianwisti/) so I can get a new job and maybe get back on [ADHD]({{< relref "/card/adhd.md" >}}) meds and maybe occasionally focus on one thing at a time and — um — where was I?

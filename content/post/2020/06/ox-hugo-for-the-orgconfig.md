@@ -1,11 +1,11 @@
 ---
+aliases:
+- /post/2020/06/ox-hugo-for-the-orgconfig/
 created: '2024-08-25 15:24:31'
 date: 2020-06-27 00:00:00-07:00
 description: ''
 fname: pub.post.2020.06.ox-hugo-for-the-orgconfig
 id: usio60yasrk61kk0bd0e9ta
-redirects:
-- /post/2020/06/ox-hugo-for-the-orgconfig/
 tags:
 - orgconfig
 - orgmode

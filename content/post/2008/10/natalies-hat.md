@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2008/natalies-hat/
+- /2008/10/01/natalies-hat/
 created: '2024-02-19 01:55:37'
 date: 2008-10-01 00:00:00+00:00
 description: ''
 fname: pub.post.2008.10.natalies-hat
 id: eare6vvn0mhschz95swg65e
-redirects:
-- /craft/2008/natalies-hat/
-- /2008/10/01/natalies-hat/
 slug: natalies-hat
 tags:
 - knitting

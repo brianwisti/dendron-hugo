@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2011/07/18_rake.html
+- /post/2011/rake/
+- /2011/07/18/rake/
 created: '2024-02-22 14:07:32'
 date: 2011-07-18 00:00:00+00:00
 description: ''
 fname: pub.post.2011.07.rake
 id: ok2ztrkw5av1voh2y3n4pxg
-redirects:
-- /coolnamehere/2011/07/18_rake.html
-- /post/2011/rake/
-- /2011/07/18/rake/
 slug: rake
 tags:
 - ruby

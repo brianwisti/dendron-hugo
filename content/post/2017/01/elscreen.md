@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2017/elscreen/
+- /2017/01/11/elscreen/
 created: '2024-02-12 22:32:58'
 date: 2017-01-11 00:00:00+00:00
 description: ''
 fname: pub.post.2017.01.elscreen
 id: 9cncvvu5iqxr2vrl8at6wn0
-redirects:
-- /post/2017/elscreen/
-- /2017/01/11/elscreen/
 tags:
 - emacs
 - elscreen

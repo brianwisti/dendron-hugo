@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2005/02/27_03-making-decisions.html
+- /post/2005/03-making-decisions/
+- /2005/02/27/rebol-babysteps-03-making-decisions/
 created: '2024-02-16 20:44:29'
 date: 2005-02-27 00:00:00+00:00
 description: ''
 fname: pub.post.2005.02.rebol-babysteps-03-making-decisions
 id: zfgc43lf2quntg1erou0seh
-redirects:
-- /coolnamehere/2005/02/27_03-making-decisions.html
-- /post/2005/03-making-decisions/
-- /2005/02/27/rebol-babysteps-03-making-decisions/
 series:
 - REBOL Babysteps
 slug: rebol-babysteps-03-making-decisions

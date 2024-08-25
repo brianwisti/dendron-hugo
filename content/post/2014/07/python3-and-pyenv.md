@@ -1,13 +1,13 @@
 ---
+aliases:
+- /tools/2014/07/04_python3-venv.html
+- /post/2014/python3-venv/
+- /2014/07/04/python3-and-pyvenv/
 created: '2024-02-22 17:36:47'
 date: 2014-07-04 00:00:00+00:00
 description: ''
 fname: pub.post.2014.07.python3-and-pyenv
 id: kjn7v0d5ud8z91rb6greok5
-redirects:
-- /tools/2014/07/04_python3-venv.html
-- /post/2014/python3-venv/
-- /2014/07/04/python3-and-pyvenv/
 slug: python3-and-pyenv
 tags:
 - python

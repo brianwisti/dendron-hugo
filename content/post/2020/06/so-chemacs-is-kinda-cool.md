@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/06/so-chemacs-is-kinda-cool/
 created: '2024-08-25 15:28:20'
 date: 2020-06-25 22:33:35-07:00
 description: ''
 fname: pub.post.2020.06.so-chemacs-is-kinda-cool
 id: k05qonmlumt7afczxe6p21u
-redirects:
-- /note/2020/06/so-chemacs-is-kinda-cool/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104408712351182709
 tags:

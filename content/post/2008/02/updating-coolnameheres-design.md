@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2008/02/01_updating-coolnameheres-design.html
+- /post/2008/updating-coolnameheres-design/
+- /2008/02/01/updating-coolnameheres-design/
 created: '2024-02-19 01:47:12'
 date: 2008-02-01 00:00:00+00:00
 description: ''
 fname: pub.post.2008.02.updating-coolnameheres-design
 id: n2hi9botcccxyl4gmlxnn3b
-redirects:
-- /blogspot/2008/02/01_updating-coolnameheres-design.html
-- /post/2008/updating-coolnameheres-design/
-- /2008/02/01/updating-coolnameheres-design/
 slug: updating-coolnameheres-design
 tags:
 - site

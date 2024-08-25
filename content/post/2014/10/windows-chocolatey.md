@@ -1,13 +1,13 @@
 ---
+aliases:
+- /tools/2014/10/04_windows-chocolatey.html
+- /post/2014/windows-chocolatey/
+- /2014/10/04/chocolatey/
 created: '2024-02-22 18:11:55'
 date: '2014-10-04T00:00:00.000Z'
 description: A package manager for Windows
 fname: pub.post.2014.10.windows-chocolatey
 id: g47v7le11ezhcr295zo1ynu
-redirects:
-- /tools/2014/10/04_windows-chocolatey.html
-- /post/2014/windows-chocolatey/
-- /2014/10/04/chocolatey/
 slug: windows-chocolatey
 tags:
 - windows

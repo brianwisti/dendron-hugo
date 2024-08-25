@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2017/converting-ogg-to-mp3/
+- /2017/02/25/converting-ogg-to-mp3/
 created: '2024-02-24 23:27:03'
 date: 2017-02-25 00:00:00+00:00
 description: ''
 fname: pub.post.2017.02.converting-ogg-to-mp3
 id: 6tj9st25r71ob2b8n10epjj
-redirects:
-- /post/2017/converting-ogg-to-mp3/
-- /2017/02/25/converting-ogg-to-mp3/
 slug: converting-ogg-to-mp3
 tags:
 - perl

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/08/watched-an-old-tom-waits-interview/
 created: '2024-08-25 15:38:59'
 date: 2020-08-09 23:09:41-07:00
 description: ''
 fname: pub.post.2020.watched-an-old-tom-waits-interview
 id: fj5vfn9bdc5212f73ao05sq
-redirects:
-- /note/2020/08/watched-an-old-tom-waits-interview/
 syndication:
   mastodon: https https://hackers.town/@randomgeek/104663739934690658
 tags:

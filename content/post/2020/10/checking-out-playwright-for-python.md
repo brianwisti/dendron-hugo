@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/10/checking-out-playwright-for-python/
 created: '2024-08-25 15:49:18'
 date: 2020-10-13 00:24:11-07:00
 description: ''
 fname: pub.post.2020.10.checking-out-playwright-for-python
 id: m9bknusrmoqwcehc0u7vamc
-redirects:
-- /note/2020/10/checking-out-playwright-for-python/
 syndication:
   mastodon: https://hackers.town/@randomgeek/105026330465855930
 tags:

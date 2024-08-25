@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/05/skinny-lines-and-flat-colors/
 created: '2024-08-25 14:48:53'
 date: 2020-05-02 21:11:00-07:00
 description: ''
 fname: pub.post.2020.05.skinny-lines-and-flat-colors
 id: mk24moifs8b74ll3slttj0f
-redirects:
-- /note/2020/05/skinny-lines-and-flat-colors/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104102620381664798
 tags:

@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2017/logging-money-in-org-mode/
+- /2017/07/31/logging-money-in-org-mode/
 created: '2024-02-25 05:43:56'
 date: 2017-07-31 00:00:00+00:00
 description: ''
 fname: pub.post.2017.07.logging-money-in-org-mode
 id: dooz0j7724cp5twmaeo188v
-redirects:
-- /post/2017/logging-money-in-org-mode/
-- /2017/07/31/logging-money-in-org-mode/
 slug: logging-money-in-org-mode
 tags:
 - emacs

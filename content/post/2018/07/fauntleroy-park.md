@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/07/08/fauntleroy-park/
 created: '2024-03-06 15:05:13'
 date: 2018-07-08
 description: ''
 fname: pub.post.2018.07.fauntleroy-park
 id: n4ob5ay60g50tvxxgr6wn1t
-redirects:
-- /2018/07/08/fauntleroy-park/
 series:
 - sauntering
 slug: fauntleroy-park

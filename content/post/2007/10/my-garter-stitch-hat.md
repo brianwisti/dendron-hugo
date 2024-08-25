@@ -1,13 +1,13 @@
 ---
+aliases:
+- /craft/2007/my-garter-stitch-hat/
+- /2007/10/15/my-garter-stitch-hat/
 created: '2024-02-18 05:13:53'
 date: 2007-10-15 00:00:00+00:00
 description: It's not the best hat I've made. It wasn't even the best hat I'd made
   when I made it.
 fname: pub.post.2007.10.my-garter-stitch-hat
 id: symzhgq6gi4pv1dls70d34t
-redirects:
-- /craft/2007/my-garter-stitch-hat/
-- /2007/10/15/my-garter-stitch-hat/
 slug: my-garter-stitch-hat
 tags:
 - knitting

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/05/the-memex-method-works-for-me/
 created: '2024-02-12 03:15:18'
 date: 2021-05-13 00:00:00+00:00
 description: ''
 fname: pub.post.2021.05.the-memex-method-works-for-me
 id: 40yjvzu4u0bb51osap351kx
-redirects:
-- /note/2021/05/the-memex-method-works-for-me/
 slug: the-memex-method-works-for-me
 tags:
 - read

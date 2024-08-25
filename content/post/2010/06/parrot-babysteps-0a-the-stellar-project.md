@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2010/06/02_0a-the-stellar-project.html
+- /post/2010/0a-the-stellar-project/
+- /2010/06/02/parrot-babysteps-0a-the-stellar-project/
 created: '2024-02-20 22:43:18'
 date: 2010-06-02 00:00:00+00:00
 description: ''
 fname: pub.post.2010.06.parrot-babysteps-0a-the-stellar-project
 id: gfl7p9dgg8eknw1liaryq4i
-redirects:
-- /coolnamehere/2010/06/02_0a-the-stellar-project.html
-- /post/2010/0a-the-stellar-project/
-- /2010/06/02/parrot-babysteps-0a-the-stellar-project/
 series:
 - Parrot Babysteps
 slug: parrot-babysteps-0a-the-stellar-project

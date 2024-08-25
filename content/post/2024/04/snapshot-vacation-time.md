@@ -1,4 +1,6 @@
 ---
+categories:
+- snapshot
 created: '2024-05-08 23:53:35'
 date: '2024-04-14T00:00:00.000Z'
 description: ''
@@ -6,10 +8,8 @@ fname: pub.post.2024.04.snapshot-vacation-time
 id: y2wpu4on9cis399vs5870dt
 syndication:
   mastodon: https://hackers.town/@randomgeek/112270645096144254
-tags:
-- snapshot
 title: Snapshot — Vacation Time
-updated: '2024-08-25 13:37:22'
+updated: '2024-08-25 18:20:03'
 ---
 
 oops didn't mean to skip a whole month

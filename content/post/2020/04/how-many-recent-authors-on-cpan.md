@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/119/how-many-recent-authors-on-cpan/
+- /note/2020/04/how-many-recent-authors-on-cpan/
 created: '2024-02-13 17:44:50'
 date: 2020-04-28 00:00:00+00:00
 description: ''
 fname: pub.post.2020.04.how-many-recent-authors-on-cpan
 id: jz7x6a4tpzqgp7e6raarpew
-redirects:
-- /note/2020/119/how-many-recent-authors-on-cpan/
-- /note/2020/04/how-many-recent-authors-on-cpan/
 slug: how-many-recent-authors-on-cpan
 syndication:
   mastodon: https://hackers.town/@randomgeek/104077745261496400

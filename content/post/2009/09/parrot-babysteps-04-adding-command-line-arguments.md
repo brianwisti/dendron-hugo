@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2009/09/17_04-adding-command-line-arguments.html
+- /post/2009/04-adding-command-line-arguments/
+- /2009/09/17/parrot-babysteps-04-adding-command-line-arguments/
 created: '2024-02-19 19:45:26'
 date: 2009-09-17 00:00:00+00:00
 description: ''
 fname: pub.post.2009.09.parrot-babysteps-04-adding-command-line-arguments
 id: so3gx5boj60w7u42kw67wje
-redirects:
-- /coolnamehere/2009/09/17_04-adding-command-line-arguments.html
-- /post/2009/04-adding-command-line-arguments/
-- /2009/09/17/parrot-babysteps-04-adding-command-line-arguments/
 series:
 - Parrot Babysteps
 slug: parrot-babysteps-04-adding-command-line-arguments

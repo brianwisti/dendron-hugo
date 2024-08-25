@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/33/added-dark-mode-for-the-site/
+- /note/2020/02/added-dark-mode-for-the-site/
 created: '2024-02-12 15:41:00'
 date: 2020-02-02 00:00:00+00:00
 description: ''
 fname: pub.post.2020.02.added-dark-mode-for-the-site
 id: btr7cdqvemm3jo0my3lqbkl
-redirects:
-- /note/2020/33/added-dark-mode-for-the-site/
-- /note/2020/02/added-dark-mode-for-the-site/
 slug: added-dark-mode-for-the-site
 syndication:
   mastodon: https://hackers.town/@randomgeek/103592944673211153

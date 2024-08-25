@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/113/why-do-i-blog/
+- /note/2020/04/why-do-i-blog/
 created: '2024-02-13 18:17:38'
 date: 2020-04-22 00:00:00+00:00
 description: ''
 fname: pub.post.2020.04.why-do-i-blog
 id: fquf12780e5jbiz905ntpb7
-redirects:
-- /note/2020/113/why-do-i-blog/
-- /note/2020/04/why-do-i-blog/
 slug: why-do-i-blog
 syndication:
   mastodon: https://hackers.town/@randomgeek/104044038344776759

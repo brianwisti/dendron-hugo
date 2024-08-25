@@ -1,13 +1,13 @@
 ---
+aliases:
+- /marginalia/2015/03/28_blogspot-ported.html
+- /post/2015/blogspot-ported/
+- /2015/03/28/blogspot-content-imported/
 created: '2024-02-23 13:05:48'
 date: 2015-03-28 00:00:00+00:00
 description: More new old pages
 fname: pub.post.2015.03.blogspot-content-imported
 id: pkx9ldgn3sx7z5ygsa9uwir
-redirects:
-- /marginalia/2015/03/28_blogspot-ported.html
-- /post/2015/blogspot-ported/
-- /2015/03/28/blogspot-content-imported/
 slug: blogspot-content-imported
 tags:
 - site

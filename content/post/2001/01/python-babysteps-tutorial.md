@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2001/01/17_python-babysteps-tutorial.html
+- /post/2001/python-babysteps-tutorial/
+- /2001/01/17/python-babysteps-tutorial/
 created: '2024-02-10 17:48:49'
 date: 2001-01-17 00:00:00+00:00
 description: Before the basics
 fname: pub.post.2001.01.python-babysteps-tutorial
 id: y0f26z6fou33t6nsi6z80b2
-redirects:
-- /coolnamehere/2001/01/17_python-babysteps-tutorial.html
-- /post/2001/python-babysteps-tutorial/
-- /2001/01/17/python-babysteps-tutorial/
 tags:
 - python
 - learn

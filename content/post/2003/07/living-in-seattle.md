@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2003/07/11_living-in-seattle.html
+- /post/2003/living-in-seattle/
+- /2003/07/11/living-in-seattle/
 created: '2024-02-10 23:36:15'
 date: 2003-07-11 07:00:00+00:00
 description: circa 2003, at least.
 fname: pub.post.2003.07.living-in-seattle
 id: bt3j01ibxxndn4ikcn4g24t
-redirects:
-- /coolnamehere/2003/07/11_living-in-seattle.html
-- /post/2003/living-in-seattle/
-- /2003/07/11/living-in-seattle/
 slug: living-in-seattle
 tags:
 - babblings

@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2016/dancer2-hello/
+- /2016/07/11/hello-dancer2/
 created: '2024-02-24 05:34:57'
 date: 2016-07-11 00:00:00+00:00
 description: Some simple first steps with the Perl 5 Dancer2 web framework
 fname: pub.post.2016.07.hello-dancer2
 id: qgw53jfg0na2tw9zq9j8tjo
-redirects:
-- /post/2016/dancer2-hello/
-- /2016/07/11/hello-dancer2/
 slug: hello-dancer2
 tags:
 - perl

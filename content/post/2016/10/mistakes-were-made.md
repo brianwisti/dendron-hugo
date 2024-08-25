@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2016/mistakes-were-made/
+- /2016/10/28/mistakes-were-made/
 created: '2024-02-24 05:43:26'
 date: 2016-10-28 00:00:00+00:00
 description: ''
 fname: pub.post.2016.10.mistakes-were-made
 id: iw5qhugnkdcm9tbhyzlaonz
-redirects:
-- /craft/2016/mistakes-were-made/
-- /2016/10/28/mistakes-were-made/
 slug: mistakes-were-made
 tags:
 - buy-me

@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2019/349/again-with-the-manual-symmetry/
+- /note/2019/12/again-with-the-manual-symmetry/
 created: '2024-02-12 15:35:51'
 date: 2019-12-15 00:00:00+00:00
 description: ''
 fname: pub.post.2019.12.again-with-the-manual-symmetry
 id: 85iv7b1b28ala4czc5phbcv
-redirects:
-- /note/2019/349/again-with-the-manual-symmetry/
-- /note/2019/12/again-with-the-manual-symmetry/
 slug: again-with-the-manual-symmetry
 syndication:
   mastodon: https://hackers.town/@randomgeek/103313897978144046

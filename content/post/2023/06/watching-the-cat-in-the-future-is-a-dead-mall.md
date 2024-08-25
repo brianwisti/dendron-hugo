@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:16:23'
 date: 2023-06-19 00:00:00+00:00
 description: ''
@@ -12,7 +14,7 @@ tags:
 - vr
 - crypto
 title: 'Watching (the cat in): The Future is a Dead Mall'
-updated: '2024-02-10 17:16:46'
+updated: '2024-08-25 18:23:01'
 ---
 
 Decentraland as a sad shadow of Second Life. Non-tech folks reporting on it from the perspective of maybe they’re missing something — but there’s nothing to miss. Oh and the wallet-based voting. More committees than a liberal arts college town’s anarchist collective. Ugh.

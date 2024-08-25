@@ -1,4 +1,6 @@
 ---
+categories:
+- snapshot
 created: '2024-03-11 17:10:21'
 date: 2024-03-11
 description: ''
@@ -6,10 +8,8 @@ fname: pub.post.2024.03.snapshot-dst
 id: ue6mesbt1cbq3wsq5fmkh0e
 syndication:
   mastodon: https://hackers.town/@randomgeek/112078556631361749
-tags:
-- snapshot
 title: Snapshot - I Hate Daylight Savings Time
-updated: '2024-08-22 04:06:00'
+updated: '2024-08-25 18:20:11'
 ---
 
 a day late and the title says it all really

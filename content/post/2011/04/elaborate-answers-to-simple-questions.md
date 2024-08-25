@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2011/04/14_elaborate-answers-to-simple-questions.html
+- /post/2011/elaborate-answers-to-simple-questions/
+- /2011/04/14/elaborate-answers-to-simple-questions/
 created: '2024-02-22 13:53:01'
 date: 2011-04-14 00:00:00+00:00
 description: ''
 fname: pub.post.2011.04.elaborate-answers-to-simple-questions
 id: wzhuulrok3xfxeh8s510a6k
-redirects:
-- /blogspot/2011/04/14_elaborate-answers-to-simple-questions.html
-- /post/2011/elaborate-answers-to-simple-questions/
-- /2011/04/14/elaborate-answers-to-simple-questions/
 slug: elaborate-answers-to-simple-questions
 tags:
 - python

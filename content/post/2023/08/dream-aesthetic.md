@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:11:58'
 date: 2023-08-29
 description: ''
@@ -13,7 +15,7 @@ tags:
 - linea-sketch
 - bedtime-drawing
 title: Dream Aesthetic
-updated: '2024-04-05 03:24:51'
+updated: '2024-08-25 18:22:34'
 ---
 
 ![mandala-style circular drawing with purple tones and abstract floral elements](assets/img/2023/cover-2023-08-29.png)

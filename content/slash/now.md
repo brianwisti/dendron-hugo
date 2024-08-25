@@ -1,18 +1,23 @@
 ---
-created: '2024-02-10 14:38:53'
-description: ''
-fname: pub.page.now
-id: c8lymuuvb5npa8vg1ubr45u
-redirects:
+aliases:
 - /now
+- /page/now
+created: '2024-02-10 14:38:53'
+description: What I am up to currently, give or take.
+fname: pub.slash.now
+id: c8lymuuvb5npa8vg1ubr45u
+menus:
+- main
 title: Now
-updated: '2024-08-25 17:44:54'
+updated: '2024-08-25 22:43:25'
 ---
 
 > [!NOTE]
 > Check out the [`/now`](https://sive.rs/nowff) page movement started by [Derek Sivers](https://sive.rs). You can get a [profile](https://nownownow.com/p/2ugf) if you set up a `/now` page.
 >
 > [`/now`](https://nownownow.com) --- it's like a [webring](https://en.wikipedia.org/wiki/Webring) for status pages!
+
+What I'm doing at the moment, depending on how long it's been since I remembered to update. See [About]({{< relref "/slash/about.md" >}}) for general information about me and the site.
 
 ## Where?
 
@@ -47,4 +52,4 @@ Just started a new job! It's [Devops]({{< relref "/card/devops.md" >}}) with som
 
 ## Want more?
 
-You can contact me via [email](mailto:brianwisti@pobox.com) — or [Follow]({{< relref "/page/follow.md" >}}) me online!
+You can contact me via [email](mailto:brianwisti@pobox.com) — or [Follow]({{< relref "/slash/follow.md" >}}) me online!

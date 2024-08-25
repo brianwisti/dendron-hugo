@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/11/drawing-and-site-shuffling-are-coping-techniques/
 created: '2024-02-12 04:44:15'
 date: 2021-11-07 00:00:00+00:00
 description: ''
 fname: pub.post.2021.11.drawing-and-site-shuffling-are-coping-techniques
 id: g3gonzqk7bmd6674kivdjxj
-redirects:
-- /note/2021/11/drawing-and-site-shuffling-are-coping-techniques/
 slug: drawing-and-site-shuffling-are-coping-techniques
 syndication:
   mastodon: https://hackers.town/@randomgeek/107240047665069303

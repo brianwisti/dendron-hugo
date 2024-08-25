@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/02/02/nicoles-fingerless-gauntlets/
 created: '2024-02-26 04:09:05'
 date: 2018-02-02 00:00:00+00:00
 description: ''
 fname: pub.post.2018.02.nicoles-fingerless-gauntlets
 id: erbwalfgi2u5coum60cq0s9
-redirects:
-- /2018/02/02/nicoles-fingerless-gauntlets/
 slug: nicoles-fingerless-gauntlets
 tags:
 - knitting

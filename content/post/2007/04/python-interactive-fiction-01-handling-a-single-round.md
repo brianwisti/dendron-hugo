@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2007/04/19_01-handling-a-single-round.html
+- /post/2007/01-handling-a-single-round/
+- /2007/04/19/python-interactive-fiction-01-handling-a-single-round/
 created: '2024-02-18 04:30:30'
 date: 2007-04-19 00:00:00+00:00
 description: ''
 fname: pub.post.2007.04.python-interactive-fiction-01-handling-a-single-round
 id: fnjbytoeop4dzjk74vznk2v
-redirects:
-- /coolnamehere/2007/04/19_01-handling-a-single-round.html
-- /post/2007/01-handling-a-single-round/
-- /2007/04/19/python-interactive-fiction-01-handling-a-single-round/
 series:
 - Python Interactive Fiction
 slug: python-interactive-fiction-01-handling-a-single-round

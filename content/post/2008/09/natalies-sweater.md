@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2008/natalies-sweater/
+- /2008/09/27/natalies-sweater/
 created: '2024-02-19 01:53:57'
 date: 2008-09-27 00:00:00+00:00
 description: ''
 fname: pub.post.2008.09.natalies-sweater
 id: nu5ix2g18yz60obbw0b803o
-redirects:
-- /craft/2008/natalies-sweater/
-- /2008/09/27/natalies-sweater/
 slug: natalies-sweater
 tags:
 - knitting

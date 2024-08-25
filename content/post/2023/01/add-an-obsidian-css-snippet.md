@@ -1,10 +1,11 @@
 ---
+categories:
+- post
 created: '2024-02-10 17:44:52'
 date: 2023-01-24 00:00:00+00:00
 description: ''
 fname: pub.post.2023.01.add-an-obsidian-css-snippet
 id: a3en8wsz23utdodatnunhzd
-slug: add-an-obsidian-css-snippet
 syndication:
   linkedin: https://www.linkedin.com/posts/brianwisti_add-an-obsidian-css-snippet-activity-7023799094020100096-TwUn
   mastodon: https://hackers.town/@randomgeek/109746858904246931
@@ -12,7 +13,7 @@ tags:
 - obsidian
 - second-brain
 title: Add an Obsidian CSS Snippet
-updated: '2024-08-07 19:13:00'
+updated: '2024-08-25 18:27:22'
 ---
 
 ![Obsidian note showing attribution for banner image](assets/img/2023/cover-2023-01-24.png "Reader view so you don't have to stare at YAML frontmatter")

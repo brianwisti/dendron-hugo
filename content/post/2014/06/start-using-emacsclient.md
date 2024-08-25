@@ -1,12 +1,12 @@
 ---
+aliases:
+- /emacs/2014/06/02_start-using-emacsclient.html
+- /post/2014/start-using-emacsclient/
 created: '2024-02-22 17:34:57'
 date: 2014-06-02 00:00:00+00:00
 description: ''
 fname: pub.post.2014.06.start-using-emacsclient
 id: j9rnhqbie5mb5wrztbq81i5
-redirects:
-- /emacs/2014/06/02_start-using-emacsclient.html
-- /post/2014/start-using-emacsclient/
 slug: start-using-emacsclient
 tags:
 - emacs

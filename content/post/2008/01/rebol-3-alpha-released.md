@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2008/01/08_rebol-3-alpha-released.html
+- /post/2008/rebol-3-alpha-released/
+- /2008/01/08/rebol-3-alpha-released/
 created: '2024-02-19 01:41:51'
 date: 2008-01-08 00:00:00+00:00
 description: ''
 fname: pub.post.2008.01.rebol-3-alpha-released
 id: avn9qrb9y9ma1qlxxfuzhwc
-redirects:
-- /blogspot/2008/01/08_rebol-3-alpha-released.html
-- /post/2008/rebol-3-alpha-released/
-- /2008/01/08/rebol-3-alpha-released/
 slug: rebol-3-alpha-released
 tags:
 - rebol

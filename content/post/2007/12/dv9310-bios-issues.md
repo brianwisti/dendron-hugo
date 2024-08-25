@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2007/12/29_now-that-both-of-my-machines-are.html
+- /post/2007/now-that-both-of-my-machines-are/
+- /2007/12/29/dv9310-bios-issues/
 created: '2024-02-18 05:19:15'
 date: 2007-12-29 00:00:00+00:00
 description: ''
 fname: pub.post.2007.12.dv9310-bios-issues
 id: 8xjk166opu5yi24vbk77u06
-redirects:
-- /blogspot/2007/12/29_now-that-both-of-my-machines-are.html
-- /post/2007/now-that-both-of-my-machines-are/
-- /2007/12/29/dv9310-bios-issues/
 slug: dv9310-bios-issues
 tags:
 - i-fixed-it

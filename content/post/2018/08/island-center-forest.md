@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/08/19/island-center-forest/
 created: '2024-03-06 15:11:30'
 date: 2018-08-19
 description: ''
 fname: pub.post.2018.08.island-center-forest
 id: 92k9tflvsrj6o9hoga4w744
-redirects:
-- /2018/08/19/island-center-forest/
 series:
 - sauntering
 slug: island-center-forest

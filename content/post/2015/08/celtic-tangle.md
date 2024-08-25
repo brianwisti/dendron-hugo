@@ -1,13 +1,13 @@
 ---
+aliases:
+- /marginalia/2015/08/01_celtic-tangle.html
+- /craft/2015/celtic-tangle/
+- /2015/08/01/celtic-tangle/
 created: '2024-02-23 13:29:07'
 date: 2015-08-01 00:00:00+00:00
 description: ''
 fname: pub.post.2015.08.celtic-tangle
 id: odlamuj28mbcsiy7thd0mpd
-redirects:
-- /marginalia/2015/08/01_celtic-tangle.html
-- /craft/2015/celtic-tangle/
-- /2015/08/01/celtic-tangle/
 slug: celtic-tangle
 tags:
 - drawing

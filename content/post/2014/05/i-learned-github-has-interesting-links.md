@@ -1,13 +1,13 @@
 ---
+aliases:
+- /tools/2014/05/30_i-learned-github-has-interesting-links.html
+- /post/2014/i-learned-github-has-interesting-links/
+- /2014/05/30/i-learned-github-has-interesting-links/
 created: '2024-02-22 16:44:40'
 date: 2014-05-30 00:00:00+00:00
 description: ''
 fname: pub.post.2014.05.i-learned-github-has-interesting-links
 id: hcw6lmuitn2kpvbrgberid7
-redirects:
-- /tools/2014/05/30_i-learned-github-has-interesting-links.html
-- /post/2014/i-learned-github-has-interesting-links/
-- /2014/05/30/i-learned-github-has-interesting-links/
 slug: i-learned-github-has-interesting-links
 tags:
 - tools

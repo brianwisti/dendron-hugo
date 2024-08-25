@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/94/yay-i-added-mentions-and-replies/
+- /note/2020/04/yay-i-added-mentions-and-replies/
 created: '2024-02-13 18:19:22'
 date: 2020-04-03 00:00:00+00:00
 description: ''
 fname: pub.post.2020.04.yay-i-added-mentions-and-replies
 id: 88g094lmn8j47wfn84iql9s
-redirects:
-- /note/2020/94/yay-i-added-mentions-and-replies/
-- /note/2020/04/yay-i-added-mentions-and-replies/
 slug: yay-i-added-mentions-and-replies
 syndication:
   mastodon: https://hackers.town/@randomgeek/103933433416503565

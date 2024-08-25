@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2016/that-was-fun/
+- /2016/12/12/that-was-fun/
 created: '2024-02-24 05:59:06'
 date: 2016-12-12 00:00:00+00:00
 description: ''
 fname: pub.post.2016.12.that-was-fun
 id: yk062523fwxedq5fdbdadmw
-redirects:
-- /craft/2016/that-was-fun/
-- /2016/12/12/that-was-fun/
 slug: that-was-fun
 tags:
 - drawing

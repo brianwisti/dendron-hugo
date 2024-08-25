@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2016/mixing-apps/
+- /2016/12/02/mixing-apps/
 created: '2024-02-24 05:54:03'
 date: 2016-12-02 00:00:00+00:00
 description: ''
 fname: pub.post.2016.12.mixing-apps
 id: yrdwt04ape0yc0zy6e4l2h8
-redirects:
-- /craft/2016/mixing-apps/
-- /2016/12/02/mixing-apps/
 slug: mixing-apps
 tags:
 - drawing

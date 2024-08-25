@@ -1,6 +1,6 @@
 ---
 created: '2024-02-11 19:55:31'
-date: 2021-02-06 00:00:00+00:00
+date: '2021-02-06T00:00:00.000Z'
 description: Want to see something cool?
 fname: pub.post.2021.02.pretty-file-summaries-with-rich-and-exiftool
 id: 48e5ronoh2txa3iypski6d9
@@ -165,7 +165,7 @@ And here’s what that looks like.
 <span style="font-weight: bold">}</span>
 </pre>
 
-Holy crap that’s a lot.  Some of it could be considered sensitive information — unless you read my [Now]({{< relref "/page/now.md" >}}) page.  But it’s all there!  Even in the snipped version you can learn a lot.  Hello from my Windows partition in West Seattle during February of 2021!
+Holy crap that’s a lot.  Some of it could be considered sensitive information — unless you read my [Now]({{< relref "/slash/now.md" >}}) page.  But it’s all there!  Even in the snipped version you can learn a lot.  Hello from my Windows partition in West Seattle during February of 2021!
 
 > [!TIP]
 > Uncomfortable sharing that much with every photo you upload?  You can scrub

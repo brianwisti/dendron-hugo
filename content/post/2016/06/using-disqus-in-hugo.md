@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2016/disqus-in-hugo/
+- /2016/06/23/using-disqus-in-hugo/
 created: '2024-02-24 05:33:44'
 date: 2016-06-23 00:00:00+00:00
 description: ''
 fname: pub.post.2016.06.using-disqus-in-hugo
 id: cv56md4z158adcw8jved2pn
-redirects:
-- /post/2016/disqus-in-hugo/
-- /2016/06/23/using-disqus-in-hugo/
 slug: using-disqus-in-hugo
 tags:
 - hugo

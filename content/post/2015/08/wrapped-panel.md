@@ -1,12 +1,12 @@
 ---
+aliases:
+- /marginalia/2015/08/08_wrapped-panel.html
+- /craft/2015/wrapped-panel/
 created: '2024-02-23 13:32:36'
 date: 2015-08-08 07:00:00+00:00
 description: Stretching myself with each picture is starting to look interesting.
 fname: pub.post.2015.08.wrapped-panel
 id: u60n9vozgrjnbruvufzzqxg
-redirects:
-- /marginalia/2015/08/08_wrapped-panel.html
-- /craft/2015/wrapped-panel/
 slug: wrapped-panel
 tags:
 - drawing

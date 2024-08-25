@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/07/a-finished-awesomewm-post-from-someone-else-is-better-than-a-draft-from-me/
 created: '2024-02-12 03:16:25'
 date: 2021-07-27 07:00:00+00:00
 description: ''
 fname: pub.post.2021.07.a-finished-awesomewm-post-from-someone-else-is-better-than-a-draft-from-me
 id: ggrurat4twtvynb1espbs37
-redirects:
-- /note/2021/07/a-finished-awesomewm-post-from-someone-else-is-better-than-a-draft-from-me/
 slug: a-finished-awesomewm-post-from-someone-else-is-better-than-a-draft-from-me
 tags:
 - awesomewm

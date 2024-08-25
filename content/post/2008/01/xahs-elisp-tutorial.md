@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2008/01/03_xah-elisp-tutorial.html
+- /post/2008/xah-elisp-tutorial/
+- /2008/01/03/xahs-elisp-tutorial/
 created: '2024-02-19 01:44:50'
 date: 2008-01-03 00:00:00+00:00
 description: ''
 fname: pub.post.2008.01.xahs-elisp-tutorial
 id: gpmsbrj6uvyyup0p30jif1b
-redirects:
-- /blogspot/2008/01/03_xah-elisp-tutorial.html
-- /post/2008/xah-elisp-tutorial/
-- /2008/01/03/xahs-elisp-tutorial/
 slug: xahs-elisp-tutorial
 tags:
 - elisp

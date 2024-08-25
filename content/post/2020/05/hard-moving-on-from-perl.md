@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/05/hard-moving-on-from-perl/
 created: '2024-08-25 14:34:28'
 date: 2020-05-09 23:21:00-07:00
 description: ''
 fname: pub.post.2020.05.hard-moving-on-from-perl
 id: bycyv0zw8o1fykrykc91ac0
-redirects:
-- /note/2020/05/hard-moving-on-from-perl/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104142754200904534
 tags:

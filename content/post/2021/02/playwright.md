@@ -1,11 +1,11 @@
 ---
+aliases:
+- /bookmark/2021/02/playwright-dev/
 created: '2024-02-11 19:52:53'
 date: 2021-02-28 00:00:00+00:00
 description: Cross-browser end-to-end testing for modern web apps
 fname: pub.post.2021.02.playwright
 id: j8y1s35gv7ejzq9m7gsqmze
-redirects:
-- /bookmark/2021/02/playwright-dev/
 slug: playwright-dev
 tags:
 - python

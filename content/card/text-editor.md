@@ -1,12 +1,12 @@
 ---
+aliases:
+- /coolnamehere/2001/07/11_editors.html
+- /post/2001/editors/
+- /2001/07/11/editors/
 created: '2024-02-10 18:00:43'
 description: ''
 fname: pub.card.text-editor
 id: 5n47s27fak1am6y6dn0d6kz
-redirects:
-- /coolnamehere/2001/07/11_editors.html
-- /post/2001/editors/
-- /2001/07/11/editors/
 title: Text Editor
 updated: '2024-02-10 18:07:11'
 ---

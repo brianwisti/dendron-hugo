@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2004/09/15_unix.html
+- /post/2004/unix/
+- /2004/09/15/unix/
 created: '2024-02-11 05:48:46'
 date: '2004-09-15T00:00:00.000Z'
 description: ''
 fname: pub.post.2004.09.unix
 id: 6sjoat2ch1t4lq07wmrcvtg
-redirects:
-- /coolnamehere/2004/09/15_unix.html
-- /post/2004/unix/
-- /2004/09/15/unix/
 slug: unix
 tags:
 - unix

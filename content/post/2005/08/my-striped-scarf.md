@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2005/my-striped-scarf/
+- /2005/08/15/my-striped-scarf/
 created: '2024-02-16 20:54:58'
 date: 2005-08-15 00:00:00+00:00
 description: ''
 fname: pub.post.2005.08.my-striped-scarf
 id: 2b1c8ngjundsaf4e398mpd4
-redirects:
-- /craft/2005/my-striped-scarf/
-- /2005/08/15/my-striped-scarf/
 slug: my-striped-scarf
 tags:
 - knitting

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2020/04/28/from-dotfiles-to-org-file/
 created: '2024-02-11 15:42:44'
 date: 2020-04-28 08:36:54+00:00
 description: at 1:30am they're all good ideas
 fname: pub.post.2020.04.from-dotfiles-to-org-file
 id: a5pud2b415kmrtenlzpqg20
-redirects:
-- /2020/04/28/from-dotfiles-to-org-file/
 slug: from-dotfiles-to-org-file
 syndication:
   mastodon: https://hackers.town/@randomgeek/104075340897518607

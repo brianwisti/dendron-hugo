@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2007/11/27_vmware-installed.html
+- /post/2007/vmware-installed/
+- /2007/11/27/vmware-installed/
 created: '2024-02-18 05:15:57'
 date: 2007-11-27 00:00:00+00:00
 description: ''
 fname: pub.post.2007.11.vmware-installed
 id: duvhq44qfyb5bay520j03s0
-redirects:
-- /blogspot/2007/11/27_vmware-installed.html
-- /post/2007/vmware-installed/
-- /2007/11/27/vmware-installed/
 slug: vmware-installed
 tags:
 - blogspot

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/08/11/satellite/
 created: '2024-03-06 15:17:32'
 date: 2018-08-11
 description: ''
 fname: pub.post.2018.08.satellite
 id: ifvtkk9gnzlajzjo1q0py5f
-redirects:
-- /2018/08/11/satellite/
 slug: satellite
 tags:
 - drawing

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /post/2020/05/setting-up-raku-with-rakudobrew/
 created: '2024-02-12 02:51:26'
 date: 2020-05-19 00:00:00+00:00
 description: ''
 fname: pub.post.2020.05.setting-up-raku-with-rakubrew
 id: bk0rae7tixe7p80ul70j5bz
-redirects:
-- /post/2020/05/setting-up-raku-with-rakudobrew/
 slug: setting-up-raku-with-rakubrew
 syndication:
   mastodon: https://hackers.town/@randomgeek/104197809035525306

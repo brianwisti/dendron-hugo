@@ -1,13 +1,13 @@
 ---
+aliases:
+- /emacs/2014/05/27_elisp-functions-described-in-the-emacs-tutorial.html
+- /post/2014/elisp-functions-described-in-the-emacs-tutorial/
+- /2014/05/27/elisp-functions-described-in-the-emacs-tutorial/
 created: '2024-02-22 16:33:17'
 date: 2014-05-27 00:00:00+00:00
 description: ''
 fname: pub.post.2014.05.elisp-functions-described-in-the-emacs-tutorial
 id: xivzy7wuntalf853s5s8uni
-redirects:
-- /emacs/2014/05/27_elisp-functions-described-in-the-emacs-tutorial.html
-- /post/2014/elisp-functions-described-in-the-emacs-tutorial/
-- /2014/05/27/elisp-functions-described-in-the-emacs-tutorial/
 slug: elisp-functions-described-in-the-emacs-tutorial
 tags:
 - emacs

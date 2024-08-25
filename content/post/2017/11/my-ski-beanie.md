@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2017/11/19/my-ski-beanie/
 created: '2024-02-25 05:58:57'
 date: 2017-11-19 00:00:00+00:00
 description: ''
 fname: pub.post.2017.11.my-ski-beanie
 id: xg69v46yaek615moqjqsbz3
-redirects:
-- /2017/11/19/my-ski-beanie/
 slug: my-ski-beanie
 tags:
 - knitting

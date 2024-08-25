@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:11:17'
 date: 2023-09-21 00:00:00+00:00
 description: ''
@@ -10,7 +12,7 @@ tags:
 - watch
 - history
 title: Watching the Densest City on Earth
-updated: '2024-02-10 17:11:38'
+updated: '2024-08-25 18:22:12'
 ---
 
 via [Aeon](https://aeon.co/videos/the-rise-and-fall-of-kowloon-walled-city-hong-kongs-infamous-urban-monolith).

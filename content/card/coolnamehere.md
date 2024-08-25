@@ -4,10 +4,12 @@ description: ''
 fname: pub.card.coolnamehere
 id: aadvnk3l4jy5ovk1rlavhta
 title: Coolnamehere
-updated: '2024-02-10 04:51:51'
+updated: '2024-08-25 21:39:01'
 ---
 
 RIP `coolnamehere.com` 2000 - 2013
+
+<!--more-->
 
 Once upon a time I kept my stuff on a different Web site.
 

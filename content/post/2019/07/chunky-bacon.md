@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2019/185/chunky-bacon/
+- /note/2019/07/chunky-bacon/
 created: '2024-04-02 21:09:04'
 date: 2019-07-04
 description: ''
 fname: pub.post.2019.07.chunky-bacon
 id: r7plj56tpu26sse5h6df7rx
-redirects:
-- /note/2019/185/chunky-bacon/
-- /note/2019/07/chunky-bacon/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102385377642417786
 tags:

@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2010/04/29_09-simple-projects.html
+- /post/2010/09-simple-projects/
+- /2010/04/29/parrot-babysteps-09-simple-projects/
 created: '2024-02-20 22:38:55'
 date: 2010-04-29 00:00:00+00:00
 description: ''
 fname: pub.post.2010.04.parrot-babysteps-09-simple-projects
 id: j4epvaqojz6czav7s5xhhga
-redirects:
-- /coolnamehere/2010/04/29_09-simple-projects.html
-- /post/2010/09-simple-projects/
-- /2010/04/29/parrot-babysteps-09-simple-projects/
 series:
 - Parrot Babysteps
 slug: parrot-babysteps-09-simple-projects

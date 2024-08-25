@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/04/i-m-trying-a-notes-collection/
 created: '2024-02-12 02:37:07'
 date: 2021-04-18 00:00:00+00:00
 description: ''
 fname: pub.post.2021.04.i-m-trying-a-notes-collection
 id: snb5nl0t80d7kv3iqbmd4qr
-redirects:
-- /note/2021/04/i-m-trying-a-notes-collection/
 slug: i-m-trying-a-notes-collection
 tags:
 - site

@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2007/06/14_03-handling-multiple-turns.html
+- /post/2007/03-handling-multiple-turns/
+- /2007/06/14/python-interactive-fiction-03-handling-multiple-turns/
 created: '2024-02-18 05:07:18'
 date: 2007-06-14 00:00:00+00:00
 description: ''
 fname: pub.post.2007.06.python-interactive-fiction-03-handling-multiple-turns
 id: x516k53mcyys02drt8zv2nt
-redirects:
-- /coolnamehere/2007/06/14_03-handling-multiple-turns.html
-- /post/2007/03-handling-multiple-turns/
-- /2007/06/14/python-interactive-fiction-03-handling-multiple-turns/
 series:
 - Python Interactive Fiction
 slug: python-interactive-fiction-03-handling-multiple-turns

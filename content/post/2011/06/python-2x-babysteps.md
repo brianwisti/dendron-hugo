@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2011/06/07_python-2.x-babysteps.html
+- /post/2011/python-2.x-babysteps/
+- /2011/06/07/python-2.x-babysteps/
 created: '2024-02-10 17:50:36'
 date: 2011-06-07 00:00:00+00:00
 description: ''
 fname: pub.post.2011.06.python-2x-babysteps
 id: gifl3b53t195kyem300f97n
-redirects:
-- /coolnamehere/2011/06/07_python-2.x-babysteps.html
-- /post/2011/python-2.x-babysteps/
-- /2011/06/07/python-2.x-babysteps/
 slug: python-2x-babysteps
 tags:
 - python

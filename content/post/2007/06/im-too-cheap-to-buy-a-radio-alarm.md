@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2007/06/29_im-too-cheap-to-buy-radio-alarm.html
+- /post/2007/im-too-cheap-to-buy-radio-alarm/
+- /2007/06/29/im-too-cheap-to-buy-a-radio-alarm/
 created: '2024-02-18 05:02:54'
 date: 2007-06-29 00:00:00+00:00
 description: ''
 fname: pub.post.2007.06.im-too-cheap-to-buy-a-radio-alarm
 id: 4dxycw7phf0170yuvotbznd
-redirects:
-- /blogspot/2007/06/29_im-too-cheap-to-buy-radio-alarm.html
-- /post/2007/im-too-cheap-to-buy-radio-alarm/
-- /2007/06/29/im-too-cheap-to-buy-a-radio-alarm/
 slug: im-too-cheap-to-buy-a-radio-alarm
 tags:
 - applescript

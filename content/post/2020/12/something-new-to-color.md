@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/12/something-new-to-color/
 created: '2024-08-25 16:24:41'
 date: 2020-12-18 23:15:00-08:00
 description: ''
 fname: pub.post.2020.12.something-new-to-color
 id: cstfus4q9zroofexj9oldso
-redirects:
-- /note/2020/12/something-new-to-color/
 syndication:
   mastodon: https://hackers.town/@randomgeek/105405719066000943
 tags:

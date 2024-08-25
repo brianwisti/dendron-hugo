@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2007/wrap/
+- /2007/12/15/wrap/
 created: '2024-02-18 05:36:23'
 date: 2007-12-15 00:00:00+00:00
 description: ''
 fname: pub.post.2007.12.wrap
 id: 6g7kw8nfckkjfwnrd28uw4n
-redirects:
-- /craft/2007/wrap/
-- /2007/12/15/wrap/
 slug: wrap
 tags:
 - knitting

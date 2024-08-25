@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2020/01/25/tweaking-a-nikola-theme/
 created: '2024-02-12 15:31:46'
 date: 2020-01-25 00:00:00+00:00
 description: ''
 fname: pub.post.2020.01.tweaking-a-nikola-theme
 id: o8zazp2y4ixvsoya5msav0f
-redirects:
-- /2020/01/25/tweaking-a-nikola-theme/
 slug: tweaking-a-nikola-theme
 tags:
 - nikola

@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/62/all-i-did-was-click-bulk-download/
+- /note/2020/03/all-i-did-was-click-bulk-download/
 created: '2024-02-13 16:34:31'
 date: 2020-03-02 00:00:00+00:00
 description: ''
 fname: pub.post.2020.03.all-i-did-was-click-bulk-download
 id: pvq4eiv7ny80813l7o5ikem
-redirects:
-- /note/2020/62/all-i-did-was-click-bulk-download/
-- /note/2020/03/all-i-did-was-click-bulk-download/
 slug: all-i-did-was-click-bulk-download
 syndication:
   mastodon: https://hackers.town/@randomgeek/103757434367056784

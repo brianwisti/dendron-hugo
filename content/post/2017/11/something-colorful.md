@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2017/11/07/something-colorful
 created: '2024-02-25 06:00:00'
 date: 2017-11-07 00:00:00+00:00
 description: ''
 fname: pub.post.2017.11.something-colorful
 id: 3impx6aar8oyw3lvxpfbesb
-redirects:
-- /2017/11/07/something-colorful
 slug: something-colorful
 tags:
 - drawing

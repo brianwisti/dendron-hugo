@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2004/12/26_02-getting-started-with-view.html
+- /post/2004/02-getting-started-with-view/
+- /2004/12/26/rebol-babysteps-02-getting-started-with-view/
 created: '2024-02-11 05:56:26'
 date: 2004-12-26 00:00:00+00:00
 description: ''
 fname: pub.post.2004.12.rebol-babysteps-02-getting-started-with-view
 id: jqbkw8yz0lalfq5esj3yqct
-redirects:
-- /coolnamehere/2004/12/26_02-getting-started-with-view.html
-- /post/2004/02-getting-started-with-view/
-- /2004/12/26/rebol-babysteps-02-getting-started-with-view/
 series:
 - REBOL Babysteps
 slug: rebol-babysteps-02-getting-started-with-view

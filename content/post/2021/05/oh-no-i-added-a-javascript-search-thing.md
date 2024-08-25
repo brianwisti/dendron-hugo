@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/05/oh-no-i-added-a-javascript-search-thing/
 created: '2024-02-12 03:11:22'
 date: 2021-05-14 00:00:00+00:00
 description: ''
 fname: pub.post.2021.05.oh-no-i-added-a-javascript-search-thing
 id: rvswulu2ry2rcjiyxooj7iv
-redirects:
-- /note/2021/05/oh-no-i-added-a-javascript-search-thing/
 slug: oh-no-i-added-a-javascript-search-thing
 syndication:
   mastodon: https://hackers.town/@randomgeek/106236540435473063

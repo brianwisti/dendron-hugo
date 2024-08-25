@@ -1,12 +1,12 @@
 ---
+aliases:
+- /coolnamehere/2009/10/02_06-files-and-hashes.html
+- /post/2009/06-files-and-hashes/
 created: '2024-02-20 05:26:56'
 date: 2009-10-02 00:00:00+00:00
 description: ''
 fname: pub.post.2009.10.parrot-babysteps-06-files-and-hashes
 id: n4ti7roor7h6l6d9nrv4ha6
-redirects:
-- /coolnamehere/2009/10/02_06-files-and-hashes.html
-- /post/2009/06-files-and-hashes/
 series:
 - Parrot Babysteps
 slug: parrot-babysteps-06-files-and-hashes

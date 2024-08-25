@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2007/12/28_python-loves-blogger.html
+- /post/2007/python-loves-blogger/
+- /2007/12/28/python-loves-blogger-part-1/
 created: '2024-02-18 05:24:10'
 date: 2007-12-28 00:00:00+00:00
 description: ''
 fname: pub.post.2007.12.python-loves-blogger-part-1
 id: qz1u3cgvberpml4658gzgae
-redirects:
-- /blogspot/2007/12/28_python-loves-blogger.html
-- /post/2007/python-loves-blogger/
-- /2007/12/28/python-loves-blogger-part-1/
 slug: python-loves-blogger-part-1
 tags:
 - blogger

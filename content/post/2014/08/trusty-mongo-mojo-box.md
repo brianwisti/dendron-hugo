@@ -1,13 +1,13 @@
 ---
+aliases:
+- /tools/2014/08/05_trusty-mongo-mojo.html
+- /post/2014/trusty-mongo-mojo/
+- /2014/08/05/trusty-mongo-mojo-box/
 created: '2024-02-22 17:54:07'
 date: 2014-08-05 00:00:00+00:00
 description: ''
 fname: pub.post.2014.08.trusty-mongo-mojo-box
 id: 3elun8n2pa9gzid0r944xbd
-redirects:
-- /tools/2014/08/05_trusty-mongo-mojo.html
-- /post/2014/trusty-mongo-mojo/
-- /2014/08/05/trusty-mongo-mojo-box/
 slug: trusty-mongo-mojo-box
 tags:
 - virtualization

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/10/winget-is-pretty-slick-now/
 created: '2024-02-12 04:38:16'
 date: 2021-10-16 00:00:00+00:00
 description: ''
 fname: pub.post.2021.10.winget-is-really-slick-now
 id: qrnzgybfsgqj63vysrsv4xz
-redirects:
-- /note/2021/10/winget-is-pretty-slick-now/
 slug: winget-is-pretty-slick-now
 syndication:
   mastodon: https://hackers.town/@randomgeek/107112953002673686

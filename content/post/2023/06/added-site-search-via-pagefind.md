@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:21:37'
 date: 2023-06-20
 description: ''
@@ -10,7 +12,7 @@ syndication:
 tags:
 - site
 title: Added Site Search via Pagefind
-updated: '2024-04-05 03:24:16'
+updated: '2024-08-25 18:23:41'
 ---
 
 ![site search results for "cats"](assets/img/2023/cover-2023-06-20.png "Internet search exists so you can find cats")

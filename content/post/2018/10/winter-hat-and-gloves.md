@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/10/27/winter-hat-and-gloves/
 created: '2024-03-06 15:31:08'
 date: 2018-10-27
 description: ''
 fname: pub.post.2018.10.winter-hat-and-gloves
 id: wo1djgu25vbjpn2jlhahagm
-redirects:
-- /2018/10/27/winter-hat-and-gloves/
 slug: winter-hat-and-gloves
 tags:
 - knitting

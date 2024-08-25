@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/04/27/stocking-cap/
 created: '2024-02-26 04:22:22'
 date: 2018-04-27 00:00:00+00:00
 description: I knitted myself a slightly silly stocking cap which I quite enjoy.
 fname: pub.post.2018.04.stocking-cap
 id: m9t8e93bqt8o5n419101grd
-redirects:
-- /2018/04/27/stocking-cap/
 slug: stocking-cap
 tags:
 - knitting

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/05/my-therapist-would-love-this-if-i-had-one/
 created: '2024-08-25 14:43:43'
 date: 2020-05-09 23:10:00-07:00
 description: ''
 fname: pub.post.2020.05.my-therapist-would-love-this-if-i-had-one
 id: l28or0niplg69gf8j8wlhn9
-redirects:
-- /note/2020/05/my-therapist-would-love-this-if-i-had-one/
 syndication:
   mastodon: https://randomgeekery.org/blog/2020/my-therapist-would-love-this-if-i-had-one/
 tags:

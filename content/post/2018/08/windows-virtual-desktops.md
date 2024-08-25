@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/08/30/windows-virtual-desktops/
 created: '2024-03-06 15:18:53'
 date: '2018-08-30T00:00:00.000Z'
 description: ''
 fname: pub.post.2018.08.windows-virtual-desktops
 id: 39ih70z4d379y2d883psuz4
-redirects:
-- /2018/08/30/windows-virtual-desktops/
 slug: windows-virtual-desktops
 tags:
 - windows

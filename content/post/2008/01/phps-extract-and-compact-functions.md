@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2008/01/30_php-extract-and-compact-functions.html
+- /post/2008/php-extract-and-compact-functions/
+- /2008/01/30/phps-extract-and-compact-functions/
 created: '2024-02-19 01:23:25'
 date: 2008-01-30 08:00:00+00:00
 description: ''
 fname: pub.post.2008.01.phps-extract-and-compact-functions
 id: sxlfvokxt5edbxj5oqnhwjn
-redirects:
-- /blogspot/2008/01/30_php-extract-and-compact-functions.html
-- /post/2008/php-extract-and-compact-functions/
-- /2008/01/30/phps-extract-and-compact-functions/
 slug: phps-extract-and-compact-functions
 tags:
 - php

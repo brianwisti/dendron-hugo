@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/
 created: '2024-02-12 00:47:07'
 date: 2021-03-07 00:00:00+00:00
 description: ''
 fname: pub.post.2021.03.maybe-i-dont-know-much-about-markdown-he-says
 id: 3vvdrje4melhekarvr2d0qb
-redirects:
-- /note/2021/03/maybe-i-dont-know-much-about-markdown-he-says/
 slug: maybe-i-dont-know-much-about-markdown-he-says
 syndication:
   mastodon: https://hackers.town/@randomgeek/105851186676748121

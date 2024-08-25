@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/08/04/beer-gloves/
 created: '2024-03-06 15:09:17'
 date: 2018-08-04
 description: ''
 fname: pub.post.2018.08.beer-gloves
 id: 29s1cgr6o5ujahzw6il99r6
-redirects:
-- /2018/08/04/beer-gloves/
 slug: beer-gloves
 tags:
 - knitting

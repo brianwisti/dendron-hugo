@@ -1,13 +1,13 @@
 ---
+aliases:
+- /programming/2013/11/25_my-own-ruby-fibers-babystep.html
+- /post/2013/my-own-ruby-fibers-babystep/
+- /2013/11/25/my-own-ruby-fibers-babystep/
 created: '2024-02-22 15:29:49'
 date: 2013-11-25 00:00:00+00:00
 description: ''
 fname: pub.post.2013.11.my-own-ruby-fibers-babystep
 id: rh51xjug2mwyasn6tu8pzmb
-redirects:
-- /programming/2013/11/25_my-own-ruby-fibers-babystep.html
-- /post/2013/my-own-ruby-fibers-babystep/
-- /2013/11/25/my-own-ruby-fibers-babystep/
 slug: my-own-ruby-fibers-babystep
 tags:
 - ruby

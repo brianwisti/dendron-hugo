@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2019/11/09/emacs-use-package/
 created: '2024-02-12 22:31:26'
 date: 2019-11-09 00:00:00+00:00
 description: Just declared `.emacs` bankruptcy. Starting over with `use-package`.
 fname: pub.post.2019.11.emacs-use-package
 id: 3t8w6j8q3es4hub61m19l45
-redirects:
-- /2019/11/09/emacs-use-package/
 slug: emacs-use-package
 tags:
 - emacs

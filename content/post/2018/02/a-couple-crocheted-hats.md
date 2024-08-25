@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2018/02/08/a-couple-crochet-hats/
 category: post
 created: '2024-02-26 04:01:53'
 date: 2018-02-08 00:00:00+00:00
 description: ''
 fname: pub.post.2018.02.a-couple-crocheted-hats
 id: 4diikwxye0j4ljsqhvegi3z
-redirects:
-- /2018/02/08/a-couple-crochet-hats/
 slug: a-couple-crochet-hats
 tags:
 - crochet

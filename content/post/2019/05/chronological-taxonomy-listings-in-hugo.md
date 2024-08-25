@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2019/05/20/chronological-taxonomy-listings-in-hugo/
 created: '2024-03-26 04:51:15'
 date: 2019-05-20
 description: ''
 fname: pub.post.2019.05.chronological-taxonomy-listings-in-hugo
 id: l6pdxitg34try0oexfe86wj
-redirects:
-- /2019/05/20/chronological-taxonomy-listings-in-hugo/
 slug: chronological-taxonomy-listings-in-hugo
 syndication:
   mastodon: https://hackers.town/@randomgeek/102132792782409820

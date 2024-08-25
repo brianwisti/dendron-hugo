@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2020/01/19/restructuredtext-basics-for-blogging/
 category: post
 created: '2024-02-12 15:22:16'
 date: 2020-01-19 00:00:00+00:00
 description: I got carried away taking notes about basic RST usage
 fname: pub.post.2020.01.restructuredtext-basics-for-blogging
 id: padhthsdwiqwjq46blzlm5l
-redirects:
-- /2020/01/19/restructuredtext-basics-for-blogging/
 tags:
 - python
 - rst

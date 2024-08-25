@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2019/192/wait-no-hold-on/
 created: '2024-04-02 21:30:06'
 date: 2019-07-11
 description: ''
 fname: pub.post.2019.07.wait-no-hold-on
 id: 5wepjqg82p3ubjzsxc1e48a
-redirects:
-- /note/2019/192/wait-no-hold-on/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102426694191489868
 tags:

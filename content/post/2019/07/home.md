@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2019/201/home/
 created: '2024-04-02 21:10:59'
 date: 2019-07-20
 description: ''
 fname: pub.post.2019.07.home
 id: k1ryyr1g6ekb3pr9ehmudoo
-redirects:
-- /note/2019/201/home/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102477225402938419
 tags:

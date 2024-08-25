@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:13:48'
 date: 2023-07-01 00:00:00+00:00
 description: ''
@@ -11,7 +13,7 @@ tags:
 - the-internet
 - second-brain
 title: Save Those Links
-updated: '2024-02-10 17:14:55'
+updated: '2024-08-25 18:22:51'
 ---
 
 Saw this post today:

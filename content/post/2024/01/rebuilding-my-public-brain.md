@@ -1,6 +1,8 @@
 ---
+categories:
+- post
 created: '2024-02-10 14:35:29'
-date: 2024-01-22 00:00:00+00:00
+date: '2024-01-22T00:00:00.000Z'
 description: ''
 fname: pub.post.2024.01.rebuilding-my-public-brain
 id: vpyoh03q8v3tlg7f5p3rmjt
@@ -12,7 +14,7 @@ tags:
 - site
 - second-brain
 title: Rebuilding My Public Brain
-updated: '2024-08-22 04:08:19'
+updated: '2024-08-25 18:19:18'
 ---
 
 ## What?
@@ -65,7 +67,7 @@ I pulled in my automated tests from the current site iteration. I really should 
 
 ## What next
 
-Before I have the Python script handle all the processing, I'll revisit the Astro iteration. [remark-obsidian](https://www.npmjs.com/package/remark-obsidian) and [remark-deflist](https://www.npmjs.com/package/remark-definition-list) handled nearly all the special Markdown for me. I mainly need to decide how top-level pages like [Now]({{< relref "/page/now.md" >}}) and [Follow]({{< relref "/page/follow.md" >}}) get treated within Astro's dynamic collection approach.
+Before I have the Python script handle all the processing, I'll revisit the Astro iteration. [remark-obsidian](https://www.npmjs.com/package/remark-obsidian) and [remark-deflist](https://www.npmjs.com/package/remark-definition-list) handled nearly all the special Markdown for me. I mainly need to decide how top-level pages like [Now]({{< relref "/slash/now.md" >}}) and [Follow]({{< relref "/slash/follow.md" >}}) get treated within Astro's dynamic collection approach.
 
 ## What now
 

@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2008/01/07_pagetemplate-for-site-generation-part-2.html
+- /post/2008/pagetemplate-for-site-generation-part-2/
+- /2008/01/07/pagetemplate-for-site-generation-part-2/
 created: '2024-02-19 01:20:20'
 date: 2008-01-07 00:00:00+00:00
 description: ''
 fname: pub.post.2008.01.pagetemplate-for-site-generation-part-2
 id: 88j57693krwj6cepllrc8wa
-redirects:
-- /blogspot/2008/01/07_pagetemplate-for-site-generation-part-2.html
-- /post/2008/pagetemplate-for-site-generation-part-2/
-- /2008/01/07/pagetemplate-for-site-generation-part-2/
 slug: pagetemplate-for-site-generation-part-2
 tags:
 - pagetemplate

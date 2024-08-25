@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/02/04/taskwarrior-contexts/
 created: '2024-02-26 04:14:22'
 date: 2018-02-04 00:00:00+00:00
 description: ''
 fname: pub.post.2018.02.taskwarrior-contexts
 id: exgv0fwenmhla28sfwl0yvw
-redirects:
-- /2018/02/04/taskwarrior-contexts/
 series:
 - Taskwarrior Babysteps
 slug: taskwarrior-contexts

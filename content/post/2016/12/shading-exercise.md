@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2016/shading-exercise/
+- /2016/12/06/shading-exercise/
 created: '2024-02-24 05:55:45'
 date: 2016-12-06 00:00:00+00:00
 description: ''
 fname: pub.post.2016.12.shading-exercise
 id: bpm25lo4x9v9mk8y06c59h3
-redirects:
-- /craft/2016/shading-exercise/
-- /2016/12/06/shading-exercise/
 slug: shading-exercise
 tags:
 - drawing

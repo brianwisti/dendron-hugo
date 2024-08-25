@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2017/amazon-donates-space-for-marys-place-home/
+- /2017/05/11/amazon-donates-space-for-marys-place-home/
 created: '2024-02-24 23:50:24'
 date: 2017-05-11 00:00:00+00:00
 description: ''
 fname: pub.post.2017.05.amazon-donates-space-for-marys-place-home
 id: cnc05840vz4an1p0ve8evad
-redirects:
-- /post/2017/amazon-donates-space-for-marys-place-home/
-- /2017/05/11/amazon-donates-space-for-marys-place-home/
 slug: amazon-donates-space-for-marys-place-home
 tags:
 - marginalia

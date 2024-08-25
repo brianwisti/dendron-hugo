@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2017/light-and-shadow/
+- /2017/01/08/light-and-shadow/
 created: '2024-02-24 23:25:42'
 date: 2017-01-08 00:00:00+00:00
 description: ''
 fname: pub.post.2017.01.light-and-shadow
 id: e0ale47nxim5dgd5oxixiht
-redirects:
-- /craft/2017/light-and-shadow/
-- /2017/01/08/light-and-shadow/
 slug: light-and-shadow
 tags:
 - drawing

@@ -1,13 +1,13 @@
 ---
+aliases:
+- /tools/2014/06/18_pretty-recursive-grep.html
+- /post/2014/pretty-recursive-grep/
+- /2014/06/18/pretty-recursive-grep/
 created: '2024-02-22 17:33:39'
 date: 2014-06-18 00:00:00+00:00
 description: ''
 fname: pub.post.2014.06.pretty-recursive-grep
 id: huiysqb7nqf704098iiunsu
-redirects:
-- /tools/2014/06/18_pretty-recursive-grep.html
-- /post/2014/pretty-recursive-grep/
-- /2014/06/18/pretty-recursive-grep/
 slug: pretty-recursive-grep
 tags:
 - shell

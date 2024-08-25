@@ -1,12 +1,12 @@
 ---
+aliases:
+- /coolnamehere/2004/06/05_read-more-perl.html
+- /post/2004/read-more-perl/
 created: '2024-02-10 23:39:26'
 date: 2004-06-05 00:00:00+00:00
 description: ''
 fname: pub.post.2004.06.read-more-perl
 id: y4kz3xc7gej8ci109qs9srv
-redirects:
-- /coolnamehere/2004/06/05_read-more-perl.html
-- /post/2004/read-more-perl/
 slug: read-more-perl
 tags:
 - perl

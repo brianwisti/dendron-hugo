@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2016/bad-kitty/
+- /2016/10/24/bad-kitty/
 created: '2024-02-24 05:40:26'
 date: 2016-10-24 00:00:00+00:00
 description: ''
 fname: pub.post.2016.10.bad-kitty
 id: oaux4lq8mtp5t8bzr99476u
-redirects:
-- /craft/2016/bad-kitty/
-- /2016/10/24/bad-kitty/
 slug: bad-kitty
 tags:
 - drawing

@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2007/10/29_jruby.html
+- /post/2007/jruby/
+- /2007/10/29/jruby/
 created: '2024-02-18 05:11:11'
 date: 2007-10-29 00:00:00+00:00
 description: ''
 fname: pub.post.2007.10.jruby
 id: bep1h78ehcedcktxtjabb59
-redirects:
-- /coolnamehere/2007/10/29_jruby.html
-- /post/2007/jruby/
-- /2007/10/29/jruby/
 slug: jruby
 tags:
 - ruby

@@ -1,14 +1,14 @@
 ---
+aliases:
+- /blogspot/2007/12/20_os-x-updates.html
+- /post/2007/os-x-updates/
+- /2007/12/20/os-x-updates/
+- /post/2007/12/os-x-updates/
 created: '2024-02-18 05:20:16'
 date: 2007-12-20 00:00:00+00:00
 description: ''
 fname: pub.post.2007.12.os-x-updates
 id: ywv2hj3dh5hu5xcsie3yzz3
-redirects:
-- /blogspot/2007/12/20_os-x-updates.html
-- /post/2007/os-x-updates/
-- /2007/12/20/os-x-updates/
-- /post/2007/12/os-x-updates/
 slug: os-x-updates
 tags:
 - os-x

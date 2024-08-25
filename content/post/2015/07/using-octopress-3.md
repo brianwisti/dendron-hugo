@@ -1,13 +1,13 @@
 ---
+aliases:
+- /tools/2015/07/12_using-octopress-3.html
+- /post/2015/using-octopress-3/
+- /2015/07/12/using-octopress-3/
 created: '2024-02-23 13:26:13'
 date: 2015-07-12 00:00:00+00:00
 description: Experiments with the Octopress Jekyll extension bundle
 fname: pub.post.2015.07.using-octopress-3
 id: vqdz3loyn7sfq4uryqticpw
-redirects:
-- /tools/2015/07/12_using-octopress-3.html
-- /post/2015/using-octopress-3/
-- /2015/07/12/using-octopress-3/
 slug: using-octopress-3
 tags:
 - site

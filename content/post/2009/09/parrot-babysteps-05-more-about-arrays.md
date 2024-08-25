@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2009/09/29_05-more-about-arrays.html
+- /post/2009/05-more-about-arrays/
+- /2009/09/29/parrot-babysteps-05-more-about-arrays/
 created: '2024-02-20 05:18:10'
 date: 2009-09-29 00:00:00+00:00
 description: ''
 fname: pub.post.2009.09.parrot-babysteps-05-more-about-arrays
 id: 359qar2c0sxezdfk9plb1hj
-redirects:
-- /coolnamehere/2009/09/29_05-more-about-arrays.html
-- /post/2009/05-more-about-arrays/
-- /2009/09/29/parrot-babysteps-05-more-about-arrays/
 series:
 - Parrot Babysteps
 slug: parrot-babysteps-05-more-about-arrays

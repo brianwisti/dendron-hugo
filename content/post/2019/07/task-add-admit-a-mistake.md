@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2019/184/task-add-admit-a-mistake/
+- /note/2019/07/task-add-admit-a-mistake/
 created: '2024-04-01 21:09:40'
 date: 2019-07-03
 description: ''
 fname: pub.post.2019.07.task-add-admit-a-mistake
 id: hotb5qta04gl8m0fbvado99
-redirects:
-- /note/2019/184/task-add-admit-a-mistake/
-- /note/2019/07/task-add-admit-a-mistake/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102378568642490016
 tags:

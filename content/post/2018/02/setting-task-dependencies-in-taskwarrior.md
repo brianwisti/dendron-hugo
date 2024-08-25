@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/02/19/setting-task-dependencies-in-taskwarrior/
 created: '2024-02-26 04:11:43'
 date: 2018-02-19 00:00:00+00:00
 description: I'm not done reading a book until I finish the exercises.
 fname: pub.post.2018.02.setting-task-dependencies-in-taskwarrior
 id: 8ihuknq5ofy0qkhwvm5sm1h
-redirects:
-- /2018/02/19/setting-task-dependencies-in-taskwarrior/
 series:
 - Taskwarrior Babysteps
 slug: setting-task-dependencies-in-taskwarrior

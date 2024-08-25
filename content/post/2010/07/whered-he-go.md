@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2010/07/27_whered-he-go.html
+- /post/2010/whered-he-go/
+- /2010/07/27/whered-he-go/
 created: '2024-02-20 22:57:40'
 date: 2010-07-27 00:00:00+00:00
 description: ''
 fname: pub.post.2010.07.whered-he-go
 id: tgzgua8k7vh2s8ie6eh9nj5
-redirects:
-- /blogspot/2010/07/27_whered-he-go.html
-- /post/2010/whered-he-go/
-- /2010/07/27/whered-he-go/
 slug: whered-he-go
 tags:
 - blogspot

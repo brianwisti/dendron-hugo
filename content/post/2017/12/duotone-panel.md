@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2017/12/19/duotone-panel/
 created: '2024-02-25 06:01:37'
 date: 2017-12-19 00:00:00+00:00
 description: ''
 fname: pub.post.2017.12.duotone-panel
 id: ibwwg92udrvzc1helzzoxzt
-redirects:
-- /2017/12/19/duotone-panel/
 slug: duotone-panel
 tags:
 - drawing

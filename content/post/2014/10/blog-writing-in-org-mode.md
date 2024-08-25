@@ -1,14 +1,14 @@
 ---
+aliases:
+- /emacs/2014/10/21_blog-writing-in-org-mode.html
+- /post/2014/blog-writing-in-org-mode.html
+- /2014/10/21/blog-writing-in-org-mode/
+- /post/2014/10/blog-writing-in-org-mode/
 created: '2024-02-11 15:29:07'
 date: 2014-10-21 00:00:00+00:00
 description: An experiment with using Org mode to write Jekyll blog posts.
 fname: pub.post.2014.10.blog-writing-in-org-mode
 id: fw648mhpusnalb4nu6ck9n8
-redirects:
-- /emacs/2014/10/21_blog-writing-in-org-mode.html
-- /post/2014/blog-writing-in-org-mode.html
-- /2014/10/21/blog-writing-in-org-mode/
-- /post/2014/10/blog-writing-in-org-mode/
 slug: blog-writing-in-org-mode
 tags:
 - emacs

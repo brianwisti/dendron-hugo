@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2019/205/installed-windows-terminal-preview/
 created: '2024-04-02 21:17:37'
 date: '2019-07-24T00:00:00.000Z'
 description: ''
 fname: pub.post.2019.07.installed-windows-terminal-preview
 id: uw0m2sx9t9dybvegiw98yvv
-redirects:
-- /note/2019/205/installed-windows-terminal-preview/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102497605498142294
 tags:

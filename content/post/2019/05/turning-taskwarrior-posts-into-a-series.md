@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2019/05/12/turning-taskwarrior-posts-into-a-series/
 created: '2024-03-27 16:53:02'
 date: 2019-05-12
 description: There's a new taxonomy for posts that are written in a particular order!
 fname: pub.post.2019.05.turning-taskwarrior-posts-into-a-series
 id: rj4b8xpho9eims0hb06s6ou
-redirects:
-- /2019/05/12/turning-taskwarrior-posts-into-a-series/
 slug: turning-taskwarrior-posts-into-a-series
 syndication:
   mastodon: https://hackers.town/@randomgeek/102082058493417205

@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2019/198/ubuntu-wsl/
+- /note/2019/07/ubuntu-wsl/
 created: '2024-04-02 21:27:44'
 date: 2019-07-17
 description: ''
 fname: pub.post.2019.07.ubuntu-wsl
 id: 8peqss8j6ntorv0t6a4u226
-redirects:
-- /note/2019/198/ubuntu-wsl/
-- /note/2019/07/ubuntu-wsl/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102459226527497670
 tags:

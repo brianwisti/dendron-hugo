@@ -1,13 +1,13 @@
 ---
+aliases:
+- /post/2017/geekish-update/
+- /2017/03/28/geekish-update/
 category: post
 created: '2024-02-24 23:38:44'
 date: 2017-03-28 00:00:00+00:00
 description: ''
 fname: pub.post.2017.03.geekish-update
 id: efdz036b5mphh065brdmunu
-redirects:
-- /post/2017/geekish-update/
-- /2017/03/28/geekish-update/
 slug: geekish-update
 tags:
 - personal

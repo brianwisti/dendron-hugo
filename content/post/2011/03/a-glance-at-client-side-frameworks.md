@@ -1,14 +1,14 @@
 ---
+aliases:
+- /blogspot/2011/03/16_glance-at-client-side-frameworks.html
+- /post/2011/glance-at-client-side-frameworks/
+- /2011/03/16/a-glance-at-client-side-frameworks/
 category: post
 created: '2024-02-22 13:51:46'
 date: 2011-03-16 00:00:00+00:00
 description: ''
 fname: pub.post.2011.03.a-glance-at-client-side-frameworks
 id: 24rqhcgvwy9s82pqsx1jp9g
-redirects:
-- /blogspot/2011/03/16_glance-at-client-side-frameworks.html
-- /post/2011/glance-at-client-side-frameworks/
-- /2011/03/16/a-glance-at-client-side-frameworks/
 slug: a-glance-at-client-side-frameworks
 tags:
 - javascript

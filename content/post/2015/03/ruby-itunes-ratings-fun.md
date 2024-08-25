@@ -1,13 +1,13 @@
 ---
+aliases:
+- /programming/2015/03/16_ruby-itunes-ratings-fun.html
+- /post/2015/ruby-itunes-ratings-fun/
+- /2015/03/16/ruby-itunes-ratings-fun/
 created: '2024-02-23 13:08:19'
 date: 2015-03-16 00:00:00+00:00
 description: Using Ruby to summarize my iTunes music ratings
 fname: pub.post.2015.03.ruby-itunes-ratings-fun
 id: md3h0n0v8qx8t3t5vhmdl12
-redirects:
-- /programming/2015/03/16_ruby-itunes-ratings-fun.html
-- /post/2015/ruby-itunes-ratings-fun/
-- /2015/03/16/ruby-itunes-ratings-fun/
 slug: ruby-itunes-ratings-fun
 tags:
 - ruby

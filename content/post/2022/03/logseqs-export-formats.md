@@ -1,11 +1,11 @@
 ---
+aliases:
+- post/2022/03/logseq-export-formats
 created: '2024-02-11 13:37:57'
 date: 2022-03-13 00:00:00+00:00
 description: Getting my second brain ready for post-processing
 fname: pub.post.2022.03.logseqs-export-formats
 id: pbri3cuieneous8pgbtpxbn
-redirects:
-- post/2022/03/logseq-export-formats
 slug: logseq-export-formats
 syndication:
   mastodon: https://hackers.town/@randomgeek/107951600970293422

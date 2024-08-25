@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2009/09/11_03-simple-control-structures.html
+- /post/2009/03-simple-control-structures/
+- /2009/09/11/parrot-babysteps-03-simple-control-structures/
 created: '2024-02-19 19:42:51'
 date: 2009-09-11 00:00:00+00:00
 description: ''
 fname: pub.post.2009.09.parrot-babysteps-03-simple-control-structures
 id: es3ua758znc1zkicgrka4oy
-redirects:
-- /coolnamehere/2009/09/11_03-simple-control-structures.html
-- /post/2009/03-simple-control-structures/
-- /2009/09/11/parrot-babysteps-03-simple-control-structures/
 series:
 - Parrot Babysteps
 slug: parrot-babysteps-03-simple-control-structures

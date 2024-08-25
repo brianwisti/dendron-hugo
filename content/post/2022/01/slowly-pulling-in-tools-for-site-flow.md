@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2022/01/slowly-pulling-in-tools-for-site-flow/
 created: '2024-02-11 13:23:29'
 date: 2022-01-16 00:00:00+00:00
 description: ''
 fname: pub.post.2022.01.slowly-pulling-in-tools-for-site-flow
 id: zt7y1crjh5l0fuzbagkhezb
-redirects:
-- /note/2022/01/slowly-pulling-in-tools-for-site-flow/
 slug: slowly-pulling-in-tools-for-site-flow
 syndication:
   mastodon: https://hackers.town/@randomgeek/107634186872393474

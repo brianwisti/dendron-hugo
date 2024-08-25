@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2011/08/23_moose.html
+- /post/2011/moose/
+- /2011/08/23/moose/
 created: '2024-02-22 14:10:00'
 date: 2011-08-23 00:00:00+00:00
 description: ''
 fname: pub.post.2011.08.moose
 id: ptko0zt7jzx9cwjesu9hfo4
-redirects:
-- /coolnamehere/2011/08/23_moose.html
-- /post/2011/moose/
-- /2011/08/23/moose/
 slug: moose
 tags:
 - perl

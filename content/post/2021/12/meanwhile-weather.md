@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/12/meanwhile-weather/
 created: '2024-02-12 04:51:44'
 date: 2021-12-30 00:00:00+00:00
 description: ''
 fname: pub.post.2021.12.meanwhile-weather
 id: 2fxh6z7e111ilka5pjap7be
-redirects:
-- /note/2021/12/meanwhile-weather/
 slug: meanwhile-weather
 syndication:
   mastodon: https://hackers.town/@randomgeek/107539954739259404

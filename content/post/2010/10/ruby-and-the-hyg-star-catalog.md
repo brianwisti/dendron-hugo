@@ -1,12 +1,12 @@
 ---
+aliases:
+- /coolnamehere/2010/10/05_ruby-and-the-hyg-star-catalog.html
+- /post/2010/ruby-and-the-hyg-star-catalog/
 created: '2024-02-20 23:24:44'
 date: 2010-10-05 00:00:00+00:00
 description: ''
 fname: pub.post.2010.10.ruby-and-the-hyg-star-catalog
 id: muuupaww42wd5kjtuw6v358
-redirects:
-- /coolnamehere/2010/10/05_ruby-and-the-hyg-star-catalog.html
-- /post/2010/ruby-and-the-hyg-star-catalog/
 slug: ruby-and-the-hyg-star-catalog
 tags:
 - ruby

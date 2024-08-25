@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:18:17'
 date: 2023-06-17 00:00:00+00:00
 description: Besides the ethics? The tool itself breaks my flow.
@@ -12,7 +14,7 @@ tags:
 - tools
 - llm
 title: Nah on Copilot for Now
-updated: '2024-08-25 13:38:23'
+updated: '2024-08-25 18:23:32'
 ---
 
 > [!NOTE] 2024-02-10

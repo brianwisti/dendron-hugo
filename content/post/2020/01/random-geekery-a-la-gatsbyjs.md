@@ -1,13 +1,13 @@
 ---
+aliases:
+- /note/2020/24/random-geekery-a-la-gatsby.js/
+- /note/2020/01/random-geekery-a-la-gatsby.js/
+- /note/2020/01/random-geekery-a-la-gatsbyjs/
 created: '2024-02-12 15:18:26'
 date: 2020-01-24 00:00:00+00:00
 description: ''
 fname: pub.post.2020.01.random-geekery-a-la-gatsbyjs
 id: gjkjc0bp0ezhvnkua5d8jo2
-redirects:
-- /note/2020/24/random-geekery-a-la-gatsby.js/
-- /note/2020/01/random-geekery-a-la-gatsby.js/
-- /note/2020/01/random-geekery-a-la-gatsbyjs/
 slug: random-geekery-a-la-gatsbyjs
 syndication:
   mastodon: https://hackers.town/@randomgeek/103542611205444933

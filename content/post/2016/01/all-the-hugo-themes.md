@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2016/all-the-hugo-themes/
+- /2016/01/02/all-the-hugo-themes/
 created: '2024-02-24 03:51:03'
 date: 2016-01-02 00:00:00+00:00
 description: Using Python to preview my Hugo site with many themes
 fname: pub.post.2016.01.all-the-hugo-themes
 id: 8w5ga9imxdffofbom31y1gm
-redirects:
-- /post/2016/all-the-hugo-themes/
-- /2016/01/02/all-the-hugo-themes/
 slug: all-the-hugo-themes
 tags:
 - hugo

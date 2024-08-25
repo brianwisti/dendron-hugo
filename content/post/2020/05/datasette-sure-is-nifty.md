@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/05/datasette-sure-is-nifty/
 created: '2024-08-25 14:16:22'
 date: 2020-05-06 05:39:00+00:00
 description: ''
 fname: pub.post.2020.05.datasette-sure-is-nifty
 id: 9r62bf7hs90zav3owpbpivk
-redirects:
-- /note/2020/05/datasette-sure-is-nifty/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104119953630820970
 tags:

@@ -1,13 +1,13 @@
 ---
+aliases:
+- /tools/2014/05/31_pulling-a-remote-branch-in-git.html
+- /post/2014/pulling-a-remote-branch-in-git/
+- /2014/05/31/pulling-a-remote-branch-in-git/
 created: '2024-02-22 16:46:55'
 date: 2014-05-31 00:00:00+00:00
 description: ''
 fname: pub.post.2014.05.pulling-a-remote-branch-in-git
 id: en7aop6xezm56ulwh5o2lwb
-redirects:
-- /tools/2014/05/31_pulling-a-remote-branch-in-git.html
-- /post/2014/pulling-a-remote-branch-in-git/
-- /2014/05/31/pulling-a-remote-branch-in-git/
 slug: pulling-a-remote-branch-in-git
 tags:
 - git

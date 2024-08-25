@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2015/hugo/
+- /2015/09/27/next-hugo/
 created: '2024-02-11 13:29:22'
 date: 2015-09-27 20:36:30+00:00
 description: I Rebuilt Random Geekery with Hugo
 fname: pub.post.2015.09.next-hugo
 id: k9xj90zw3l53liml8l07k06
-redirects:
-- /post/2015/hugo/
-- /2015/09/27/next-hugo/
 slug: next-hugo
 tags:
 - site

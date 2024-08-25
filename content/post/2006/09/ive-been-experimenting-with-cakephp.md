@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2006/09/22_ive-been-experimenting-with-cakephp.html
+- /post/2006/ive-been-experimenting-with-cakephp/
+- /2006/09/22/ive-been-experimenting-with-cakephp/
 created: '2024-02-17 23:50:01'
 date: 2006-09-22 00:00:00+00:00
 description: ''
 fname: pub.post.2006.09.ive-been-experimenting-with-cakephp
 id: 52h1qtxdcdxyz58fh41tdur
-redirects:
-- /blogspot/2006/09/22_ive-been-experimenting-with-cakephp.html
-- /post/2006/ive-been-experimenting-with-cakephp/
-- /2006/09/22/ive-been-experimenting-with-cakephp/
 slug: ive-been-experimenting-with-cakephp
 tags:
 - php

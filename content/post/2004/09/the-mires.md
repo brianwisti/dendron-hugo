@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2004/09/17_the-mires.html
+- /post/2004/the-mires/
+- /2004/09/17/the-mires/
 created: '2024-02-11 05:35:39'
 date: 2004-09-17 00:00:00+00:00
 description: Moderately Interesting Ruby Exercises
 fname: pub.post.2004.09.the-mires
 id: h48w42iidc72zfa4y4h2vig
-redirects:
-- /coolnamehere/2004/09/17_the-mires.html
-- /post/2004/the-mires/
-- /2004/09/17/the-mires/
 tags:
 - ruby
 - coolnamehere

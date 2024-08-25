@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2020/01/05/building-a-starter-blog-with-nikola/
 created: '2024-02-12 15:06:51'
 date: 2020-01-05 00:00:00+00:00
 description: In which I play with another site builder
 fname: pub.post.2020.01.building-a-starter-blog-with-nikola
 id: ri6j7umu82nqzop9lmur47s
-redirects:
-- /2020/01/05/building-a-starter-blog-with-nikola/
 slug: building-a-starter-blog-with-nikola
 tags:
 - python
@@ -233,7 +233,7 @@ Scanning posts........done!
 [2020-01-05T09:37:40Z] INFO: new_page: Your page's text is at: pages/now.rst
 ```
 
-Everybody could use a [Now]({{< relref "/page/now.md" >}}) page. Excuse me a moment while I edit `pages/now.rst`. Oh! Since it’s not a post, it won’t show up unless we link to it. The `/now` page is significant enough that it should go on the site menu.
+Everybody could use a [Now]({{< relref "/slash/now.md" >}}) page. Excuse me a moment while I edit `pages/now.rst`. Oh! Since it’s not a post, it won’t show up unless we link to it. The `/now` page is significant enough that it should go on the site menu.
 
 Back over to `config.py`:
 

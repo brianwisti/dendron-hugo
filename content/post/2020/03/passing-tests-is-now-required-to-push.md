@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/68/passing-tests-is-now-required-to-push/
+- /note/2020/03/passing-tests-is-now-required-to-push/
 created: '2024-02-13 16:53:21'
 date: 2020-03-08 00:00:00+00:00
 description: ''
 fname: pub.post.2020.03.passing-tests-is-now-required-to-push
 id: jb3j19f0gbfpec1vd2yo5xp
-redirects:
-- /note/2020/68/passing-tests-is-now-required-to-push/
-- /note/2020/03/passing-tests-is-now-required-to-push/
 slug: passing-tests-is-now-required-to-push
 syndication:
   mastodon: https://hackers.town/@randomgeek/103791810073034057

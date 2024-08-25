@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2003/06/23_01-first-steps.html
+- /post/2003/01-first-steps/
+- /2003/06/23/ruby-babysteps-01-first-steps/
 created: '2024-02-10 23:31:41'
 date: 2003-06-23 00:00:00+00:00
 description: ''
 fname: pub.post.2003.06.ruby-babysteps-01-first-steps
 id: chzbxfjkdf9qmd4mbkoqk8h
-redirects:
-- /coolnamehere/2003/06/23_01-first-steps.html
-- /post/2003/01-first-steps/
-- /2003/06/23/ruby-babysteps-01-first-steps/
 slug: ruby-babysteps-01-first-steps
 tags:
 - ruby

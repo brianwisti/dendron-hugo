@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2016/mask-face/
+- /2016/09/16/mask-face/
 created: '2024-02-24 05:38:53'
 date: 2016-09-16 00:00:00+00:00
 description: ''
 fname: pub.post.2016.09.mask-face
 id: ub5zbnih6bweighyzmy15wu
-redirects:
-- /craft/2016/mask-face/
-- /2016/09/16/mask-face/
 slug: mask-face
 tags:
 - drawing

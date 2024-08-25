@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:09:34'
 date: 2023-10-25 00:00:00+00:00
 description: ''
@@ -9,7 +11,7 @@ syndication:
 tags:
 - site
 title: Revisiting an Old Layout
-updated: '2024-02-10 17:10:04'
+updated: '2024-08-25 18:22:00'
 ---
 
 I'm not saying it's good. I'm not saying I'll stick with it. I just wanted to pull solidly away from the utility-class CSS I was using for a while there. Got real hard to tweak.

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/09/today-is-september-21st-you-know-the-rules/
 created: '2024-02-12 04:09:53'
 date: 2021-09-21 00:00:00+00:00
 description: ''
 fname: pub.post.2021.09.today-is-september-21st-you-know-the-rules
 id: 1p1mjhb9bzchtcpiduo5qqa
-redirects:
-- /note/2021/09/today-is-september-21st-you-know-the-rules/
 slug: today-is-september-21st-you-know-the-rules
 syndication:
   mastodon: https://hackers.town/@randomgeek/106970474210868356

@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2016/moms-stansfield-12-socks/
+- /2016/02/07/moms-stansfield-12-socks/
 created: '2024-02-24 03:56:13'
 date: 2016-02-07 00:00:00+00:00
 description: ''
 fname: pub.post.2016.02.moms-stansfield-12-socks
 id: emu5qt5v4hq4j8g6ayn2q7s
-redirects:
-- /craft/2016/moms-stansfield-12-socks/
-- /2016/02/07/moms-stansfield-12-socks/
 slug: moms-stansfield-12-socks
 tags:
 - knitting

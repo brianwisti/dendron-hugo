@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2005/01/04_01-getting-started.html
+- /post/2005/01-getting-started/
+- /2005/01/04/perl-5-babysteps-01-getting-started/
 created: '2024-02-16 17:45:58'
 date: '2005-01-04T00:00:00.000Z'
 description: Installing and first steps with Perl
 fname: pub.post.2005.01.perl-5-babysteps-01-getting-started
 id: 4bnpr7etypcf5ubrov7mg4x
-redirects:
-- /coolnamehere/2005/01/04_01-getting-started.html
-- /post/2005/01-getting-started/
-- /2005/01/04/perl-5-babysteps-01-getting-started/
 slug: perl-5-babysteps-01-getting-started
 tags:
 - perl

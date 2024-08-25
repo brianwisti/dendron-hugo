@@ -1,12 +1,12 @@
 ---
+aliases:
+- /coolnamehere/2009/12/09_nqp-not-quite-perl.html
+- /post/2009/nqp-not-quite-perl/
 created: '2024-02-20 05:33:47'
 date: 2009-12-09 00:00:00+00:00
 description: ''
 fname: pub.post.2009.12.nqp-not-quite-perl
 id: enn4dz196dfkzos260cjlel
-redirects:
-- /coolnamehere/2009/12/09_nqp-not-quite-perl.html
-- /post/2009/nqp-not-quite-perl/
 slug: nqp-not-quite-perl
 tags:
 - parrot

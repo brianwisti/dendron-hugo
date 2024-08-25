@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2010/07/15_0c-the-stellar-app.html
+- /post/2010/0c-the-stellar-app/
+- /2010/07/15/parrot-babysteps-0c-the-stellar-app/
 created: '2024-02-20 22:52:05'
 date: 2010-07-15 00:00:00+00:00
 description: ''
 fname: pub.post.2010.07.parrot-babysteps-0c-the-stellar-app
 id: a44l2uisklw818uczbug6wv
-redirects:
-- /coolnamehere/2010/07/15_0c-the-stellar-app.html
-- /post/2010/0c-the-stellar-app/
-- /2010/07/15/parrot-babysteps-0c-the-stellar-app/
 series:
 - Parrot Babysteps
 slug: parrot-babysteps-0x-the-stellar-app

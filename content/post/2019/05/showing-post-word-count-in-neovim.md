@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2019/05/05/showing-post-word-count-in-neovim/
 created: '2024-03-27 16:47:37'
 date: 2019-05-05
 description: ''
 fname: pub.post.2019.05.showing-post-word-count-in-neovim
 id: 1gwpnmv7lei9l69nc02khoj
-redirects:
-- /2019/05/05/showing-post-word-count-in-neovim/
 slug: showing-post-word-count-in-neovim
 syndication:
   mastodon: https://hackers.town/@randomgeek/102046653899640488

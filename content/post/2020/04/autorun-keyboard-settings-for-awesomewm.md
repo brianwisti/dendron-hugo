@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2020/04/12/autorun-keyboard-settings-for-awesomewm/
+- /post/2020/04/autorun-keyboard-settings-for-awesomewm/
 created: '2024-02-13 17:31:38'
 date: 2020-04-12 00:00:00+00:00
 description: Getting Control and Escape keys where I want them
 fname: pub.post.2020.04.autorun-keyboard-settings-for-awesomewm
 id: 7d57aoe281wp5z7ap7kbtas
-redirects:
-- /2020/04/12/autorun-keyboard-settings-for-awesomewm/
-- /post/2020/04/autorun-keyboard-settings-for-awesomewm/
 slug: autorun-keyboard-settings-for-awesomewm
 syndication:
   mastodon: https://hackers.town/@randomgeek/103987552969685961

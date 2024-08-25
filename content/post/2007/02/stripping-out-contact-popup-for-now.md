@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2007/02/06_stripping-out-contact-popup-for-now.html
+- /post/2007/stripping-out-contact-popup-for-now/
+- /2007/02/06/stripping-out-contact-popup-for-now/
 created: '2024-02-18 04:24:58'
 date: 2007-02-06 00:00:00+00:00
 description: ''
 fname: pub.post.2007.02.stripping-out-contact-popup-for-now
 id: 26shi1z2dvkz7m151fggdea
-redirects:
-- /blogspot/2007/02/06_stripping-out-contact-popup-for-now.html
-- /post/2007/stripping-out-contact-popup-for-now/
-- /2007/02/06/stripping-out-contact-popup-for-now/
 slug: stripping-out-contact-popup-for-now
 tags:
 - site

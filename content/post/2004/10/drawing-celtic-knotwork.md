@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2004/10/01_drawing-celtic-knotwork.html
+- /post/2004/drawing-celtic-knotwork/
+- /2004/10/01/drawing-celtic-knotwork/
 created: '2024-02-11 05:38:48'
 date: 2004-10-01 00:00:00+00:00
 description: ''
 fname: pub.post.2004.10.drawing-celtic-knotwork
 id: osiffwtk8rtiqeby4vqlci6
-redirects:
-- /coolnamehere/2004/10/01_drawing-celtic-knotwork.html
-- /post/2004/drawing-celtic-knotwork/
-- /2004/10/01/drawing-celtic-knotwork/
 slug: drawing-celtic-knotwork
 tags:
 - ruby

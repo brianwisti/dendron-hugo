@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/05/gitea-because-shiny/
 created: '2024-02-12 02:46:07'
 date: 2021-05-30 00:00:00+00:00
 description: ''
 fname: pub.post.2021.05.gitea-because-shiny
 id: 3rjov6pwl9vjxm9kvjbgb4s
-redirects:
-- /note/2021/05/gitea-because-shiny/
 slug: gitea-because-shiny
 syndication:
   mastodon: https://hackers.town/@randomgeek/106327746467350327

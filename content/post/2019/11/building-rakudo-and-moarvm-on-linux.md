@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2019/11/03/building-rakudo-and-moarvm-on-linux/
+- /post/2019/11/building-rakudo-and-moarvim-on-linux/
 created: '2024-02-12 02:52:56'
 date: '2019-11-03T00:00:00.000Z'
 description: In which I rediscover `make && make test && make install`
 fname: pub.post.2019.11.building-rakudo-and-moarvm-on-linux
 id: 3itbj7u8a0udcj948djjuez
-redirects:
-- /2019/11/03/building-rakudo-and-moarvm-on-linux/
-- /post/2019/11/building-rakudo-and-moarvim-on-linux/
 slug: building-rakudo-and-moarvim-on-linux
 syndication:
   mastodon: https://hackers.town/@randomgeek/103078004913589134

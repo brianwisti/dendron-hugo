@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/11/found-the-micro-editor/
 created: '2024-08-25 15:52:01'
 date: 2020-11-30 20:41:49-08:00
 description: ''
 fname: pub.post.2020.11.found-the-micro-editor
 id: 2ht6kpn1ucul5g0xiil538w
-redirects:
-- /note/2020/11/found-the-micro-editor/
 syndication:
   mastodon: https://hackers.town/@randomgeek/105303191449436844
 tags:

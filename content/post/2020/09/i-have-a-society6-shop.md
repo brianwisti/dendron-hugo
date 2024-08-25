@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/09/i-have-a-society6-shop/
 created: '2024-08-25 15:42:47'
 date: 2020-09-24 17:59:09-07:00
 description: ''
 fname: pub.post.2020.09.i-have-a-society6-shop
 id: i4hfiwl10r07v3wazn2u696
-redirects:
-- /note/2020/09/i-have-a-society6-shop/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104922899732655803
 tags:

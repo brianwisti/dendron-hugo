@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2015/professor-whom-scarf/
+- /2015/11/02/professor-whom-scarf/
 created: '2024-02-23 13:45:07'
 date: 2015-11-02 00:00:00+00:00
 description: ''
 fname: pub.post.2015.11.professor-whom-scarf
 id: fxgwbbmd8ta9dar1kz8jki9
-redirects:
-- /craft/2015/professor-whom-scarf/
-- /2015/11/02/professor-whom-scarf/
 slug: professor-whom-scarf
 tags:
 - knitting

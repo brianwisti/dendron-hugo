@@ -1,14 +1,14 @@
 ---
+aliases:
+- /tools/2015/07/20_draft-mode-in-jekyll-templates.html
+- /post/2015/draft-mode-in-jekyll-templates/
+- /2015/07/20/draft-mode-in-jekyll-templates/
 created: '2024-02-23 13:16:51'
 date: 2015-07-20 00:00:00+00:00
 description: Use site.show_drafts in your template to keep site development from cluttering
   analytics
 fname: pub.post.2015.07.draft-mode-in-jekyll-templates
 id: q8byzgwokb9vol7d7ancfbh
-redirects:
-- /tools/2015/07/20_draft-mode-in-jekyll-templates.html
-- /post/2015/draft-mode-in-jekyll-templates/
-- /2015/07/20/draft-mode-in-jekyll-templates/
 slug: draft-mode-in-jekyll-templates
 tags:
 - jekyll

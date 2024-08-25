@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2007/03/09_rebol-remark.html
+- /post/2007/rebol-remark/
+- /2007/03/09/rebol-remark/
 created: '2024-02-18 04:25:42'
 date: 2007-03-09 00:00:00+00:00
 description: ''
 fname: pub.post.2007.03.rebol-remark
 id: do0pq7rip77wnxearbhu5lx
-redirects:
-- /blogspot/2007/03/09_rebol-remark.html
-- /post/2007/rebol-remark/
-- /2007/03/09/rebol-remark/
 slug: rebol-remark
 tags:
 - rebol

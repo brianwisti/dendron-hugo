@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:42:48'
 date: 2023-01-31 00:00:00+00:00
 description: ''
@@ -12,7 +14,7 @@ tags:
 - logseq
 - second-brain
 title: Emulate tldr instead of man in your notes
-updated: '2024-08-07 19:13:07'
+updated: '2024-08-25 18:27:06'
 ---
 
 ![annotated logseq bullet point](assets/img/2023/cover-2023-01-31.png "A bullet point is a note given the right tag")

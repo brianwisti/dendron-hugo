@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:28:31'
 date: 2023-03-09 00:00:00+00:00
 description: ''
@@ -11,7 +13,7 @@ syndication:
 tags:
 - second-brain
 title: New Experiment Online Brains
-updated: '2024-08-07 19:13:40'
+updated: '2024-08-25 18:24:43'
 ---
 
 ![a page from my public brain](assets/img/2023/cover-2023-03-09.jpg "I did just enough to have something I could publish")

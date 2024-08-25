@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:30:52'
 date: 2023-03-16 00:00:00+00:00
 description: ''
@@ -11,7 +13,7 @@ tags:
 - quotes
 - ssg
 title: Elf Sternberg on How SSG Is Not a Reaction
-updated: '2024-08-07 19:13:35'
+updated: '2024-08-25 18:24:53'
 ---
 
 > It was literally the first thing we did.

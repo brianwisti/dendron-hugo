@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2004/12/26_01-getting-started.html
+- /post/2004/01-getting-started/
+- /2004/12/26/rebol-babysteps-01-getting-started/
 created: '2024-02-11 05:53:30'
 date: 2004-12-26 00:00:00+00:00
 description: ''
 fname: pub.post.2004.12.rebol-babysteps-01-getting-started
 id: zao5spu9zidz8b4an49ad47
-redirects:
-- /coolnamehere/2004/12/26_01-getting-started.html
-- /post/2004/01-getting-started/
-- /2004/12/26/rebol-babysteps-01-getting-started/
 series:
 - REBOL Babysteps
 slug: rebol-babysteps-01-getting-started

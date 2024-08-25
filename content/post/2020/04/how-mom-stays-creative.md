@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/111/how-mom-stays-creative/
+- /note/2020/04/how-mom-stays-creative/
 created: '2024-02-13 17:46:22'
 date: 2020-04-20
 description: ''
 fname: pub.post.2020.04.how-mom-stays-creative
 id: hqt5r4dulkz8oabwrpjdghr
-redirects:
-- /note/2020/111/how-mom-stays-creative/
-- /note/2020/04/how-mom-stays-creative/
 title: How Mom Stays Creative
 updated: '2024-08-07 19:01:46'
 ---

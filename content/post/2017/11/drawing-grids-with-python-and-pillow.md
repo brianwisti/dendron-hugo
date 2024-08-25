@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2017/11/24/drawing-grids-with-python-and-pillow/
 created: '2024-02-25 05:55:36'
 date: 2017-11-24 00:00:00+00:00
 description: ''
 fname: pub.post.2017.11.drawing-grids-with-python-and-pillow
 id: ac93a4rywy5wez6nk7r5c1w
-redirects:
-- /2017/11/24/drawing-grids-with-python-and-pillow/
 slug: drawing-grids-with-python-and-pillow
 tags:
 - python

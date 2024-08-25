@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2004/09/17_look-at-the-latest-fark-headlines.html
+- /post/2004/look-at-the-latest-fark-headlines/
+- /2004/09/17/look-at-the-latest-fark-headlines/
 created: '2024-02-11 05:30:26'
 date: 2004-09-17 07:00:00+00:00
 description: ''
 fname: pub.post.2004.09.look-at-the-latest-fark-headlines
 id: y71by1tyicni04u6wml6bzk
-redirects:
-- /coolnamehere/2004/09/17_look-at-the-latest-fark-headlines.html
-- /post/2004/look-at-the-latest-fark-headlines/
-- /2004/09/17/look-at-the-latest-fark-headlines/
 slug: look-at-the-latest-fark-headlines
 tags:
 - ruby

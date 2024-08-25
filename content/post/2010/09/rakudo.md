@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2010/09/08_rakudo.html
+- /post/2010/rakudo/
+- /2010/09/08/rakudo/
 created: '2024-02-20 23:14:22'
 date: 2010-09-08 00:00:00+00:00
 description: ''
 fname: pub.post.2010.09.rakudo
 id: 4haz371pid1a2zby3jlu678
-redirects:
-- /coolnamehere/2010/09/08_rakudo.html
-- /post/2010/rakudo/
-- /2010/09/08/rakudo/
 slug: rakudo
 tags:
 - raku-lang

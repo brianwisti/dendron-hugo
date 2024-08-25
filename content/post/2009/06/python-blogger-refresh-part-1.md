@@ -1,12 +1,12 @@
 ---
+aliases:
+- /blogspot/2009/06/09_python-blogger-refresh-part-1.html
+- /post/2009/python-blogger-refresh-part-1/
 created: '2024-02-18 05:30:33'
 date: 2009-06-09 00:00:00+00:00
 description: ''
 fname: pub.post.2009.06.python-blogger-refresh-part-1
 id: 8x0qjueariyhmnvhwrzb7rp
-redirects:
-- /blogspot/2009/06/09_python-blogger-refresh-part-1.html
-- /post/2009/python-blogger-refresh-part-1/
 series:
 - Python Blogger Refresh
 slug: python-blogger-refresh-part-1

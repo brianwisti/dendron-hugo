@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2022/01/eleventy-beta-handles-custom-templates/
 created: '2024-02-11 13:17:14'
 date: 2022-01-06 00:00:00+00:00
 description: ''
 fname: pub.post.2022.01.eleventy-beta-handles-custom-templates
 id: dwtpnk6ewr1iuvhsb3431k2
-redirects:
-- /note/2022/01/eleventy-beta-handles-custom-templates/
 slug: eleventy-beta-handles-custom-templates
 syndication:
   mastodon: https://hackers.town/@randomgeek/107580078550425007

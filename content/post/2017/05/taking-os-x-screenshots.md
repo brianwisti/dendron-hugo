@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2017/taking-os-x-screenshots/
+- /2017/05/26/taking-os-x-screenshots/
 created: '2024-02-24 23:51:29'
 date: 2017-05-26 00:00:00+00:00
 description: ''
 fname: pub.post.2017.05.taking-os-x-screenshots
 id: 8r5qpr3ykse6xtkdpl8tyw1
-redirects:
-- /post/2017/taking-os-x-screenshots/
-- /2017/05/26/taking-os-x-screenshots/
 slug: taking-os-x-screenshots
 tags:
 - os-x

@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2015/quick-garter-scarf/
+- /2015/04/04/quick-garter-stitch-scarf/
 created: '2024-02-12 00:05:48'
 date: 2015-04-04 00:00:00+00:00
 description: ''
 fname: pub.post.2015.04.quick-garter-stitch-scarf
 id: 9g3vwaa1gjnjyk9055k2av8
-redirects:
-- /craft/2015/quick-garter-scarf/
-- /2015/04/04/quick-garter-stitch-scarf/
 slug: quick-garter-stitch-scarf
 tags:
 - knitting

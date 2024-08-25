@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2019/02/16/taskwarrior-projects/
 created: '2024-03-26 04:34:17'
 date: 2019-02-16
 description: Use Taskwarrior projects to organize closely related tasks!
 fname: pub.post.2019.02.taskwarrior-projects
 id: lu461qkgnviffpjmgbqr75g
-redirects:
-- /2019/02/16/taskwarrior-projects/
 series:
 - Taskwarrior Babysteps
 slug: taskwarrior-projects

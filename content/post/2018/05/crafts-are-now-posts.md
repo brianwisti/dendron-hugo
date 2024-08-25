@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/05/26/crafts-are-now-posts/
 created: '2024-02-27 23:48:17'
 date: 2018-05-26 00:00:00+00:00
 description: ''
 fname: pub.post.2018.05.crafts-are-now-posts
 id: eti88dae268evxib96vpdfo
-redirects:
-- /2018/05/26/crafts-are-now-posts/
 slug: crafts-are-now-posts
 tags:
 - site

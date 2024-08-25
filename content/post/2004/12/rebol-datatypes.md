@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2004/12/26_rebol-datatypes.html
+- /post/2004/rebol-datatypes/
+- /2004/12/26/rebol-datatypes/
 created: '2024-02-11 05:54:52'
 date: 2004-12-26 00:00:00+00:00
 description: ''
 fname: pub.post.2004.12.rebol-datatypes
 id: ct5kdqbbt8ojlipb7ii0g89
-redirects:
-- /coolnamehere/2004/12/26_rebol-datatypes.html
-- /post/2004/rebol-datatypes/
-- /2004/12/26/rebol-datatypes/
 slug: rebol-datatypes
 tags:
 - rebol

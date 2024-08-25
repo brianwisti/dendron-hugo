@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2011/06/16_01-installing-python-2.html
+- /2011/06/16/python-2-babysteps-01-installing-python-2/
+- /post/2011/06/python-2-babysteps-01-installing-python-2/
 created: '2024-02-10 17:52:08'
 date: 2011-06-16 00:00:00+00:00
 description: Think of it as Step Zero for the other Python tutorials.
 fname: pub.post.2011.06.python-2-babysteps-01-installing-python-2
 id: helsoq7opobr49wo6mi8vk4
-redirects:
-- /coolnamehere/2011/06/16_01-installing-python-2.html
-- /2011/06/16/python-2-babysteps-01-installing-python-2/
-- /post/2011/06/python-2-babysteps-01-installing-python-2/
 slug: python-2-babysteps-01-installing-python-2
 tags:
 - python

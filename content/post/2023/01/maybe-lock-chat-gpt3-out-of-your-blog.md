@@ -1,17 +1,18 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:40:27'
 date: 2023-01-16 00:00:00+00:00
 description: ''
 fname: pub.post.2023.01.maybe-lock-chat-gpt3-out-of-your-blog
 id: bl2wfdc71u93mges1pln7sn
-slug: maybe-lock-chat-gpt3-out-of-your-blog
 syndication:
   mastodon: https://hackers.town/@randomgeek/109702566292647325
 tags:
 - the-internet
 - and-other-delusions
 title: Maybe Lock Chat-GPT3 Out of Your Blog
-updated: '2024-08-07 19:13:15'
+updated: '2024-08-25 18:26:20'
 ---
 
 Random post crossed into my field of view today about public sites being used to provide training data for [Large Language Model (LLM)]({{< relref "/card/ai/llm.md" >}}) instances like Chat-GPT3.

@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2004/07/11_control-structures.html
+- /post/2004/control-structures/
+- /2004/07/11/control-structures/
 created: '2024-02-11 05:18:44'
 date: 2004-07-11 00:00:00+00:00
 description: ''
 fname: pub.post.2004.07.control-structures
 id: v109ekqn3rspz9t77qwo6y1
-redirects:
-- /coolnamehere/2004/07/11_control-structures.html
-- /post/2004/control-structures/
-- /2004/07/11/control-structures/
 slug: control-structures
 tags:
 - python

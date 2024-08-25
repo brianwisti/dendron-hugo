@@ -1,12 +1,12 @@
 ---
+aliases:
+- /marginalia/2013/06/05_coolnamehere-random-geekery.html
+- /post/2013/coolnamehere-random-geekery/
 created: '2024-02-22 15:15:53'
 date: 2013-06-05 00:00:00+00:00
 description: Marking a change in domain name
 fname: pub.post.2013.06.coolnamehere-random-geekery
 id: g34rst3lcmxkgqjnjptu483
-redirects:
-- /marginalia/2013/06/05_coolnamehere-random-geekery.html
-- /post/2013/coolnamehere-random-geekery/
 slug: coolnamehere-random-geekery
 tags:
 - site

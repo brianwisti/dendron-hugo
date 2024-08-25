@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2019/05/27/kitty-terminal/
 created: '2024-03-26 04:52:34'
 date: '2019-05-27T00:00:00.000Z'
 description: I installed kitty for font ligatures in terminals on Linux, but it does
   other stuff too.
 fname: pub.post.2019.05.kitty-terminal
 id: fg10t75k20ps350vnd7zx7q
-redirects:
-- /2019/05/27/kitty-terminal/
 slug: kitty-terminal
 syndication:
   mastodon: https://hackers.town/@randomgeek/102167342505236721

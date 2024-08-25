@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/11/11/basic-hat-with-hemmed-edge/
 created: '2024-03-06 20:47:07'
 date: 2018-11-11
 description: I made another hat! This time I learned how to make a hemmed edge.
 fname: pub.post.2018.11.basic-hat-with-hemmed-edge
 id: k4yr6j1esvz19eczma07rkr
-redirects:
-- /2018/11/11/basic-hat-with-hemmed-edge/
 slug: basic-hat-with-hemmed-edge
 tags:
 - knitting

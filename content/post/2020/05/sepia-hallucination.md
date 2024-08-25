@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/05/sepia-hallucination/
 created: '2024-08-25 14:45:03'
 date: 2020-05-17 00:31:47-07:00
 description: ''
 fname: pub.post.2020.05.sepia-hallucination
 id: 7twvmdjqljnjzg5hwx61bi3
-redirects:
-- /note/2020/05/sepia-hallucination/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104182659182659893
 tags:

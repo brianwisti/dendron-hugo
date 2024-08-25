@@ -1,13 +1,13 @@
 ---
+aliases:
+- /craft/2017/my-weston-hat/
+- /2017/06/28/my-weston-hat/
+- /post/2017/06/my-weston-hat/
 created: '2024-02-25 00:04:53'
 date: 2017-06-28 00:00:00+00:00
 description: ''
 fname: pub.post.2017.06.my-weston-hat
 id: 4cb74e3x9um5l85fw5kkggg
-redirects:
-- /craft/2017/my-weston-hat/
-- /2017/06/28/my-weston-hat/
-- /post/2017/06/my-weston-hat/
 slug: my-weston-hat
 tags:
 - knitting

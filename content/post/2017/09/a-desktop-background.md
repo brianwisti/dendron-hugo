@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2017/a-desktop-background/
+- /2017/09/03/a-desktop-background/
 created: '2024-02-25 05:48:48'
 date: 2017-09-03 00:00:00+00:00
 description: ''
 fname: pub.post.2017.09.a-desktop-background
 id: lgokdvdkvb0a7xit9xknbvz
-redirects:
-- /craft/2017/a-desktop-background/
-- /2017/09/03/a-desktop-background/
 slug: a-desktop-background
 tags:
 - drawing

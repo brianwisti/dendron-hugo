@@ -1,13 +1,13 @@
 ---
+aliases:
+- /emacs/2013/12/26_an-emacs-newbie.html
+- /post/2013/an-emacs-newbie/
+- /2013/12/26/an-emacs-newbie/
 created: '2024-02-22 16:21:31'
 date: 2013-12-26 00:00:00+00:00
 description: ''
 fname: pub.post.2013.12.an-emacs-newbie
 id: yulgmwyvp30atfayg8z1a51
-redirects:
-- /emacs/2013/12/26_an-emacs-newbie.html
-- /post/2013/an-emacs-newbie/
-- /2013/12/26/an-emacs-newbie/
 slug: an-emacs-newbie
 tags:
 - emacs

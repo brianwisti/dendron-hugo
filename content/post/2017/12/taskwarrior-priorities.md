@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2017/12/25/taskwarrior-priorities/
 created: '2024-02-25 06:06:40'
 date: 2017-12-25 00:00:00+00:00
 description: ''
 fname: pub.post.2017.12.taskwarrior-priorities
 id: 2l9mb9v2qbgizonfwtvw8bv
-redirects:
-- /2017/12/25/taskwarrior-priorities/
 series:
 - Taskwarrior Babysteps
 slug: taskwarrior-priorities

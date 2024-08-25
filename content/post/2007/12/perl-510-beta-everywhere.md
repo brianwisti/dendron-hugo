@@ -1,14 +1,14 @@
 ---
+aliases:
+- /blogspot/2007/12/05_perl-510-beta-everywhere.html
+- /post/2007/perl-510-beta-everywhere/
+- /2007/12/05/perl-5.10-beta-everywhere/
 category: post
 created: '2024-02-18 05:21:45'
 date: 2007-12-05 00:00:00+00:00
 description: ''
 fname: pub.post.2007.12.perl-510-beta-everywhere
 id: typifyajvsertr6dogjn898
-redirects:
-- /blogspot/2007/12/05_perl-510-beta-everywhere.html
-- /post/2007/perl-510-beta-everywhere/
-- /2007/12/05/perl-5.10-beta-everywhere/
 slug: perl-510-beta-everywhere
 tags:
 - perl

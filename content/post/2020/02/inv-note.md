@@ -1,4 +1,7 @@
 ---
+aliases:
+- /note/2020/36/inv-note/
+- /note/2020/02/inv-note/
 banner:
   alt: tiled symmetry drawing in green and yellow tones
   caption: I drew this with Amaziograph
@@ -8,9 +11,6 @@ date: '2020-02-05T00:00:00.000Z'
 description: ''
 fname: pub.post.2020.02.inv-note
 id: 2j3v18889se9y4oj8c8351f
-redirects:
-- /note/2020/36/inv-note/
-- /note/2020/02/inv-note/
 slug: inv-note
 syndication:
   mastodon: https://hackers.town/@randomgeek/103607162408116784

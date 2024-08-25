@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:23:39'
 date: 2023-05-20 00:00:00+00:00
 description: ''
@@ -12,7 +14,7 @@ tags:
 - python
 - art
 title: A Fun Python Turtle Youtube Playlist
-updated: '2024-08-07 19:13:51'
+updated: '2024-08-25 18:23:58'
 ---
 
 ![abstract tree](assets/img/2023/cover-2023-05-20.png "I went a bit past the videos")

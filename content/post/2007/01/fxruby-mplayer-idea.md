@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2007/01/30_fxruby-mplayer-idea.html
+- /post/2007/fxruby-mplayer-idea/
+- /2007/01/30/fxruby-mplayer-idea/
 created: '2024-02-18 04:21:26'
 date: 2007-01-30 00:00:00+00:00
 description: ''
 fname: pub.post.2007.01.fxruby-mplayer-idea
 id: sxcrb066i574y65nrjdb3ap
-redirects:
-- /blogspot/2007/01/30_fxruby-mplayer-idea.html
-- /post/2007/fxruby-mplayer-idea/
-- /2007/01/30/fxruby-mplayer-idea/
 slug: fxruby-mplayer-idea
 tags:
 - blogspot

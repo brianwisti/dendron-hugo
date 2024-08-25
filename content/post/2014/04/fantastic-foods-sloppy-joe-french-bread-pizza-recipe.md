@@ -1,13 +1,13 @@
 ---
+aliases:
+- /marginalia/2014/04/12_sloppy-joe-french-bread-pizza-recipe.html
+- /post/2014/sloppy-joe-french-bread-pizza-recipe/
+- /2014/04/12/fantastic-foods-sloppy-joe-french-bread-pizza-recipe/
 created: '2024-02-22 16:29:47'
 date: 2014-04-12 00:00:00+00:00
 description: ''
 fname: pub.post.2014.04.fantastic-foods-sloppy-joe-french-bread-pizza-recipe
 id: u3hh1tm1t1mxa94etx42xx8
-redirects:
-- /marginalia/2014/04/12_sloppy-joe-french-bread-pizza-recipe.html
-- /post/2014/sloppy-joe-french-bread-pizza-recipe/
-- /2014/04/12/fantastic-foods-sloppy-joe-french-bread-pizza-recipe/
 slug: fantastic-foods-sloppy-joe-french-bread-pizza-recipe
 tags:
 - food

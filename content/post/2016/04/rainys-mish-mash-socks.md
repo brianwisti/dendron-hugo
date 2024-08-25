@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2016/rainys-mishmash-socks/
+- /2016/04/14/rainys-mish-mash-socks/
 created: '2024-02-24 05:18:41'
 date: 2016-04-14 00:00:00+00:00
 description: ''
 fname: pub.post.2016.04.rainys-mish-mash-socks
 id: 4wjjc3pocv0d3x51xwpymth
-redirects:
-- /craft/2016/rainys-mishmash-socks/
-- /2016/04/14/rainys-mish-mash-socks/
 slug: rainys-mish-mash-socks
 tags:
 - knitting

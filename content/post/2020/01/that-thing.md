@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/18/that-thing/
+- /note/2020/01/that-thing/
 created: '2024-02-12 15:30:51'
 date: 2020-01-18 00:00:00+00:00
 description: ''
 fname: pub.post.2020.01.that-thing
 id: j4ewwf03hixj6d80v086vl0
-redirects:
-- /note/2020/18/that-thing/
-- /note/2020/01/that-thing/
 slug: that-thing
 syndication:
   mastodon: https://hackers.town/@randomgeek/103505824513462267

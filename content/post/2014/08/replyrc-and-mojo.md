@@ -1,14 +1,14 @@
 ---
+aliases:
+- /tools/2014/08/19_replyrc.html
+- /post/2014/replyrc/
+- /2014/08/18/.replyrc-and-reply-mojo/
+- /2014/08/19/replyrc-and-mojo/
 created: '2024-02-22 17:46:33'
 date: 2014-08-19 00:00:00+00:00
 description: Customizing Perl Reply and using -Mojo
 fname: pub.post.2014.08.replyrc-and-mojo
 id: gpfpelv91hzsy8t3aannddv
-redirects:
-- /tools/2014/08/19_replyrc.html
-- /post/2014/replyrc/
-- /2014/08/18/.replyrc-and-reply-mojo/
-- /2014/08/19/replyrc-and-mojo/
 series:
 - The Reply Perl REPL
 slug: replyrc-and-mojo

@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2010/09/30_thoughts-on-the-word-bra.html
+- /post/2010/thoughts-on-the-word-bra/
+- /2010/09/30/thoughts-on-the-word-bra/
 created: '2024-02-20 23:16:02'
 date: 2010-09-30 00:00:00+00:00
 description: ''
 fname: pub.post.2010.09.thoughts-on-the-word-bra
 id: ufs2auaos4yi20h3el8zlbx
-redirects:
-- /coolnamehere/2010/09/30_thoughts-on-the-word-bra.html
-- /post/2010/thoughts-on-the-word-bra/
-- /2010/09/30/thoughts-on-the-word-bra/
 slug: thoughts-on-the-word-bra
 tags:
 - babblings

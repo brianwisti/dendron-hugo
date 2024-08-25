@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/07/our-cats-give-me-more-reason-to-use-the-terminal/
 created: '2024-02-12 03:18:42'
 date: 2021-07-05 00:00:00+00:00
 description: ''
 fname: pub.post.2021.07.our-cats-give-me-more-reason-to-use-the-terminal
 id: 65jzkfhcrys1l9kadoi4axn
-redirects:
-- /note/2021/07/our-cats-give-me-more-reason-to-use-the-terminal/
 slug: our-cats-give-me-more-reason-to-use-the-terminal
 syndication:
   mastodon: https://hackers.town/@randomgeek/106530495121960572

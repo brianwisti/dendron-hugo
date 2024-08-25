@@ -1,4 +1,8 @@
 ---
+aliases:
+- /tools/2015/09/14_adding-suggested-posts.html
+- /post/2015/adding-suggested-posts/
+- /2015/09/14/added-suggested-posts/
 created: '2024-02-23 13:37:51'
 date: 2015-09-14 00:00:00+00:00
 description: '''I started writing about PNWPHP but got distracted and added "Suggested
@@ -7,10 +11,6 @@ description: '''I started writing about PNWPHP but got distracted and added "Sug
   '
 fname: pub.post.2015.09.added-suggested-posts
 id: k67taq8pk323jz229yljszo
-redirects:
-- /tools/2015/09/14_adding-suggested-posts.html
-- /post/2015/adding-suggested-posts/
-- /2015/09/14/added-suggested-posts/
 slug: added-suggested-posts
 tags:
 - jekyll

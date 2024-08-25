@@ -1,13 +1,13 @@
 ---
+aliases:
+- /programming/2015/08/14_php-for-some-reason.html
+- /post/2015/php-for-some-reason/
+- /2015/08/14/php-for-some-reason/
 created: '2024-02-23 13:31:00'
 date: 2015-08-14 00:00:00+00:00
 description: I have been looking at PHP for the first time in years.
 fname: pub.post.2015.08.php-for-some-reason
 id: w53ygt00634ird2y2uj6fq7
-redirects:
-- /programming/2015/08/14_php-for-some-reason.html
-- /post/2015/php-for-some-reason/
-- /2015/08/14/php-for-some-reason/
 slug: php-for-some-reason
 tags:
 - php

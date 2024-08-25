@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2008/02/14_lots-of-nifty-newness-for-church-site.html
+- /post/2008/lots-of-nifty-newness-for-church-site/
+- /2008/02/14/lots-of-nifty-newness-for-the-church-site/
 created: '2024-02-19 01:56:57'
 date: 2008-02-14 00:00:00+00:00
 description: ''
 fname: pub.post.2008.12.lots-of-nifty-newness-for-the-church-site
 id: pn75afpjrgg685atyeo58ol
-redirects:
-- /blogspot/2008/02/14_lots-of-nifty-newness-for-church-site.html
-- /post/2008/lots-of-nifty-newness-for-church-site/
-- /2008/02/14/lots-of-nifty-newness-for-the-church-site/
 slug: lots-of-nifty-newness-for-the-church-site
 tags:
 - wordpress

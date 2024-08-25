@@ -1,12 +1,12 @@
 ---
+aliases:
+- /blogspot/2007/02/03_late-night-thoughts-about-fm.html
+- /post/2007/late-night-thoughts-about-fm/
 created: '2024-02-18 04:23:00'
 date: 2007-02-03 00:00:00+00:00
 description: ''
 fname: pub.post.2007.02.late-night-thoughts-about-fm
 id: lsxdb1041sj8jvcw4c4kbmb
-redirects:
-- /blogspot/2007/02/03_late-night-thoughts-about-fm.html
-- /post/2007/late-night-thoughts-about-fm/
 slug: late-night-thoughts-about-fm
 tags:
 - blogspot

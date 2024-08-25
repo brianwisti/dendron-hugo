@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2019/203/indieweb-principles/
+- /note/2019/07/indieweb-principles/
 created: '2024-04-02 21:16:45'
 date: 2019-07-22
 description: ''
 fname: pub.post.2019.07.indieweb-principles
 id: wpkfselrylbcrfobc7ybqvw
-redirects:
-- /note/2019/203/indieweb-principles/
-- /note/2019/07/indieweb-principles/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102485673663547158
 tags:

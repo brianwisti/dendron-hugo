@@ -1,13 +1,13 @@
 ---
+aliases:
+- /tools/2015/07/16_remote-editing-in-atom.html
+- /post/2015/remote-editing-in-atom/
+- /2015/07/16/remote-editing-in-atom/
 created: '2024-02-23 13:22:59'
 date: 2015-07-16 00:00:00+00:00
 description: I am slowly learning more about how to use Atom for real work.
 fname: pub.post.2015.07.remote-editing-in-atom
 id: q1c4nq5uqy3yf7tyccumtjm
-redirects:
-- /tools/2015/07/16_remote-editing-in-atom.html
-- /post/2015/remote-editing-in-atom/
-- /2015/07/16/remote-editing-in-atom/
 slug: remote-editing-in-atom
 tags:
 - atom-editor

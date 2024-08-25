@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2019/05/24/pretty-print-terminal-files-with-bat/
 created: '2024-03-26 04:55:18'
 date: 2019-05-24
 description: '`bat` is like a fancier `cat` for displaying file contents.
@@ -6,8 +8,6 @@ description: '`bat` is like a fancier `cat` for displaying file contents.
   '
 fname: pub.post.2019.05.pretty-print-terminal-files-with-bat
 id: tkay5qlqx4yk1mlu7u9722k
-redirects:
-- /2019/05/24/pretty-print-terminal-files-with-bat/
 slug: pretty-print-terminal-files-with-bat
 syndication:
   mastodon: https://hackers.town/@randomgeek/102153562058385171

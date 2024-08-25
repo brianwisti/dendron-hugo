@@ -1,13 +1,13 @@
 ---
+aliases:
+- /programming/2013/11/11_rereading-the-pickaxe.html
+- /post/2013/rereading-the-pickaxe/
+- /2013/11/11/rereading-the-pickaxe/
 created: '2024-02-22 16:09:24'
 date: 2013-11-11 00:00:00+00:00
 description: ''
 fname: pub.post.2013.11.rereading-the-pickaxe
 id: 0fqs2w8y8o6cibx1o1liev7
-redirects:
-- /programming/2013/11/11_rereading-the-pickaxe.html
-- /post/2013/rereading-the-pickaxe/
-- /2013/11/11/rereading-the-pickaxe/
 slug: rereading-the-pickaxe
 tags:
 - ruby

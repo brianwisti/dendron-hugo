@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2020/01/31/choosing-a-static-site-generator/
 created: '2024-02-12 15:11:56'
 date: 2020-01-31 00:00:00+00:00
 description: If you're making a site for fun, use something you'll have fun with
 fname: pub.post.2020.01.choosing-a-static-site-generator
 id: nb3m4c2ar349ixzqu5oggad
-redirects:
-- /2020/01/31/choosing-a-static-site-generator/
 slug: choosing-a-static-site-generator
 tags:
 - site

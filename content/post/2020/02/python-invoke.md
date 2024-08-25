@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2020/02/17/python-invoke/
+- /post/2020/02/python-invoke/
 created: '2024-02-13 14:41:36'
 date: '2020-02-17T00:00:00.000Z'
 description: I got to know the Python `invoke` task runner a little better.
 fname: pub.post.2020.02.python-invoke
 id: td51650q010z36seuwgsoj2
-redirects:
-- /2020/02/17/python-invoke/
-- /post/2020/02/python-invoke/
 slug: python-invoke
 tags:
 - python

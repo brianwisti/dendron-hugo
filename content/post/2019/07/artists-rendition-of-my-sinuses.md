@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2019/192/artists-rendition-of-my-sinuses/
 created: '2024-04-02 21:04:59'
 date: 2019-07-11
 description: ''
 fname: pub.post.2019.07.artists-rendition-of-my-sinuses
 id: 27qwvognyb355dywpa6vofm
-redirects:
-- /note/2019/192/artists-rendition-of-my-sinuses/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102424893178122236
 tags:

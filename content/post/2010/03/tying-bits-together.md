@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2010/03/04_tying-bits-together.html
+- /post/2010/tying-bits-together/
+- /2010/03/04/tying-bits-together/
 created: '2024-02-20 22:36:49'
 date: 2010-03-04 00:00:00+00:00
 description: ''
 fname: pub.post.2010.03.tying-bits-together
 id: 6ld0d48v8gdjaujy821ygm7
-redirects:
-- /blogspot/2010/03/04_tying-bits-together.html
-- /post/2010/tying-bits-together/
-- /2010/03/04/tying-bits-together/
 slug: tying-bits-together
 tags:
 - coolnamehere

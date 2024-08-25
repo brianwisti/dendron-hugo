@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2019/189/12-days-5-hours-28-minutes-to-home/
 created: '2024-04-02 21:03:27'
 date: 2019-07-08
 description: ''
 fname: pub.post.2019.07.12-days-5-hours-28-minutes-to-home
 id: 6xlmuxuljwpe8pmhbcng3sn
-redirects:
-- /note/2019/189/12-days-5-hours-28-minutes-to-home/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102406240608946191
 tags:

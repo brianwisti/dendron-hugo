@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/06/working-on-breadcrumbs/
 created: '2024-08-25 15:32:28'
 date: 2020-06-11 22:38:43-07:00
 description: ''
 fname: pub.post.2020.06.working-on-breadcrumbs
 id: k5r2fouu9wblp16x40anyx3
-redirects:
-- /note/2020/06/working-on-breadcrumbs/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104329432482758623
 tags:

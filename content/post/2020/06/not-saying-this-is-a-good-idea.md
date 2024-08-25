@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/06/not-saying-this-is-a-good-idea/
 created: '2024-08-25 15:22:38'
 date: 2020-06-02 14:45:01-07:00
 description: ''
 fname: pub.post.2020.06.not-saying-this-is-a-good-idea
 id: gqd7luw1yjpz3qu9ppq8qyq
-redirects:
-- /note/2020/06/not-saying-this-is-a-good-idea/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104276607705004263
 tags:

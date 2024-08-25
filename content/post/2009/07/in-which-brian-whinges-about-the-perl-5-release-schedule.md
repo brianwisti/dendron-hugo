@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2009/07/02_in-which-brian-whinges-about-perl-5.html
+- /post/2009/in-which-brian-whinges-about-perl-5/
+- /2009/07/02/in-which-brian-whinges-about-the-perl-5-release-schedule/
 created: '2024-02-19 02:05:52'
 date: 2009-07-02 00:00:00+00:00
 description: ''
 fname: pub.post.2009.07.in-which-brian-whinges-about-the-perl-5-release-schedule
 id: b7mtesluy19ylqshyhwr6js
-redirects:
-- /blogspot/2009/07/02_in-which-brian-whinges-about-perl-5.html
-- /post/2009/in-which-brian-whinges-about-perl-5/
-- /2009/07/02/in-which-brian-whinges-about-the-perl-5-release-schedule/
 slug: in-which-brian-whinges-about-the-perl-5-release-schedule
 tags:
 - perl

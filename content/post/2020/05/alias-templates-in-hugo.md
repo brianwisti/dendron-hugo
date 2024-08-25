@@ -1,11 +1,11 @@
 ---
+aliases:
+- /post/2020/05/alias-templates-in-hugo/
 created: '2024-02-16 17:15:32'
 date: '2020-05-20T00:00:00.000Z'
 description: I killed some redirects for accessibility and likes
 fname: pub.post.2020.05.alias-templates-in-hugo
 id: u8yflgsvq0vr07n09w8bp5a
-redirects:
-- /post/2020/05/alias-templates-in-hugo/
 slug: alias-templates-in-hugo
 syndication:
   mastodon: https://hackers.town/@randomgeek/104203115715792019

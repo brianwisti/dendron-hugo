@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2017/12/15/knotwork-practice/
+- /post/2017/12/knotwork-practice/
 created: '2024-02-25 06:03:41'
 date: 2017-12-15 00:00:00+00:00
 description: ''
 fname: pub.post.2017.12.knotwork-practice
 id: s72bdqbottym1pdq1gsuyzv
-redirects:
-- /2017/12/15/knotwork-practice/
-- /post/2017/12/knotwork-practice/
 slug: knotwork-practice
 tags:
 - drawing

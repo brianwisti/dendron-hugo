@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:25:33'
 date: 2023-04-23
 description: ''
@@ -12,7 +14,7 @@ tags:
 - it-s-been-84-years
 - okay-maybe-two
 title: A Knitted Washcloth
-updated: '2024-04-05 03:23:59'
+updated: '2024-08-25 18:24:07'
 ---
 
 ![a knitted washcloth](assets/img/2023/cover-2023-04-23.jpg "It may not be much but I made it.")

@@ -1,13 +1,13 @@
 ---
+aliases:
+- /marginalia/2014/06/23_and-now-pelican.html
+- /post/2014/and-now-pelican/
+- /2014/06/23/and-now-pelican/
 created: '2024-02-22 16:50:28'
 date: 2014-06-23 00:00:00+00:00
 description: I know. I'm fickle.
 fname: pub.post.2014.06.and-now-pelican
 id: auvivoo2wrs9eef6mjk89jv
-redirects:
-- /marginalia/2014/06/23_and-now-pelican.html
-- /post/2014/and-now-pelican/
-- /2014/06/23/and-now-pelican/
 slug: and-now-pelican
 tags:
 - site

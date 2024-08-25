@@ -1,13 +1,13 @@
 ---
+aliases:
+- /note/2019/0003/
+- /note/2019/174/added-a-hugo-note-archetype/
+- /note/2019/06/added-a-hugo-note-archetype/
 created: '2024-03-27 16:57:46'
 date: '2019-06-23T00:00:00.000Z'
 description: ''
 fname: pub.post.2019.06.added-a-hugo-note-archetype
 id: ipjrs5mo935e5aratnwdilk
-redirects:
-- /note/2019/0003/
-- /note/2019/174/added-a-hugo-note-archetype/
-- /note/2019/06/added-a-hugo-note-archetype/
 slug: added-a-hugo-note-archetype
 syndication:
   mastodon: https://hackers.town/@randomgeek/102324468805367109

@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2006/03/24_there-must-be-something-wrong-with-me.html
+- /post/2006/there-must-be-something-wrong-with-me/
+- /2006/03/24/there-must-be-something-wrong-with-me/
 created: '2024-02-17 23:42:59'
 date: 2006-03-24 00:00:00+00:00
 description: ''
 fname: pub.post.2006.03.there-must-be-something-wrong-with-me
 id: zhyx79lzollxhvn69av5q48
-redirects:
-- /blogspot/2006/03/24_there-must-be-something-wrong-with-me.html
-- /post/2006/there-must-be-something-wrong-with-me/
-- /2006/03/24/there-must-be-something-wrong-with-me/
 slug: there-must-be-something-wrong-with-me
 tags:
 - blogspot

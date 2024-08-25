@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:26:33'
 date: 2023-03-20 00:00:00+00:00
 description: ''
@@ -12,7 +14,7 @@ tags:
 - vs-code
 - config
 title: Stupid Vs Code Vim Tricks
-updated: '2024-08-07 19:13:46'
+updated: '2024-08-25 18:24:23'
 ---
 
 Still trying my experiment with using [Dendron]({{< relref "/card/dendron.md" >}}) in [Visual Studio Code]({{< relref "/card/vs-code.md" >}}) as part of some sort of public second brain. Honestly I don't know how long that'll last, so I figure better share the fun stuff I learn here too.

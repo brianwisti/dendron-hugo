@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2004/10/28_lisp.html
+- /post/2004/lisp/
+- /2004/10/28/lisp/
 created: '2024-02-11 05:49:32'
 date: 2004-10-28 00:00:00+00:00
 description: ''
 fname: pub.post.2004.10.lisp
 id: 9j6z1uv5xqrbfj6vgk5l2nh
-redirects:
-- /coolnamehere/2004/10/28_lisp.html
-- /post/2004/lisp/
-- /2004/10/28/lisp/
 slug: lisp
 tags:
 - coolnamehere

@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/41/yay-fluid-images/
+- /note/2020/02/yay-fluid-images/
 created: '2024-02-13 14:58:23'
 date: 2020-02-10 00:00:00+00:00
 description: ''
 fname: pub.post.2020.02.yay-fluid-images
 id: 6z2f4sjw7f3aryl67txhu0w
-redirects:
-- /note/2020/41/yay-fluid-images/
-- /note/2020/02/yay-fluid-images/
 slug: yay-fluid-images
 tags:
 - site

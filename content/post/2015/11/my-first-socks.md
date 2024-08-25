@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2015/my-first-socks/
+- /2015/11/25/my-first-socks/
 created: '2024-02-23 13:43:30'
 date: 2015-11-25 00:00:00+00:00
 description: ''
 fname: pub.post.2015.11.my-first-socks
 id: zby0kirvu4jgg8j3be1leyn
-redirects:
-- /craft/2015/my-first-socks/
-- /2015/11/25/my-first-socks/
 slug: my-first-socks
 tags:
 - knitting

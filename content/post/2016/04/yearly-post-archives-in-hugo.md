@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2016/yearly-post-archives-in-hugo/
+- /2016/04/17/yearly-post-archives-in-hugo/
 created: '2024-02-24 05:20:51'
 date: 2016-04-17 00:00:00+00:00
 description: ''
 fname: pub.post.2016.04.yearly-post-archives-in-hugo
 id: 6furj5b0howcza4s9kd44e4
-redirects:
-- /post/2016/yearly-post-archives-in-hugo/
-- /2016/04/17/yearly-post-archives-in-hugo/
 slug: yearly-post-archives-in-hugo
 tags:
 - hugo

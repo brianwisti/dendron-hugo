@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/07/fred-brooks-was-right/
 created: '2024-08-25 15:33:58'
 date: 2020-07-13 08:30:19-07:00
 description: ''
 fname: pub.post.2020.07.fred-brooks-was-right
 id: pu32oldtzv29mfkn66zegot
-redirects:
-- /note/2020/07/fred-brooks-was-right/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104507362193241964
 tags:

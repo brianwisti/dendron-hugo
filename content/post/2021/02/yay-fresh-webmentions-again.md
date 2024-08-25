@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/02/yay-fresh-webmentions-again/
 created: '2024-02-12 00:28:57'
 date: 2021-02-23 00:00:00+00:00
 description: ''
 fname: pub.post.2021.02.yay-fresh-webmentions-again
 id: 7mdojg7y4rwew4gaimakfis
-redirects:
-- /note/2021/02/yay-fresh-webmentions-again/
 slug: yay-fresh-webmentions-again
 syndication:
   mastodon: https://hackers.town/@randomgeek/105784645355893753

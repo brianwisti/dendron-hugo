@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/105/useful-overview-of-neurodiversity/
+- /note/2020/04/useful-overview-of-neurodiversity/
 created: '2024-02-13 18:16:25'
 date: 2020-04-14 00:00:00+00:00
 description: ''
 fname: pub.post.2020.04.useful-overview-of-neurodiversity
 id: tslmi93r2uv5ihkzllk1ee8
-redirects:
-- /note/2020/105/useful-overview-of-neurodiversity/
-- /note/2020/04/useful-overview-of-neurodiversity/
 slug: useful-overview-of-neurodiversity
 syndication:
   mastodon: https://hackers.town/@randomgeek/103999000564903846

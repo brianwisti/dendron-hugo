@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2005/01/04_perl-babysteps.html
+- /post/2005/perl-babysteps/
+- /2005/01/04/perl-babysteps/
 created: '2024-02-16 18:12:59'
 date: 2005-01-04 00:00:00+00:00
 description: ''
 fname: pub.post.2005.01.perl-babysteps
 id: mw0ofedm5dltl30ifo39lpw
-redirects:
-- /coolnamehere/2005/01/04_perl-babysteps.html
-- /post/2005/perl-babysteps/
-- /2005/01/04/perl-babysteps/
 slug: perl-babysteps
 tags:
 - perl

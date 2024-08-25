@@ -1,13 +1,13 @@
 ---
+aliases:
+- /tools/2014/08/06_mongo-vagrant-connect.html
+- /post/2014/mongo-vagrant-connect/
+- /2014/08/06/connect-to-mongodb-on-a-vagrant-box-from-the-host/
 created: '2024-02-22 17:40:36'
 date: 2014-08-06 00:00:00+00:00
 description: ''
 fname: pub.post.2014.08.connect-to-mongodb-on-a-vagrant-box-from-the-host
 id: voeg1d76wxs24asxge3mk9x
-redirects:
-- /tools/2014/08/06_mongo-vagrant-connect.html
-- /post/2014/mongo-vagrant-connect/
-- /2014/08/06/connect-to-mongodb-on-a-vagrant-box-from-the-host/
 slug: connect-to-mongodb-on-a-vagrant-box-from-the-host
 tags:
 - vagrant

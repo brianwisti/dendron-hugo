@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2012/08/20_oh-yeah-ryan-davis-is-awesome.html
+- /post/2012/oh-yeah-ryan-davis-is-awesome/
+- /2012/08/20/oh-yeah-ryan-davis-is-awesome/
 created: '2024-02-22 15:04:33'
 date: 2012-08-20 00:00:00+00:00
 description: ''
 fname: pub.post.2012.08.oh-yeah-ryan-davis-is-awesome
 id: 8gj5lo08ejognjhx2xjg8xt
-redirects:
-- /blogspot/2012/08/20_oh-yeah-ryan-davis-is-awesome.html
-- /post/2012/oh-yeah-ryan-davis-is-awesome/
-- /2012/08/20/oh-yeah-ryan-davis-is-awesome/
 slug: oh-yeah-ryan-davis-is-awesome
 tags:
 - blogspot

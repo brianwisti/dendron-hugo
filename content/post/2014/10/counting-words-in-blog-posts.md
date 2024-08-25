@@ -1,13 +1,13 @@
 ---
+aliases:
+- /programming/2014/10/02_counting-words.html
+- /post/2014/counting-words/
+- /2014/10/02/counting-words-in-blog-posts/
 created: '2024-02-22 18:00:33'
 date: 2014-10-02 00:00:00+00:00
 description: Using Ruby to track my verbosity
 fname: pub.post.2014.10.counting-words-in-blog-posts
 id: z45ygonvy4csjtry7vlzope
-redirects:
-- /programming/2014/10/02_counting-words.html
-- /post/2014/counting-words/
-- /2014/10/02/counting-words-in-blog-posts/
 slug: counting-words-in-blog-posts
 tags:
 - ruby

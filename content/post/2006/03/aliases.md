@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2006/03/01_aliases.html
+- /post/2006/aliases/
+- /2006/03/01/aliases/
 created: '2024-02-17 23:39:09'
 date: 2006-03-01 00:00:00+00:00
 description: ''
 fname: pub.post.2006.03.aliases
 id: xzgx2znjkrq2i3sstt7ylqg
-redirects:
-- /blogspot/2006/03/01_aliases.html
-- /post/2006/aliases/
-- /2006/03/01/aliases/
 slug: aliases
 tags:
 - ruby

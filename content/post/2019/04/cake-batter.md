@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2019/04/10/cake-batter/
 created: '2024-03-26 04:48:14'
 date: 2019-04-10
 description: Getting the doodle time in.
 fname: pub.post.2019.04.cake-batter
 id: subo2msvjh2uqc7g69u3zdl
-redirects:
-- /2019/04/10/cake-batter/
 slug: cake-batter
 syndication:
   mastodon: https://hackers.town/@randomgeek/101905230728697448

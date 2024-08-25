@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/01/02/taskwarrior-due-dates/
 created: '2024-02-26 03:59:29'
 date: 2018-01-02 00:00:00+00:00
 description: ''
 fname: pub.post.2018.01.taskwarrior-due-dates
 id: vdkadkwwm47vssx64bc8pyn
-redirects:
-- /2018/01/02/taskwarrior-due-dates/
 series:
 - Taskwarrior Babysteps
 slug: taskwarrior-due-dates

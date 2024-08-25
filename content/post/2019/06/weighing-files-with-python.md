@@ -1,4 +1,6 @@
 ---
+aliases:
+- /2019/06/01/weighing-files-with-python/
 created: '2024-04-01 22:05:48'
 date: 2019-06-01
 description: 'Before optimizing site file sizes, I should see if I need to.
@@ -6,8 +8,6 @@ description: 'Before optimizing site file sizes, I should see if I need to.
   '
 fname: pub.post.2019.06.weighing-files-with-python
 id: nhl644z2tzjkpyrp4y5nn79
-redirects:
-- /2019/06/01/weighing-files-with-python/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102199106551447993
 tags:

@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2009/09/21_perl-hacks-in-my-workspace.html
+- /post/2009/perl-hacks-in-my-workspace/
+- /2009/09/21/perl-hacks-in-my-workspace/
 created: '2024-02-20 05:24:07'
 date: 2009-09-21 00:00:00+00:00
 description: ''
 fname: pub.post.2009.09.perl-hacks-in-my-workspace
 id: yruv0utivv2h7hvauykollh
-redirects:
-- /coolnamehere/2009/09/21_perl-hacks-in-my-workspace.html
-- /post/2009/perl-hacks-in-my-workspace/
-- /2009/09/21/perl-hacks-in-my-workspace/
 slug: perl-hacks-in-my-workspace
 tags:
 - perl

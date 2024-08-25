@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2019/194/6-days-21-hours-30-minutes-to-home/
 created: '2024-04-02 22:48:38'
 date: 2019-07-13
 description: ''
 fname: pub.post.2019.07.6-days-21-hours-30-minutes-to-home
 id: tns2sjy6ln2422uftpz2ycc
-redirects:
-- /note/2019/194/6-days-21-hours-30-minutes-to-home/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102436465377424371
 tags:

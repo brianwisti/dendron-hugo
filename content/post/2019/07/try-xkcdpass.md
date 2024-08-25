@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2019/07/30/try-xkcdpass/
 created: '2024-04-02 21:25:16'
 date: 2019-07-30
 description: In which I suggest a password generator
 fname: pub.post.2019.07.try-xkcdpass
 id: c29juemeazzfkbugpt5v7rs
-redirects:
-- /2019/07/30/try-xkcdpass/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102531070232066570
 tags:

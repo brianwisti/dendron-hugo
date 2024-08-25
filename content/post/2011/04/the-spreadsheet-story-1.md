@@ -1,14 +1,14 @@
 ---
+aliases:
+- /blogspot/2011/04/19_spreadsheet-story-1-general-idea.html
+- /post/2011/spreadsheet-story-1-general-idea/
+- /2011/04/19/the-spreadsheet-story-1/
 created: '2024-02-22 13:54:41'
 date: 2011-04-19 00:00:00+00:00
 description: A design experiment figuring out what a local homeless shelter needs
   to track chores.
 fname: pub.post.2011.04.the-spreadsheet-story-1
 id: d63pimmtzyzm40pbdh4peul
-redirects:
-- /blogspot/2011/04/19_spreadsheet-story-1-general-idea.html
-- /post/2011/spreadsheet-story-1-general-idea/
-- /2011/04/19/the-spreadsheet-story-1/
 slug: the-spreadsheet-story-1
 tags:
 - google-apps-script

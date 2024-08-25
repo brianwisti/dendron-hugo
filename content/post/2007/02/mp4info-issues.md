@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2007/02/12_mp4info-issues.html
+- /post/2007/mp4info-issues/
+- /2007/02/12/mp4info-issues/
 created: '2024-02-18 04:24:07'
 date: 2007-02-12 00:00:00+00:00
 description: ''
 fname: pub.post.2007.02.mp4info-issues
 id: 8xsgsqvcu6wc804kx6c6dmj
-redirects:
-- /blogspot/2007/02/12_mp4info-issues.html
-- /post/2007/mp4info-issues/
-- /2007/02/12/mp4info-issues/
 slug: mp4info-issues
 tags:
 - ruby

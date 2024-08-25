@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2017/hugo-archetype-templates/
+- /2017/07/01/hugo-archetype-templates/
 created: '2024-02-25 05:42:28'
 date: 2017-07-01 00:00:00+00:00
 description: ''
 fname: pub.post.2017.07.hugo-archetype-templates
 id: 7ol9eb9g3wzah34lwxc2lzw
-redirects:
-- /post/2017/hugo-archetype-templates/
-- /2017/07/01/hugo-archetype-templates/
 slug: hugo-archetype-templates
 tags:
 - hugo

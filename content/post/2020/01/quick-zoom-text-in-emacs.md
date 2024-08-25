@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2020/01/01/quick-zoom-text-in-emacs/
 created: '2024-02-12 15:17:00'
 date: 2020-01-01 00:00:00+00:00
 description: ''
 fname: pub.post.2020.01.quick-zoom-text-in-emacs
 id: 3ogn1jj93iur8c6xcavorxf
-redirects:
-- /2020/01/01/quick-zoom-text-in-emacs/
 slug: quick-zoom-text-in-emacs
 tags:
 - emacs

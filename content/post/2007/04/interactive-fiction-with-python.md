@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2007/04/19_interactive-fiction-with-python.html
+- /post/2007/interactive-fiction-with-python/
+- /2007/04/18/interactive-fiction-with-python/
 created: '2024-02-18 04:28:40'
 date: 2007-04-18 00:00:00+00:00
 description: ''
 fname: pub.post.2007.04.interactive-fiction-with-python
 id: 2gb2by1pky16c2i5w3luzuw
-redirects:
-- /coolnamehere/2007/04/19_interactive-fiction-with-python.html
-- /post/2007/interactive-fiction-with-python/
-- /2007/04/18/interactive-fiction-with-python/
 series:
 - Python Interactive Fiction
 slug: interactive-fiction-with-python

@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2006/04/30_reduce-reuse-recycle.html
+- /post/2006/reduce-reuse-recycle/
+- /2006/04/30/reduce-reuse-recycle-in-rebol/
 created: '2024-02-17 23:44:00'
 date: 2006-04-30 00:00:00+00:00
 description: ''
 fname: pub.post.2006.04.reduce-reuse-recycle-in-rebol
 id: 0srjy9sgiend4tgnxtkru3u
-redirects:
-- /coolnamehere/2006/04/30_reduce-reuse-recycle.html
-- /post/2006/reduce-reuse-recycle/
-- /2006/04/30/reduce-reuse-recycle-in-rebol/
 slug: reduce-reuse-recycle-in-rebol
 tags:
 - rebol

@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2019/04/14/psychedelic-playing-card/
+- /post/2019/04/psychedelic-playing-card/
 created: '2024-03-26 04:49:18'
 date: 2019-04-14
 description: ''
 fname: pub.post.2019.04.psychedelic-playing-card
 id: n790zyg3y6uq6f2o542t307
-redirects:
-- /2019/04/14/psychedelic-playing-card/
-- /post/2019/04/psychedelic-playing-card/
 slug: psychedelic-playing-card
 syndication:
   mastodon: https://hackers.town/@randomgeek/101928306169432164

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /post/2020/06/my-git-cli-windows-setup/
 created: '2024-08-25 15:19:02'
 date: '2020-06-19T05:55:00.000Z'
 description: ''
 fname: pub.post.2020.06.my-git-cli-windows-setup
 id: sh9t7ermmyg5yacnbnj7zlq
-redirects:
-- /post/2020/06/my-git-cli-windows-setup/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104369116448743323
 tags:

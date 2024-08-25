@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/3/noncommercial-only-licenses-are-hard/
+- /note/2020/01/noncommercial-only-licenses-are-hard/
 created: '2024-02-12 15:16:16'
 date: 2020-01-03 00:00:00+00:00
 description: ''
 fname: pub.post.2020.01.noncommercial-only-licenses-are-hard
 id: tg77rbgwucj4iul13hyizsu
-redirects:
-- /note/2020/3/noncommercial-only-licenses-are-hard/
-- /note/2020/01/noncommercial-only-licenses-are-hard/
 slug: noncommercial-only-licenses-are-hard
 tags:
 - licensing

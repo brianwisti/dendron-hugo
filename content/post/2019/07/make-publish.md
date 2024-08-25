@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2019/192/make-publish/
+- /note/2019/07/make-publish/
 created: '2024-04-02 21:19:10'
 date: 2019-07-11
 description: ''
 fname: pub.post.2019.07.make-publish
 id: i3eqhrjp0voaers7l2i4nvi
-redirects:
-- /note/2019/192/make-publish/
-- /note/2019/07/make-publish/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102426606577121177
 tags:

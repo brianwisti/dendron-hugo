@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/09/work-break-with-eleventy/
 created: '2024-08-25 15:47:54'
 date: 2020-09-19 13:10:16-07:00
 description: ''
 fname: pub.post.2020.09.work-break-with-eleventy
 id: jraljsu5lm1vva7li78rsdl
-redirects:
-- /note/2020/09/work-break-with-eleventy/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104893431146190835
 tags:

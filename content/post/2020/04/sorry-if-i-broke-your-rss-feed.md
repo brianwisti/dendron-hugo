@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/04/sorry-if-i-broke-your-rss-feed/
 created: '2024-02-13 17:56:11'
 date: 2020-04-30 00:00:00+00:00
 description: ''
 fname: pub.post.2020.04.sorry-if-i-broke-your-rss-feed
 id: kh6l95m31j367li8ubfgyuz
-redirects:
-- /note/2020/04/sorry-if-i-broke-your-rss-feed/
 slug: sorry-if-i-broke-your-rss-feed
 syndication:
   mastodon: https://hackers.town/@randomgeek/104091857621659423

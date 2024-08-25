@@ -1,13 +1,13 @@
 ---
+aliases:
+- /craft/2016/my-twin-rib-socks/
+- /2016/01/30/my-twin-rib-socks/
 created: '2024-02-24 03:54:25'
 date: 2016-01-30 00:00:00+00:00
 description: Took me a couple months because I started a pair for my mom in the middle
   of making this pair.
 fname: pub.post.2016.01.my-twin-rib-socks
 id: 3zo8i8xaodp041f1fjx7t7w
-redirects:
-- /craft/2016/my-twin-rib-socks/
-- /2016/01/30/my-twin-rib-socks/
 slug: my-twin-rib-socks
 tags:
 - knitting

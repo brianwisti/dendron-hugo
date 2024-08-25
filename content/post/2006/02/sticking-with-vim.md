@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2006/02/12_sticking-with-vim.html
+- /post/2006/sticking-with-vim/
+- /2006/02/12/sticking-with-vim/
 created: '2024-02-17 21:20:02'
 date: 2006-02-12 00:00:00+00:00
 description: ''
 fname: pub.post.2006.02.sticking-with-vim
 id: z9qi811j0mruut9s6g2k9er
-redirects:
-- /blogspot/2006/02/12_sticking-with-vim.html
-- /post/2006/sticking-with-vim/
-- /2006/02/12/sticking-with-vim/
 slug: sticking-with-vim
 tags:
 - 43-things

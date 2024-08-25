@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2019/03/19/garden-mandala/
 created: '2024-03-26 04:44:14'
 date: 2019-03-19
 description: A Samsung Note 9 means my phone drawing has been upgraded.
 fname: pub.post.2019.03.garden-mandala
 id: 23c76rpkoainzh5uk3e1ybp
-redirects:
-- /2019/03/19/garden-mandala/
 slug: garden-mandala
 syndication:
   mastodon: https://hackers.town/@randomgeek/101781261652356567

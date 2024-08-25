@@ -1,13 +1,13 @@
 ---
+aliases:
+- /emacs/2014/05/15_my-new-new-new-site.html
+- /post/2014/my-new-new-new-site/
+- /2014/05/15/my-new-new-new-site/
 created: '2024-02-22 16:45:48'
 date: 2014-05-15 00:00:00+00:00
 description: ''
 fname: pub.post.2014.05.my-new-new-new-site
 id: ku8uislp5du570yyfxw3dh9
-redirects:
-- /emacs/2014/05/15_my-new-new-new-site.html
-- /post/2014/my-new-new-new-site/
-- /2014/05/15/my-new-new-new-site/
 slug: my-new-new-new-site
 tags:
 - site

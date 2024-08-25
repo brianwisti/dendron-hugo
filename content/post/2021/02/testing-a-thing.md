@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/02/testing-a-thing/
 created: '2024-02-11 23:55:59'
 date: 2021-02-14 00:00:00+00:00
 description: ''
 fname: pub.post.2021.02.testing-a-thing
 id: cl9uih8e19xbez4iwthsmj8
-redirects:
-- /note/2021/02/testing-a-thing/
 slug: testing-a-thing
 syndication:
   dev-to: https://dev.to/brianwisti/note-testing-a-thing-ad3

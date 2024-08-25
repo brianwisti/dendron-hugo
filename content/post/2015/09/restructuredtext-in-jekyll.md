@@ -1,13 +1,13 @@
 ---
+aliases:
+- /tools/2015/09/08_restructuredtext-in-jekyll.html
+- /post/2015/restructuredtext-in-jekyll/
+- /2015/09/08/restructuredtext-in-jekyll/
 created: '2024-02-23 13:39:23'
 date: 2015-09-08 00:00:00+00:00
 description: I can write Jekyll posts with reStructuredText now.
 fname: pub.post.2015.09.restructuredtext-in-jekyll
 id: wg9bz0ku83m8ilphq839ltb
-redirects:
-- /tools/2015/09/08_restructuredtext-in-jekyll.html
-- /post/2015/restructuredtext-in-jekyll/
-- /2015/09/08/restructuredtext-in-jekyll/
 slug: restructuredtext-in-jekyll
 tags:
 - jekyll

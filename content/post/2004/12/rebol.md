@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2004/12/22_rebol.html
+- /post/2004/rebol/
+- /2004/12/22/rebol/
 created: '2024-02-11 05:51:23'
 date: 2004-12-22 00:00:00+00:00
 description: ''
 fname: pub.post.2004.12.rebol
 id: ir2d6d824pa8ulkbc8rtrcr
-redirects:
-- /coolnamehere/2004/12/22_rebol.html
-- /post/2004/rebol/
-- /2004/12/22/rebol/
 slug: rebol
 tags:
 - rebol

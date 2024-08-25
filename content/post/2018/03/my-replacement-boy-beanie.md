@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/03/18/my-replacement-boy-beanie/
 created: '2024-02-26 04:20:34'
 date: 2018-03-18 00:00:00+00:00
 description: ''
 fname: pub.post.2018.03.my-replacement-boy-beanie
 id: bcegdsle0ebt5ibioa3ody2
-redirects:
-- /2018/03/18/my-replacement-boy-beanie/
 slug: my-replacement-boy-beanie
 tags:
 - crochet

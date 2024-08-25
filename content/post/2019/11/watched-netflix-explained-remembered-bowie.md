@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2019/306/watched-netflix-explained-remembered-bowie/
+- /note/2019/11/watched-netflix-explained-remembered-bowie/
 created: '2024-02-10 14:22:11'
 date: 2019-11-03 03:03:21+00:00
 description: ''
 fname: pub.post.2019.11.watched-netflix-explained-remembered-bowie
 id: c7ykibgjwh69it4z27c09t7
-redirects:
-- /note/2019/306/watched-netflix-explained-remembered-bowie/
-- /note/2019/11/watched-netflix-explained-remembered-bowie/
 slug: watched-netflix-explained-remembered-bowie
 syndication:
   mastodon: https://hackers.town/@randomgeek/103071987241618066

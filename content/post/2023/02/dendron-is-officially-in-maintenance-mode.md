@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:33:18'
 date: 2023-02-08 00:00:00+00:00
 description: I'm gonna keep using it
@@ -12,7 +14,7 @@ tags:
 - second-brain
 - dendron
 title: Dendron Is Officially in Maintenance Mode
-updated: '2024-08-07 19:13:26'
+updated: '2024-08-25 18:25:23'
 ---
 
 ![Visual Studio Code with Dendron active](/assets/img/2023/cover-2023-02-08.png "Dendron notes from Graceful.Dev Reproducible Development with Containers")

@@ -1,4 +1,6 @@
 ---
+categories:
+- note
 created: '2024-02-10 17:32:04'
 date: 2023-03-24
 description: ''
@@ -11,7 +13,7 @@ tags:
 - quotes
 - culture
 title: Cory Doctorow on the Split Appeal of Tech
-updated: '2024-04-05 03:24:36'
+updated: '2024-08-25 18:25:02'
 ---
 
 > For many technologists, the allure of digital tools is the possibility of emancipation, a world where we can collaborate to make things without bosses or masters. But for the bosses and masters, automation's allure is the possibility of getting rid of workers, shattering their power, and replacing them with meeker, cheaper, more easily replaced labor.

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/12/31/hopepunk-for-2019/
 created: '2024-03-06 21:00:39'
 date: 2018-12-31
 description: ''
 fname: pub.post.2018.12.hopepunk-for-2019
 id: yv6fka1od60vxjr7bvcaw69
-redirects:
-- /2018/12/31/hopepunk-for-2019/
 slug: hopepunk-for-2019
 tags:
 - personal

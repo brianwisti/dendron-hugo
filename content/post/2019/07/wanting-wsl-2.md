@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2019/197/wanting-wsl-2/
+- /note/2019/07/wanting-wsl-2/
 created: '2024-04-02 21:31:00'
 date: 2019-07-16
 description: ''
 fname: pub.post.2019.07.wanting-wsl-2
 id: 30h6b2wnw26suhyragttuzb
-redirects:
-- /note/2019/197/wanting-wsl-2/
-- /note/2019/07/wanting-wsl-2/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102453426272533557
 tags:

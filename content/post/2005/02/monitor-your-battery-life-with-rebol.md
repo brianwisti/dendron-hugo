@@ -1,12 +1,12 @@
 ---
+aliases:
+- /coolnamehere/2005/02/28_monitor-your-battery-life.html
+- /post/2005/monitor-your-battery-life/
 created: '2024-02-16 18:25:46'
 date: 2005-02-28 00:00:00+00:00
 description: ''
 fname: pub.post.2005.02.monitor-your-battery-life-with-rebol
 id: ruy8z9ey2z4a2bv1xe53h8c
-redirects:
-- /coolnamehere/2005/02/28_monitor-your-battery-life.html
-- /post/2005/monitor-your-battery-life/
 slug: monitor-your-battery-life-with-rebol
 tags:
 - rebol

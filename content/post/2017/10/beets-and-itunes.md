@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2017/10/01/beets-and-itunes/
 created: '2024-02-25 05:51:09'
 date: 2017-10-01 00:00:00+00:00
 description: beets and AppleScript helped me fix my incorrect track information
 fname: pub.post.2017.10.beets-and-itunes
 id: h1jywnsfd6i6q3rgrw8ix30
-redirects:
-- /2017/10/01/beets-and-itunes/
 slug: beets-and-itunes
 tags:
 - music

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/10/i-added-this-note-from-org-mode/
 created: '2024-08-25 15:50:08'
 date: 2020-10-24 18:26:00-07:00
 description: ''
 fname: pub.post.2020.10.i-added-this-note-from-org-mode
 id: xz16lh6104ovx4g1877gqyo
-redirects:
-- /note/2020/10/i-added-this-note-from-org-mode/
 syndication:
   mastodon: https://hackers.town/@randomgeek/105092928276510026
 tags:

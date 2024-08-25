@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2009/07/11_01-getting-started.html
+- /post/2009/01-getting-started/
+- /2009/07/12/parrot-babysteps-01-getting-started/
 created: '2024-02-19 02:26:21'
 date: 2009-07-12 00:00:00+00:00
 description: ''
 fname: pub.post.2009.07.parrot-babysteps-01-getting-started
 id: liwyhav6z1cy53tsihlkp0l
-redirects:
-- /coolnamehere/2009/07/11_01-getting-started.html
-- /post/2009/01-getting-started/
-- /2009/07/12/parrot-babysteps-01-getting-started/
 series:
 - Parrot Babysteps
 slug: parrot-babysteps-01-getting-started

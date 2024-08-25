@@ -1,13 +1,13 @@
 ---
+aliases:
+- /marginalia/2015/03/23_coolnamehere-ported.html
+- /post/2015/coolnamehere-ported/
+- /2015/03/23/coolnamehere-content-update/
 created: '2024-02-23 13:07:11'
 date: 2015-03-23 00:00:00+00:00
 description: The really old pages are now really old posts
 fname: pub.post.2015.03.coolnamehere-content-update
 id: oj38ztcniu87bf90crq96iv
-redirects:
-- /marginalia/2015/03/23_coolnamehere-ported.html
-- /post/2015/coolnamehere-ported/
-- /2015/03/23/coolnamehere-content-update/
 slug: coolnamehere-content-update
 tags:
 - site

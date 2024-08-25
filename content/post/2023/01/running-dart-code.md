@@ -1,7 +1,9 @@
 ---
+categories:
+- post
 created: '2024-02-10 17:39:20'
 date: 2023-01-17 00:00:00+00:00
-description: Learning to run Dart so I can walk with it — or something
+description: ''
 fname: pub.post.2023.01.running-dart-code
 id: u5lpmkhacp59msoxlpwec7x
 slug: running-dart-code
@@ -11,8 +13,12 @@ syndication:
 tags:
 - dart
 title: Running Dart Code
-updated: '2024-08-03 03:25:52'
+updated: '2024-08-25 18:26:03'
 ---
+
+Learning to run Dart so I can walk with it — or something
+
+<!--more-->
 
 I haven't played with [Dart](https://dart.dev) since – oh, I don't know, 2013 or so. It was nice, but nothing felt compelling compared to the languages I already used. I stopped hearing about Dart when I stopped using Google+.
 

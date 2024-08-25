@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/11/logseq-sure-does-work-hard-at-being-friendly/
 created: '2024-02-12 04:45:54'
 date: 2021-11-14 00:00:00+00:00
 description: ''
 fname: pub.post.2021.11.logseq-sure-does-work-hard-at-being-friendly
 id: rt1ts4xbxdarltfw6i4o0d4
-redirects:
-- /note/2021/11/logseq-sure-does-work-hard-at-being-friendly/
 slug: logseq-sure-does-work-hard-at-being-friendly
 syndication:
   mastodon: https://hackers.town/@randomgeek/107277879832911179

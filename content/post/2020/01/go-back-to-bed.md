@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/16/go-back-to-bed/
+- /note/2020/01/go-back-to-bed/
 created: '2024-02-12 15:15:17'
 date: 2020-01-16 00:00:00+00:00
 description: ''
 fname: pub.post.2020.01.go-back-to-bed
 id: h4gyy1jpqn5h5108wt53rzq
-redirects:
-- /note/2020/16/go-back-to-bed/
-- /note/2020/01/go-back-to-bed/
 slug: go-back-to-bed
 tags:
 - site

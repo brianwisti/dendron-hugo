@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/05/here-have-a-drawing/
 created: '2024-08-25 14:37:29'
 date: 2020-05-28 16:49:33-07:00
 description: ''
 fname: pub.post.2020.05.here-have-a-drawing
 id: ydmoqogdu109nhyo4oh4su6
-redirects:
-- /note/2020/05/here-have-a-drawing/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104248822063918539
 tags:

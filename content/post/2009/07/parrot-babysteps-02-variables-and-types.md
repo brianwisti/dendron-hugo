@@ -1,12 +1,12 @@
 ---
+aliases:
+- /coolnamehere/2009/07/11_02-variables-and-types.html
+- /post/2009/02-variables-and-types/
 created: '2024-02-19 19:36:56'
 date: 2009-07-11 00:00:00+00:00
 description: ''
 fname: pub.post.2009.07.parrot-babysteps-02-variables-and-types
 id: q350n88f868d85yv0v3teyl
-redirects:
-- /coolnamehere/2009/07/11_02-variables-and-types.html
-- /post/2009/02-variables-and-types/
 series:
 - Parrot Babysteps
 slug: parrot-babysteps-02-variables-and-types

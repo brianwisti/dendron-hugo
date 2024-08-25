@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2017/space-thing/
+- /2017/06/03/space-thing/
 created: '2024-02-25 00:08:06'
 date: 2017-06-03 00:00:00+00:00
 description: ''
 fname: pub.post.2017.06.space-thing
 id: yuhjb2vgcnq998ijlzyf2nr
-redirects:
-- /craft/2017/space-thing/
-- /2017/06/03/space-thing/
 slug: space-thing
 tags:
 - drawing

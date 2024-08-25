@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2020/02/23/sort-of-tufte-css/
+- /post/2020/02/sort-of-tufte-css/
 created: '2024-02-13 14:47:28'
 date: 2020-02-23 00:00:00+00:00
 description: I tried something new with my site style.
 fname: pub.post.2020.02.sort-of-tufte-css
 id: hd6z2elvw50y8pjdowcsndv
-redirects:
-- /2020/02/23/sort-of-tufte-css/
-- /post/2020/02/sort-of-tufte-css/
 slug: sort-of-tufte-css
 tags:
 - css

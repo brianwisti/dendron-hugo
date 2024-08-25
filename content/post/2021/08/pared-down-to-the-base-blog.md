@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/08/pared-down-to-the-base-blog/
 created: '2024-02-12 03:59:28'
 date: 2021-08-21 00:00:00+00:00
 description: ''
 fname: pub.post.2021.08.pared-down-to-the-base-blog
 id: 60inmluab028owrwshjhs9u
-redirects:
-- /note/2021/08/pared-down-to-the-base-blog/
 slug: pared-down-to-the-base-blog
 syndication:
   mastodon: https://hackers.town/@randomgeek/106798500227834335

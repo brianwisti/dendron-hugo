@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/05/shaved-3-seconds-off-site-build-time/
 created: '2024-08-25 14:48:02'
 date: 2020-05-12 19:11:00-07:00
 description: ''
 fname: pub.post.2020.05.shaved-3-seconds-off-site-build-time
 id: o7rszgs0htw94dqwpffmj3d
-redirects:
-- /note/2020/05/shaved-3-seconds-off-site-build-time/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104158790339266350
 tags:

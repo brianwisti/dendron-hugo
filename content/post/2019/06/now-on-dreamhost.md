@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2019/06/16/now-on-dreamhost/
+- /post/2019/06/now-on-dreamhost/
 created: '2024-04-01 22:05:12'
 date: 2019-06-16
 description: ''
 fname: pub.post.2019.06.now-on-dreamhost
 id: 1v9lac0tos4hiocra6k4yim
-redirects:
-- /2019/06/16/now-on-dreamhost/
-- /post/2019/06/now-on-dreamhost/
 tags:
 - site
 - marginalia

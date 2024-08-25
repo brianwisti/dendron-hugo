@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2002/02/11_stalking-star-wars-fans.html
+- /post/2002/stalking-star-wars-fans/
+- /2002/02/11/stalking-star-wars-fans/
 created: '2024-02-10 23:11:32'
 date: 2002-02-11 00:00:00+00:00
 description: In which I visit folks waiting to see "Attack of the Clones"
 fname: pub.post.2002.02.stalking-star-wars-fans
 id: 00dy747p6glsci36i3fukxj
-redirects:
-- /coolnamehere/2002/02/11_stalking-star-wars-fans.html
-- /post/2002/stalking-star-wars-fans/
-- /2002/02/11/stalking-star-wars-fans/
 slug: stalking-star-wars-fans
 tags:
 - babblings

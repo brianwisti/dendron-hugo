@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2019/182/seattles-chinatown-gate/
 created: '2024-04-02 21:23:03'
 date: 2019-07-01
 description: ''
 fname: pub.post.2019.07.seattles-chinatown-gate
 id: gx99fsadd0v91hhnyuikmx6
-redirects:
-- /note/2019/182/seattles-chinatown-gate/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102370572085841582
 tags:

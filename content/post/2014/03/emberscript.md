@@ -1,13 +1,13 @@
 ---
+aliases:
+- /tools/2014/03/26_emberscript.html
+- /post/2014/emberscript/
+- /2014/03/26/emberscript/
 created: '2024-02-22 16:27:21'
 date: 2014-03-26 00:00:00+00:00
 description: ''
 fname: pub.post.2014.03.emberscript
 id: jgc13n2jb1taoz9pu5mppu8
-redirects:
-- /tools/2014/03/26_emberscript.html
-- /post/2014/emberscript/
-- /2014/03/26/emberscript/
 slug: emberscript
 tags:
 - javascript

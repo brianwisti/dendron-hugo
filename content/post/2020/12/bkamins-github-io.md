@@ -1,11 +1,11 @@
 ---
+aliases:
+- /bookmark/2020/12/bkamins-github-io/
 created: '2024-08-25 16:04:28'
 date: 2020-12-23 00:00:00-08:00
 description: ''
 fname: pub.post.2020.12.bkamins-github-io
 id: 6d9249eorkagjho5iby6ydn
-redirects:
-- /bookmark/2020/12/bkamins-github-io/
 tags:
 - julialang
 title: Project dependencies in Julia

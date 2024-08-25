@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2016/chibi-rainyday-superstar/
+- /2016/09/01/chibi-rainyday-superstar/
 created: '2024-02-24 05:36:59'
 date: 2016-09-01 00:00:00+00:00
 description: ''
 fname: pub.post.2016.09.chibi-rainyday-superstar
 id: ukfsd970jnwfpyvmr7ip1av
-redirects:
-- /craft/2016/chibi-rainyday-superstar/
-- /2016/09/01/chibi-rainyday-superstar/
 slug: chibi-rainyday-superstar
 tags:
 - drawing

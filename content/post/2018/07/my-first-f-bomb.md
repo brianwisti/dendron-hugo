@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/07/01/my-first-f-bomb/
 created: '2024-03-06 15:07:23'
 date: 2018-07-01
 description: ''
 fname: pub.post.2018.07.my-first-f-bomb
 id: fb72ou3xmqxzt4c96lj5dar
-redirects:
-- /2018/07/01/my-first-f-bomb/
 slug: my-first-f-bomb
 tags:
 - knitting

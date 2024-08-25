@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2002/06/02_pagetemplate.html
+- /post/2002/pagetemplate/
+- /2002/06/02/pagetemplate/
 created: '2024-02-17 21:10:12'
 date: 2002-06-02 00:00:00+00:00
 description: ''
 fname: pub.post.2002.06.pagetemplate
 id: 4fs4c77cd3uc3c6xdyuud2v
-redirects:
-- /coolnamehere/2002/06/02_pagetemplate.html
-- /post/2002/pagetemplate/
-- /2002/06/02/pagetemplate/
 slug: pagetemplate
 tags:
 - pagetemplate

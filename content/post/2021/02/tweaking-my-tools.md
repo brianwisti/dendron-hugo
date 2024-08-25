@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/02/tweaking-my-tools/
 created: '2024-02-12 00:12:37'
 date: 2021-02-16 00:00:00+00:00
 description: ''
 fname: pub.post.2021.02.tweaking-my-tools
 id: 78r85rt2amigvnfpc5c9kl5
-redirects:
-- /note/2021/02/tweaking-my-tools/
 slug: tweaking-my-tools
 syndication:
   dev-to: https://dev.to/brianwisti/note-tweaking-my-tools-3f6f

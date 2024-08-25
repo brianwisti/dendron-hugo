@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2006/03/17_learning-xml.html
+- /post/2006/learning-xml/
+- /2006/03/17/learning-xml/
 created: '2024-02-17 23:41:07'
 date: 2006-03-17 00:00:00+00:00
 description: ''
 fname: pub.post.2006.03.learning-xml
 id: 1oq3gv3qi10brori3bkbbyq
-redirects:
-- /coolnamehere/2006/03/17_learning-xml.html
-- /post/2006/learning-xml/
-- /2006/03/17/learning-xml/
 slug: learning-xml
 tags:
 - xml

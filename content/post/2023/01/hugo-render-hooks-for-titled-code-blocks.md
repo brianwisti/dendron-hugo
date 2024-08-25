@@ -1,20 +1,25 @@
 ---
+categories:
+- post
 created: '2024-02-10 17:41:16'
 date: 2023-01-19
-description: Captions more than titles, really. No problem. We'll fix it in post.
+description: ''
 fname: pub.post.2023.01.hugo-render-hooks-for-titled-code-blocks
 id: kbqr5fs05x5i9l3ujfndj7s
-slug: hugo-render-hooks-for-titled-code-blocks
 syndication:
   linkedin: https://www.linkedin.com/posts/brianwisti_hugo-render-hooks-for-titled-code-blocks-activity-7022000696434556928-PSRJ
   mastodon: https://hackers.town/@randomgeek/109718751383178761
 tags:
 - hugo
 title: Hugo Render Hooks for Titled Code Blocks
-updated: '2024-08-25 13:42:29'
+updated: '2024-08-25 18:26:54'
 ---
 
 ![titled code block](assets/img/2023/cover-2023-01-19.png "an illustrative example")
+
+Captions more than titles, really. No problem. We'll fix it in post.
+
+<!--more-->
 
 I like to label my code blocks, especially when they describe the contents of a specific file.
 

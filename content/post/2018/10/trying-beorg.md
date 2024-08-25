@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/10/14/trying-beorg/
 created: '2024-03-06 15:27:08'
 date: 2018-10-14
 description: The beorg iOS app has me playing with Org mode again
 fname: pub.post.2018.10.trying-beorg
 id: t2z9miwds71tbhicrui8ejb
-redirects:
-- /2018/10/14/trying-beorg/
 slug: trying-beorg
 tags:
 - orgconfig

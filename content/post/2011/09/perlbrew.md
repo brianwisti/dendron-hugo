@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2011/09/05_perlbrew.html
+- /post/2011/perlbrew/
+- /2011/09/05/perlbrew/
 created: '2024-02-22 14:11:46'
 date: 2011-09-05 00:00:00+00:00
 description: ''
 fname: pub.post.2011.09.perlbrew
 id: k6xfo7lkc091l0iapssy54x
-redirects:
-- /coolnamehere/2011/09/05_perlbrew.html
-- /post/2011/perlbrew/
-- /2011/09/05/perlbrew/
 slug: perlbrew
 tags:
 - perl

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2017/10/31/wellington-for-sass/
 created: '2024-02-25 05:54:31'
 date: 2017-10-31 00:00:00+00:00
 description: ''
 fname: pub.post.2017.10.wellington-for-sass
 id: y8p7sfyh4agmg303exzgp9m
-redirects:
-- /2017/10/31/wellington-for-sass/
 slug: wellington-for-sass
 tags:
 - site

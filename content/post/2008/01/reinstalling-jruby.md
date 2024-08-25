@@ -1,13 +1,13 @@
 ---
+aliases:
+- /blogspot/2008/01/02_reinstalling-jruby.html
+- /post/2008/reinstalling-jruby/
+- /2008/01/02/reinstalling-jruby/
 created: '2024-02-19 01:42:56'
 date: 2008-01-02 00:00:00+00:00
 description: ''
 fname: pub.post.2008.01.reinstalling-jruby
 id: uk5f7ak48kslwvlxmckh69c
-redirects:
-- /blogspot/2008/01/02_reinstalling-jruby.html
-- /post/2008/reinstalling-jruby/
-- /2008/01/02/reinstalling-jruby/
 slug: reinstalling-jruby
 tags:
 - blogspot

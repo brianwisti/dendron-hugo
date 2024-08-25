@@ -1,14 +1,14 @@
 ---
+aliases:
+- /tools/2015/07/19_making-a-jekyll-collection.html
+- /post/2015/making-a-jekyll-collection/
+- /2015/07/19/making-a-jekyll-collection/
+- /post/2015/07/making-a-jekyll-collection/
 created: '2024-02-12 00:03:31'
 date: 2015-07-19 00:00:00+00:00
 description: In which I try out Jekyll's experimental Collections
 fname: pub.post.2015.07.making-a-jekyll-collection
 id: sydjnbrv3biqekmti4p965o
-redirects:
-- /tools/2015/07/19_making-a-jekyll-collection.html
-- /post/2015/making-a-jekyll-collection/
-- /2015/07/19/making-a-jekyll-collection/
-- /post/2015/07/making-a-jekyll-collection/
 slug: making-a-jekyll-collection
 tags:
 - jekyll

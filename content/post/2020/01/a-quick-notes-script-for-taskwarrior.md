@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2020/01/12/a-quick-notes-script-for-taskwarrior/
 created: '2024-02-12 15:02:37'
 date: 2020-01-12 00:00:00+00:00
 description: ''
 fname: pub.post.2020.01.a-quick-notes-script-for-taskwarrior
 id: cig5a9v5f570hk589pxgs8i
-redirects:
-- /2020/01/12/a-quick-notes-script-for-taskwarrior/
 slug: a-quick-notes-script-for-taskwarrior
 tags:
 - taskwarrior

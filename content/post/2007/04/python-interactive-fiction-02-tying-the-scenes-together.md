@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2007/04/19_02-tying-the-scenes-together.html
+- /post/2007/02-tying-the-scenes-together/
+- /2007/04/20/python-interactive-fiction-02-tying-the-scenes-together/
 created: '2024-02-18 04:56:06'
 date: 2007-04-20 00:00:00+00:00
 description: ''
 fname: pub.post.2007.04.python-interactive-fiction-02-tying-the-scenes-together
 id: lre3f0xmoubrulm52dt1640
-redirects:
-- /coolnamehere/2007/04/19_02-tying-the-scenes-together.html
-- /post/2007/02-tying-the-scenes-together/
-- /2007/04/20/python-interactive-fiction-02-tying-the-scenes-together/
 series:
 - Python Interactive Fiction
 slug: python-interactive-fiction-02-tying-the-scenes-together

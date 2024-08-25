@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2017/12/16/taskwarrior/
+- /post/2017/12/taskwarrior/
 created: '2024-02-25 06:05:07'
 date: 2017-12-16 00:00:00+00:00
 description: ''
 fname: pub.post.2017.12.taskwarrior-babysteps
 id: 51m17r1tzgikhhnd3oi5ji0
-redirects:
-- /2017/12/16/taskwarrior/
-- /post/2017/12/taskwarrior/
 series:
 - Taskwarrior Babysteps
 slug: taskwarrior

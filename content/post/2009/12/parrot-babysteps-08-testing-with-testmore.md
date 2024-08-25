@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2009/12/16_08-testing-with-test-more.html
+- /post/2009/08-testing-with-test-more/
+- /2009/12/16/parrot-babysteps-08-testing-with-testmore/
 created: '2024-02-20 05:35:40'
 date: 2009-12-16 00:00:00+00:00
 description: ''
 fname: pub.post.2009.12.parrot-babysteps-08-testing-with-testmore
 id: 4b6o9o9dppipt0p2wu01d9u
-redirects:
-- /coolnamehere/2009/12/16_08-testing-with-test-more.html
-- /post/2009/08-testing-with-test-more/
-- /2009/12/16/parrot-babysteps-08-testing-with-testmore/
 series:
 - Parrot Babysteps
 slug: parrot-babysteps-08-testing-with-testmore

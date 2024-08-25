@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2018/09/30/cougar-mountain/
 created: '2024-03-06 15:19:58'
 date: 2018-09-30
 description: Last weekend I wandered the trails of Cougar Mountain Regional Wildland
   Park
 fname: pub.post.2018.09.cougar-mountain
 id: q6823h2hw73o4dci5p7bi5t
-redirects:
-- /2018/09/30/cougar-mountain/
 series:
 - sauntering
 slug: cougar-mountain

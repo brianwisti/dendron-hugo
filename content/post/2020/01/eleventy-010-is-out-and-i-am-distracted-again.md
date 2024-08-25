@@ -1,13 +1,13 @@
 ---
+aliases:
+- /note/2020/7/eleventy-0.10.0-is-out-and-i-am-distracted-again/
+- /note/2020/01/eleventy-0.10.0-is-out-and-i-am-distracted-again/
+- /note/2020/01/eleventy-010-is-out-and-i-am-distracted-again/
 created: '2024-02-12 15:13:58'
 date: 2020-01-07 00:00:00+00:00
 description: ''
 fname: pub.post.2020.01.eleventy-010-is-out-and-i-am-distracted-again
 id: qo9pte9mle0vjpgl6zfd0ig
-redirects:
-- /note/2020/7/eleventy-0.10.0-is-out-and-i-am-distracted-again/
-- /note/2020/01/eleventy-0.10.0-is-out-and-i-am-distracted-again/
-- /note/2020/01/eleventy-010-is-out-and-i-am-distracted-again/
 slug: eleventy-010-is-out-and-i-am-distracted-again
 tags:
 - eleventy

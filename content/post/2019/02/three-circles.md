@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2019/02/05/three-circles/
 created: '2024-03-26 04:39:23'
 date: 2019-02-05
 description: ''
 fname: pub.post.2019.02.three-circles
 id: rfdz1erh1g6qsuph7aaq95l
-redirects:
-- /2019/02/05/three-circles/
 slug: three-circles
 tags:
 - drawing

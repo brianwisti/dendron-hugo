@@ -1,13 +1,13 @@
 ---
+aliases:
+- /programming/2014/07/20_welcome-to-jekyll.html
+- /post/2014/welcome-to-jekyll/
+- /2014/07/26/welcome-to-jekyll/
 created: '2024-02-22 17:38:47'
 date: 2014-07-26 00:00:00+00:00
 description: ''
 fname: pub.post.2014.07.welcome-to-jekyll
 id: 4mdk5wbs7ur30x6oj0qrar0
-redirects:
-- /programming/2014/07/20_welcome-to-jekyll.html
-- /post/2014/welcome-to-jekyll/
-- /2014/07/26/welcome-to-jekyll/
 slug: welcome-to-jekyll
 tags:
 - site

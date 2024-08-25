@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2019/196/tmux-and-laundry-art/
 created: '2024-04-02 21:23:59'
 date: '2019-07-15T00:00:00.000Z'
 description: ''
 fname: pub.post.2019.07.tmux-and-laundry-art
 id: y9nklmsz4hhsz8k8wm2fuv6
-redirects:
-- /note/2019/196/tmux-and-laundry-art/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102448342849787216
 tags:

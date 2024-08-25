@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2019/189/roar/
+- /note/2019/07/roar/
 created: '2024-04-02 21:20:04'
 date: 2019-07-08
 description: ''
 fname: pub.post.2019.07.roar
 id: hrc0e577acf8s4cc2870cnx
-redirects:
-- /note/2019/189/roar/
-- /note/2019/07/roar/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102410295326879582
 tags:

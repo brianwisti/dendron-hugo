@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2022/01/reading-domesticate-your-badgers/
 created: '2024-02-11 13:20:50'
 date: 2022-01-20 00:00:00+00:00
 description: ''
 fname: pub.post.2022.01.reading-domesticate-your-badgers
 id: z8md2xkh5tzh9o09elvtz99
-redirects:
-- /note/2022/01/reading-domesticate-your-badgers/
 slug: reading-domesticate-your-badgers
 syndication:
   mastodon: https://hackers.town/@randomgeek/107659091398441430

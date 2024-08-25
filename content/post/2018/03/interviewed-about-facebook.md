@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/03/27/interviewed-about-facebook/
 created: '2024-02-26 04:18:15'
 date: 2018-03-27 00:00:00+00:00
 description: ''
 fname: pub.post.2018.03.interviewed-about-facebook
 id: 7eft8pmnitoqxlfc2dflemh
-redirects:
-- /2018/03/27/interviewed-about-facebook/
 slug: interviewed-about-facebook
 tags:
 - links

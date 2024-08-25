@@ -1,12 +1,12 @@
 ---
+aliases:
+- /2018/09/09/mount-si/
+- /post/2018/09/mount-si/
 created: '2024-03-06 15:22:03'
 date: 2018-09-09
 description: I sauntered up the main trail of Mount Si this weekend.
 fname: pub.post.2018.09.mount-si
 id: amwmgsiarrea2nmw3cd0f3r
-redirects:
-- /2018/09/09/mount-si/
-- /post/2018/09/mount-si/
 series:
 - sauntering
 slug: mount-si

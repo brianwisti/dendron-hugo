@@ -1,13 +1,13 @@
 ---
+aliases:
+- /emacs/2014/05/16_exporting-from-org-to-markdown.html
+- /post/2014/exporting-from-org-to-markdown/
+- /2014/05/16/exporting-from-org-to-markdown/
 created: '2024-02-22 16:38:25'
 date: 2014-05-16 00:00:00+00:00
 description: ''
 fname: pub.post.2014.05.exporting-from-org-to-markdown
 id: nyrwx01g9hn8n72dyqx55xd
-redirects:
-- /emacs/2014/05/16_exporting-from-org-to-markdown.html
-- /post/2014/exporting-from-org-to-markdown/
-- /2014/05/16/exporting-from-org-to-markdown/
 slug: exporting-from-org-to-markdown
 tags:
 - emacs

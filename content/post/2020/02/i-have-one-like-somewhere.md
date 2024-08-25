@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/49/i-have-one-like-somewhere/
+- /note/2020/02/i-have-one-like-somewhere/
 created: '2024-02-13 14:36:24'
 date: '2020-02-18T00:00:00.000Z'
 description: ''
 fname: pub.post.2020.02.i-have-one-like-somewhere
 id: a3p9r8dmji8sv7mg8zbe25a
-redirects:
-- /note/2020/49/i-have-one-like-somewhere/
-- /note/2020/02/i-have-one-like-somewhere/
 slug: i-have-one-like-somewhere
 tags:
 - indieweb

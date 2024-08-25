@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2020/03/31/listing-hugo-content-extensions-with-raku/
 created: '2024-02-11 15:26:41'
 date: 2020-03-31 21:33:29+00:00
 description: Twenty seconds to write a one-liner, and two days to think about it
 fname: pub.post.2020.03.listing-hugo-content-extensions-with-raku
 id: plfank26iwqt7zdjouyk2n7
-redirects:
-- /2020/03/31/listing-hugo-content-extensions-with-raku/
 slug: listing-hugo-content-extensions-with-raku
 syndication:
   mastodon: https://hackers.town/@randomgeek/103919841537181374

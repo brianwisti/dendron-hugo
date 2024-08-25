@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2019/184/i-stole-a-great-idea/
 created: '2024-04-02 21:14:51'
 date: 2019-07-03
 description: ''
 fname: pub.post.2019.07.i-stole-a-great-idea
 id: ix699pxte27e8czesyfv5lv
-redirects:
-- /note/2019/184/i-stole-a-great-idea/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102380546392209386
 tags:

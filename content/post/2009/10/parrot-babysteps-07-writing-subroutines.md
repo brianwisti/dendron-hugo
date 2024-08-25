@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2009/10/06_07-writing-subroutines.html
+- /post/2009/07-writing-subroutines/
+- /2009/10/06/parrot-babysteps-07-writing-subroutines/
 created: '2024-02-20 05:31:07'
 date: 2009-10-06 00:00:00+00:00
 description: ''
 fname: pub.post.2009.10.parrot-babysteps-07-writing-subroutines
 id: qbscmatcbcg36u5r0bw8c3f
-redirects:
-- /coolnamehere/2009/10/06_07-writing-subroutines.html
-- /post/2009/07-writing-subroutines/
-- /2009/10/06/parrot-babysteps-07-writing-subroutines/
 series:
 - Parrot Babysteps
 slug: parrot-babysteps-07-writing-subroutines

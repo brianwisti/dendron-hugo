@@ -1,11 +1,11 @@
 ---
+aliases:
+- /post/2020/07/tangling-code-from-hugo-content-with-raku/
 created: '2024-02-11 05:42:21'
 date: 2020-07-08 00:00:00+00:00
 description: ''
 fname: pub.post.2020.07.tangling-code-from-hugo-content-with-raku
 id: lmjmw8261xkme9dj97tp4oi
-redirects:
-- /post/2020/07/tangling-code-from-hugo-content-with-raku/
 slug: tangling-code-from-hugo-content-with-raku
 syndication:
   mastodon: https://hackers.town/@randomgeek/104482085213153476

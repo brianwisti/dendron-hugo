@@ -1,11 +1,11 @@
 ---
+aliases:
+- /post/2021/10/using-markdown-it-in-python/
 created: '2024-02-12 04:28:49'
 date: 2021-10-16 00:00:00+00:00
 description: Figuring out just enough markdown-it-py to write this post
 fname: pub.post.2021.10.using-markdown-it-in-python
 id: llunutwil2w4jrlhnxi92hj
-redirects:
-- /post/2021/10/using-markdown-it-in-python/
 slug: using-markdown-it-in-python
 syndication:
   mastodon: https://hackers.town/@randomgeek/107115143562134107

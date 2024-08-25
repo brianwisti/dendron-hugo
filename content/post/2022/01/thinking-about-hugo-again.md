@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2022/01/thinking-about-hugo-again/
 created: '2024-02-11 13:33:39'
 date: 2022-01-26 00:00:00+00:00
 description: ''
 fname: pub.post.2022.01.thinking-about-hugo-again
 id: 43bmsra3fwihtz1tbijajkr
-redirects:
-- /note/2022/01/thinking-about-hugo-again/
 slug: thinking-about-hugo-again
 syndication:
   mastodon: https://hackers.town/@randomgeek/107693338693135857

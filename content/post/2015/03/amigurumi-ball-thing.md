@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2015/amigurumi-ball-thing/
+- /2015/03/08/amigurumi-ball-thing/
 created: '2024-02-22 18:21:50'
 date: 2015-03-08 00:00:00+00:00
 description: ''
 fname: pub.post.2015.03.amigurumi-ball-thing
 id: 4p43vt2cbhulyggj9i621gw
-redirects:
-- /craft/2015/amigurumi-ball-thing/
-- /2015/03/08/amigurumi-ball-thing/
 slug: amigurumi-ball-thing
 tags:
 - crochet

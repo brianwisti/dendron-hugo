@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2007/06/16_perldoc.html
+- /post/2007/perldoc/
+- /2007/06/16/perldoc/
 created: '2024-02-18 05:04:46'
 date: 2007-06-16 00:00:00+00:00
 description: ''
 fname: pub.post.2007.06.perldoc
 id: rqtia6vm3oe5bhc9xwith53
-redirects:
-- /coolnamehere/2007/06/16_perldoc.html
-- /post/2007/perldoc/
-- /2007/06/16/perldoc/
 slug: perldoc
 tags:
 - perl

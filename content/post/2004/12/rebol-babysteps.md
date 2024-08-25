@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2005/12/26_learn-rebol.html
+- /post/2005/learn-rebol/
+- /2004/12/25/rebol-babysteps/
 created: '2024-02-11 05:52:34'
 date: 2004-12-25 00:00:00+00:00
 description: ''
 fname: pub.post.2004.12.rebol-babysteps
 id: v3npg71e6y4aifiibvlz5f9
-redirects:
-- /coolnamehere/2005/12/26_learn-rebol.html
-- /post/2005/learn-rebol/
-- /2004/12/25/rebol-babysteps/
 series:
 - REBOL Babysteps
 slug: rebol-babysteps

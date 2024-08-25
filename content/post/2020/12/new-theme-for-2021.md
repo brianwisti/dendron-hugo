@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/12/new-theme-for-2021/
 created: '2024-08-25 16:21:13'
 date: 2020-12-07 07:16:55-08:00
 description: ''
 fname: pub.post.2020.12.new-theme-for-2021
 id: nxutdysb32u8pfy0no1p02v
-redirects:
-- /note/2020/12/new-theme-for-2021/
 syndication:
   mastodon: https://hackers.town/@randomgeek/105337729433550032
 tags:

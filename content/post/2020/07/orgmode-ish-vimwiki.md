@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/07/orgmode-ish-vimwiki/
 created: '2024-08-25 15:34:49'
 date: 2020-07-03 23:51:27-07:00
 description: ''
 fname: pub.post.2020.07.orgmode-ish-vimwiki
 id: 32x3mvt6usfs1figc2c0vq3
-redirects:
-- /note/2020/07/orgmode-ish-vimwiki/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104454330012908769
 tags:

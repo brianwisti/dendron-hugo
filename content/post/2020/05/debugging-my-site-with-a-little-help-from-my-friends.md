@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/
 created: '2024-08-25 14:19:49'
 date: '2020-05-09T03:25:00.000Z'
 description: ''
 fname: pub.post.2020.05.debugging-my-site-with-a-little-help-from-my-friends
 id: 7yy573gn3ff5s32llefzx1b
-redirects:
-- /note/2020/05/debugging-my-site-with-a-little-help-from-my-friends/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104136380782825124
 tags:

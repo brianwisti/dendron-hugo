@@ -1,12 +1,12 @@
 ---
+aliases:
+- /craft/2015/amicable-socks/
+- /2015/05/20/amicable-socks/
 created: '2024-02-23 13:13:20'
 date: 2015-05-20 00:00:00+00:00
 description: Because I made them for my ex, and we split on friendly terms
 fname: pub.post.2015.05.amicable-socks
 id: 5azwhzgwkr0hjsek3l0e86b
-redirects:
-- /craft/2015/amicable-socks/
-- /2015/05/20/amicable-socks/
 slug: amicable-socks
 tags:
 - knitting

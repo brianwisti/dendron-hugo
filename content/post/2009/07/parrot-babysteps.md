@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2009/07/11_parrot-babysteps.html
+- /post/2009/parrot-babysteps/
+- /2009/07/10/parrot-babysteps/
 created: '2024-02-10 16:09:28'
 date: 2009-07-10 00:00:00+00:00
 description: The introduction to Parrot Babysteps, my archived Parrot PIR tutorial.
 fname: pub.post.2009.07.parrot-babysteps
 id: yppvevmabyji7alyrj7m879
-redirects:
-- /coolnamehere/2009/07/11_parrot-babysteps.html
-- /post/2009/parrot-babysteps/
-- /2009/07/10/parrot-babysteps/
 series:
 - Parrot Babysteps
 tags:

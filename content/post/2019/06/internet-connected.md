@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2019/176/internet-connected/
 created: '2024-04-01 22:03:05'
 date: 2019-06-25
 description: ''
 fname: pub.post.2019.06.internet-connected
 id: rglydb6kgsbtye0j8mz2uto
-redirects:
-- /note/2019/176/internet-connected/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102336138300626217
 tags:

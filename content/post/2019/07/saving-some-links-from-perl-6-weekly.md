@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2019/204/saving-some-links-from-perl-6-weekly/
+- /note/2019/07/saving-some-links-from-perl-6-weekly/
 created: '2024-04-02 21:21:39'
 date: 2019-07-23
 description: ''
 fname: pub.post.2019.07.saving-some-links-from-perl-6-weekly
 id: s3uorivvx0ry2oe9a2gr4qa
-redirects:
-- /note/2019/204/saving-some-links-from-perl-6-weekly/
-- /note/2019/07/saving-some-links-from-perl-6-weekly/
 syndication:
   mastodon: https://hackers.town/@randomgeek/102491565963708275
 tags:

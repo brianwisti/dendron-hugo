@@ -1,4 +1,7 @@
 ---
+aliases:
+- /2020/04/30/taskwarrior-custom-reports/
+- /post/2020/04/taskwarrior-custom-reports/
 created: '2024-02-13 17:57:22'
 date: 2020-04-30 00:00:00+00:00
 description: 'I made a priority task to cut down on the priority tasks, and here we
@@ -7,9 +10,6 @@ description: 'I made a priority task to cut down on the priority tasks, and here
   '
 fname: pub.post.2020.04.taskwarrior-custom-reports
 id: eds8fbafxereer9y13479w7
-redirects:
-- /2020/04/30/taskwarrior-custom-reports/
-- /post/2020/04/taskwarrior-custom-reports/
 series:
 - Taskwarrior Babysteps
 slug: taskwarrior-custom-reports

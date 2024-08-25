@@ -1,12 +1,12 @@
 ---
+aliases:
+- /post/2017/making-a-mojo-link-checker/
+- /2017/04/11/making-a-mojo-link-checker/
 created: '2024-02-13 14:51:48'
 date: 2017-04-11 00:00:00+00:00
 description: ''
 fname: pub.post.2017.04.making-a-mojo-link-checker
 id: mfsbnk3iglnn6e8i5a511ja
-redirects:
-- /post/2017/making-a-mojo-link-checker/
-- /2017/04/11/making-a-mojo-link-checker/
 slug: making-a-mojo-link-checker
 tags:
 - perl

@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/99/sepia-sunburst/
+- /note/2020/04/sepia-sunburst/
 created: '2024-02-13 17:53:45'
 date: 2020-04-08 00:00:00+00:00
 description: ''
 fname: pub.post.2020.04.sepia-sunburst
 id: 7b99eqafvq3xaf746yg6opz
-redirects:
-- /note/2020/99/sepia-sunburst/
-- /note/2020/04/sepia-sunburst/
 slug: sepia-sunburst
 syndication:
   mastodon: https://hackers.town/@randomgeek/103964724861342191

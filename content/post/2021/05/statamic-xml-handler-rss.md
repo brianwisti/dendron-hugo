@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2021/05/statamix-xml-handler-rss/
 created: '2024-02-12 03:13:21'
 date: 2021-05-08 07:00:00+00:00
 description: ''
 fname: pub.post.2021.05.statamic-xml-handler-rss
 id: 0v7ahrtuew4wk3j1wf2szrr
-redirects:
-- /note/2021/05/statamix-xml-handler-rss/
 slug: statamic-xml-handler-rss
 tags:
 - site

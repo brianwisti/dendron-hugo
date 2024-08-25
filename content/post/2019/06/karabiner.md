@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2019/0002/
+- /note/2019/173/karabiner/
 created: '2024-04-01 22:04:22'
 date: 2019-06-22
 description: ''
 fname: pub.post.2019.06.karabiner
 id: 57npxco62m1unnfl5wssx6r
-redirects:
-- /note/2019/0002/
-- /note/2019/173/karabiner/
 tags:
 - macos
 - keyboard

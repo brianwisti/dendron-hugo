@@ -1,13 +1,13 @@
 ---
+aliases:
+- /emacs/2014/05/24_the-emacs-tutorial-as-elisp-tour.html
+- /post/2014/the-emacs-tutorial-as-elisp-tour/
+- /2014/05/24/the-emacs-tutorial-as-elisp-tour/
 created: '2024-02-22 16:48:50'
 date: 2014-05-24 00:00:00+00:00
 description: ''
 fname: pub.post.2014.05.the-emacs-tutorial-as-elisp-tour
 id: wb7vs9zhfvnben93jv0jse5
-redirects:
-- /emacs/2014/05/24_the-emacs-tutorial-as-elisp-tour.html
-- /post/2014/the-emacs-tutorial-as-elisp-tour/
-- /2014/05/24/the-emacs-tutorial-as-elisp-tour/
 slug: the-emacs-tutorial-as-elisp-tour
 tags:
 - emacs

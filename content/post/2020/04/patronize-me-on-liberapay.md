@@ -1,12 +1,12 @@
 ---
+aliases:
+- /note/2020/117/patronize-me-on-liberapay/
+- /note/2020/04/patronize-me-on-liberapay/
 created: '2024-02-13 17:50:39'
 date: 2020-04-26 00:00:00+00:00
 description: ''
 fname: pub.post.2020.04.patronize-me-on-liberapay
 id: eiqrcjyu650qkwa8rszwj97
-redirects:
-- /note/2020/117/patronize-me-on-liberapay/
-- /note/2020/04/patronize-me-on-liberapay/
 slug: patronize-me-on-liberapay
 syndication:
   mastodon: https://hackers.town/@randomgeek/104068641669767131

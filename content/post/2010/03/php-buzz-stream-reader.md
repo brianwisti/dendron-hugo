@@ -1,13 +1,13 @@
 ---
+aliases:
+- /coolnamehere/2010/03/12_php-buzz-stream-reader.html
+- /post/2010/php-buzz-stream-reader/
+- /2010/03/12/php-buzz-stream-reader/
 created: '2024-02-20 21:55:35'
 date: 2010-03-12 00:00:00+00:00
 description: ''
 fname: pub.post.2010.03.php-buzz-stream-reader
 id: 5fs142xw4hkzzhn8epjwtrc
-redirects:
-- /coolnamehere/2010/03/12_php-buzz-stream-reader.html
-- /post/2010/php-buzz-stream-reader/
-- /2010/03/12/php-buzz-stream-reader/
 slug: php-buzz-stream-reader
 tags:
 - php

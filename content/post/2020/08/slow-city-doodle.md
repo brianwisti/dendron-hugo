@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/08/slow-city-doodle/
 created: '2024-08-25 15:37:57'
 date: 2020-08-01 19:16:41-07:00
 description: ''
 fname: pub.post.2020.08.slow-city-doodle
 id: hj3ggeixx4p7c8qonxejxbd
-redirects:
-- /note/2020/08/slow-city-doodle/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104617719550214827
 tags:

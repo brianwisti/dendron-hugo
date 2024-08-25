@@ -1,11 +1,11 @@
 ---
+aliases:
+- /note/2020/05/clearing-the-tracks-as-we-go-is-part-of-the-fun/
 created: '2024-08-25 14:08:00'
 date: 2020-05-10 17:31:00-07:00
 description: ''
 fname: pub.post.2020.05.clearing-the-tracks-as-we-go-is-part-of-the-fun
 id: bnfy88dqcrxvprjs9i4tn56
-redirects:
-- /note/2020/05/clearing-the-tracks-as-we-go-is-part-of-the-fun/
 syndication:
   mastodon: https://hackers.town/@randomgeek/104148037728753261
 tags:

@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2018/01/28/barbaras-ruana-vest/
 created: '2024-02-26 03:58:26'
 date: 2018-01-28 00:00:00+00:00
 description: ''
 fname: pub.post.2018.01.barbaras-ruana-vest
 id: 7yqjoyzk1c5iglpuh92s0i2
-redirects:
-- /2018/01/28/barbaras-ruana-vest/
 slug: barbaras-ruana-vest
 tags:
 - knitting

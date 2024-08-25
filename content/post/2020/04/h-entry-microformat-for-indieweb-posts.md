@@ -1,11 +1,11 @@
 ---
+aliases:
+- /2020/04/26/h-entry-microformat-for-indieweb-posts/
 created: '2024-02-13 17:33:29'
 date: '2020-04-26T00:00:00.000Z'
 description: In which I go overboard with Hugo and Python for a quick Sunday task
 fname: pub.post.2020.04.h-entry-microformat-for-indieweb-posts
 id: tj7mzhcb0od812fpa8rfz40
-redirects:
-- /2020/04/26/h-entry-microformat-for-indieweb-posts/
 slug: h-entry-microformat-for-indieweb-posts
 syndication:
   mastodon: https://hackers.town/@randomgeek/104066683729018365
