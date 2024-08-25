@@ -1,10 +1,11 @@
 baseURL = 'https://randomgeekery.org'
 languageCode = 'en-us'
+sectionPagesMenu = 'main'
 title = 'Random Geekery'
 theme = "rgb-dendron"
 
-#[outputs]
-#home = ["HTML", "RSS", "JSON"]
+[outputs]
+home = ["HTML", "RSS"]
 
 [markup]
   [markup.goldmark]
@@ -20,9 +21,32 @@ theme = "rgb-dendron"
   DateForm = "Monday, 2 January, 2006"
   TimeForm = "Monday, 2 January, 2006, at 3:04 pm"
   TimestampForm = "2006-01-02T15:04:00-07:00"
+  [params.author]
+    name = "Brian Wisti"
+    bio = """
+    Caffeinated, occasionally crafty geek in <span class="p-locality">Tucson</span>.
+    I like <span class="p-category">FOSS</span>,
+    <a class="p-category" href="/tags/drawing">drawing</a>,
+    and <a class="p-category" href="/tags/knitting">yarn</a>.
+    """
+    [params.author.pronouns]
+      href = "https://pronoun.is/he"
+      description = "/he/him/his"
+
+    [[params.author.social]]
+      service = "Mastodon"
+      href = "https://hackers.town/@randomgeek"
+      class = "u-url"
+    [[params.author.social]]
+      service = "Liberapay"
+      href = "https://liberapay.com/randomgeek"
+      class = "u-url"
+
   [params.dendron]
     rootPath = "~/Documents/dendron-brain"
     vaultPath = "notes"
 
 [taxonomies]
+  category = "categories"
+  series = "series"
   tag = "tags"

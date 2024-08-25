@@ -1,5 +1,7 @@
+.env
 .hugo_build.lock
 .pytest_cache
+.python-version
 .vscode
 dendron.cache.json
 public/

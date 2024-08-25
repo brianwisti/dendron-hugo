@@ -53,6 +53,9 @@ class Note:
         post["fname"] = path.stem
         post["description"] = post.metadata.pop("desc", "")
 
+        if "redirects" in post.metadata:
+            post["aliases"] = post.metadata.pop("redirects")
+
         for field in TIMESTAMP_FIELDS:
             timestamp = int(post.metadata[field])
             post[field] = arrow.get(timestamp).format(TIMESTAMP_FORMAT)
