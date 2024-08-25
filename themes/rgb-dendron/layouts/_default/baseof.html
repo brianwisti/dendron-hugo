@@ -4,6 +4,7 @@
     <body>
         <main class="container">
             <header>
+                {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
                 {{ partial "breadcrumb.html" . }}
                 {{- partial "header.html" . -}}
                 {{- block "header" . }}{{- end }}

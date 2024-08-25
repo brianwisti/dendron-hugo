@@ -31,7 +31,7 @@
     --dialog-backdrop: light-dark(rgba(0, 0, 0, 0.1), rgba(255, 255, 255, 0.1));
 }
 
-article {
+main {
     a[href^="/"] {
         font-weight: bold;
     }
@@ -43,9 +43,29 @@ article {
     a[href^="/card"]::before {
         content: "🗃️";
     }
+
+    a[href^="/config"]::before {
+        content: "⚙️";
+    }
 }
 
-li.meta-li {
+main > header > nav {
+    border-bottom: var(--border-size-1) solid var(--text-muted);
+    ul {
+        display: flex;
+        justify-content: space-between;
+        list-style: none;
+    }
+}
+
+.entry-summary {
     display: flex;
     justify-content: space-between;
+}
+
+main > footer {
+    border-top: var(--border-size-1) solid var(--text-muted);
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0;
 }

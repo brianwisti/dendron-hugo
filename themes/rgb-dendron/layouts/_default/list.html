@@ -1,6 +1,7 @@
 {{- define "main" }}
   {{ .Content }}
   <section>
+    <h2>Entries</h2>
     <ul>
       {{ range .Pages }}
         {{ .Render "li"}}

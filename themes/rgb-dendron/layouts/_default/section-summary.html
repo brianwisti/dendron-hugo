@@ -2,14 +2,13 @@
 {{ $pages := .RegularPagesRecursive }}
 {{ $len := len $pages }}
 
-  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  <span>
-    {{ with $len }}
-      {{ $len }}
-      {{ if eq . 1 }}
-        {{ $section.Type }}
-      {{ else }}
-        {{ $section.Type | pluralize }}
-      {{ end }}
+<span>
+  {{ with $len }}
+    {{ $len }}
+    {{ if eq . 1 }}
+      entry
+    {{ else }}
+      entries
     {{ end }}
-  </span>
+  {{ end }}
+</span>

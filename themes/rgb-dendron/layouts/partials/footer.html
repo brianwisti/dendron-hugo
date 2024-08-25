@@ -1,14 +1,16 @@
 <footer>
-    {{ partial "backlinks.html" . }}
-    {{ with .Params.updated }}
-        <p>Updated: {{ . }}</p>
-    {{ end }}
+    <section>
+        <header><h2>Meta</h2></header>
+        <ul>
+            <li><a href="/tags/">Tags</a></li>
+            <li><a href="/categories/">Categories</a></li>
+            <li><a href="/series/">Series</a></li>
+        </ul>
+    </section>
     <section>
         <p>  This work is licensed under a
             <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
           </p>
-    </section>
-    <section>
         <p>Liberapay is patronage for the FOSS and CC community.</p>
         <script src="https://liberapay.com/randomgeek/widgets/button.js"></script>
         <noscript>

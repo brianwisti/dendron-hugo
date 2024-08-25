@@ -1,11 +1,20 @@
-<li class="meta-li">
-  {{ if .IsSection }}
-    {{ .Render "section-summary" }}
-  {{ else }}
+<li class="entry-summary">
+  <span class="entry-title">
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-    <span>
-      {{ partial "generic-meta-li" . }}
-      {{ .Render "li-meta" }}
-    </span>
-  {{ end }}
+    {{ with .Description }}
+      <p>{{ . }}</p>
+    {{ else }}
+      {{ with .Summary }}
+        <p>{{ . }}</p>
+      {{ end }}
+    {{ end }}
+  </span>
+  <span>
+    {{ if .IsSection }}
+      {{ .Render "section-summary" }}
+    {{ else }}
+        {{ partial "generic-meta-li" . }}
+        {{ .Render "li-meta" }}
+    {{ end }}
+  </span>
 </li>
